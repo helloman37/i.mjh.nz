@@ -7991,13 +7991,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20220110155500 +0000" stop="20220110164700 +0000">
-    <title>The Village</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600461" start="20220110164700 +0000" stop="20220110174300 +0000">
     <title>Tipping Point</title>
     <subtitles type="teletext"/>
@@ -10549,12 +10542,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20220110150300 +0000" stop="20220110160500 +0000">
-    <title>The Equalizer</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600467" start="20220110160500 +0000" stop="20220110163300 +0000">
     <title>Explore TV-Viking</title>
     <subtitles type="teletext"/>
@@ -11568,13 +11555,6 @@
     <title>The Equalizer</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20220110142800 +0000" stop="20220110163600 +0000">
-    <title>Cop Land</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20220110163600 +0000" stop="20220110173300 +0000">
@@ -20143,13 +20123,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070681" start="20220110151700 +0000" stop="20220110160900 +0000">
-    <title>The FBI Declassified</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070681" start="20220110160900 +0000" stop="20220110171100 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
@@ -23391,13 +23364,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20220110151700 +0000" stop="20220110160900 +0000">
-    <title>The FBI Declassified</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070685" start="20220110160900 +0000" stop="20220110171100 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
@@ -24699,12 +24665,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070686" start="20220110153000 +0000" stop="20220110163000 +0000">
-    <title>Heroshi Japanese Kitchen</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070686" start="20220110163000 +0000" stop="20220110173000 +0000">
     <title>Clogau Gold of Wales</title>
     <rating system="Freeview">
@@ -25763,12 +25723,6 @@
     <title>Brazilian Quartz Carnival</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070687" start="20220110155000 +0000" stop="20220110165000 +0000">
-    <title>JAG</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070687" start="20220110165000 +0000" stop="20220110172000 +0000">
@@ -28900,12 +28854,6 @@
   </programme>
   <programme channel="tv.101406070688" start="20220117160000 +0000" stop="20220117163000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070689" start="20220110155900 +0000" stop="20220110160000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -33426,13 +33374,6 @@
     <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.3201026102E1" start="20220110153000 +0000" stop="20220110163000 +0000">
-    <title>Old People's Home For 4 Year Olds</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20220110163000 +0000" stop="20220110173000 +0000">
@@ -42035,12 +41976,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203200327" start="20220110133000 +0000" stop="20220110160000 +0000">
-    <title>The King's Choice</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203200327" start="20220110160000 +0000" stop="20220110180500 +0000">
     <title>Foxtrot</title>
     <rating system="Freeview">
@@ -42581,16 +42516,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220110185929 +0000" stop="20220110190924 +0000">
-    <title>Mundo Gustavo S1E5</title>
-    <desc>Gustavo and his brother shred LA with Madars Apse and meet up with Jamie Foy at Street League in Arizona.</desc>
-    <sub-title>Gustavo on tour around the USA</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110190924 +0000" stop="20220110192027 +0000">
-    <title>Mundo Gustavo S1E6</title>
-    <desc>Gustavo rehabilitates at the state-of-the-art-facilities at Red Bull’s Athlete Performance Centre in Salzburg.</desc>
-    <sub-title>The road to recovery</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220110192027 +0000" stop="20220110200548 +0000">
     <title>Back to Life</title>
     <desc>Torin Yater-Wallace battles for his dream becoming the world’s greatest professional skier.</desc>
@@ -42893,6 +42818,16 @@
   <programme channel="tv.redbull.tv" start="20220111200033 +0000" stop="20220111202033 +0000">
     <title></title>
     <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111202033 +0000" stop="20220111204555 +0000">
+    <title>No Small Feat S2E1</title>
+    <desc>Meet Annie Reickert and Moana Jones as they carve out careers as professional surfers.</desc>
+    <sub-title>All in a day's work</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111204555 +0000" stop="20220111211445 +0000">
+    <title>No Small Feat S2E2</title>
+    <desc>Annie Reickert surfs at Jaws, while Moana Jones competes in the Vans Triple Crown of Surfing.</desc>
+    <sub-title>Chasing the crown</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
