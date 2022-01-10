@@ -42817,16 +42817,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220110192027 +0000" stop="20220110200548 +0000">
-    <title>Back to Life</title>
-    <desc>Torin Yater-Wallace battles for his dream becoming the world’s greatest professional skier.</desc>
-    <sub-title>The Torin Yater-Wallace story</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110200548 +0000" stop="20220110202548 +0000">
-    <title>Dakar Rally SE10</title>
-    <desc>Catch up with all the off-road action and highlights from the eighth stage of the Dakar Rally in Saudi Arabia.</desc>
-    <sub-title>Dakar Daily – Stage 8</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220110202548 +0000" stop="20220110212713 +0000">
     <title>Anna Gasser – The Spark Within</title>
     <desc>An intimate movie on Anna Gasser and how she changed snowboarding forever, by constantly pushing progression.</desc>
@@ -42888,7 +42878,7 @@
     <sub-title>Winner takes all</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220111010229 +0000" stop="20220111012229 +0000">
-    <title>Dakar Rally SE10</title>
+    <title>Dakar Rally S2E10</title>
     <desc>Catch up with all the off-road action and highlights from the eighth stage of the Dakar Rally in Saudi Arabia.</desc>
     <sub-title>Dakar Daily – Stage 8</sub-title>
   </programme>
@@ -43129,6 +43119,16 @@
     <title>No Small Feat S2E2</title>
     <desc>Annie Reickert surfs at Jaws, while Moana Jones competes in the Vans Triple Crown of Surfing.</desc>
     <sub-title>Chasing the crown</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111211445 +0000" stop="20220111215850 +0000">
+    <title>Red Bull Soapbox Race S6E3</title>
+    <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
+    <sub-title>Lisbon, Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111215850 +0000" stop="20220111224612 +0000">
+    <title>La Liste</title>
+    <desc>Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the steepest peaks in the Alps.</desc>
+    <sub-title>Redefining steep skiing</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
