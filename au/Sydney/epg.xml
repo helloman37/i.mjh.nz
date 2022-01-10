@@ -18712,18 +18712,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20220116080000 +0000" stop="20220116083100 +0000">
-    <title>Pawn Stars</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020523" start="20220116080000 +0000" stop="20220116113000 +0000">
     <title>Big Bash</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20220116080000 +0000" stop="20220116083100 +0000">
+    <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20220116113000 +0000" stop="20220116120000 +0000">
@@ -42386,26 +42386,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220110202548 +0000" stop="20220110212713 +0000">
-    <title>Anna Gasser – The Spark Within</title>
-    <desc>An intimate movie on Anna Gasser and how she changed snowboarding forever, by constantly pushing progression.</desc>
-    <sub-title>An intimate portrait of a snowboard superstar</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110212713 +0000" stop="20220110213723 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 1</title>
-    <desc>Get to grips with the toughest test motorsport has to offer by understanding the basic principles of the race.</desc>
-    <sub-title>Jewel in the crown</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110213723 +0000" stop="20220110214912 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 2</title>
-    <desc>The Dakar demands that each individual competitor, vehicle and mechanic must work together in complete unity.</desc>
-    <sub-title>Tools, tyres &amp; torture</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110214912 +0000" stop="20220110220021 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 3</title>
-    <desc>We’ve read the Dakar regulations so you don’t have to – watch this to know your rulebook from your roadbook.</desc>
-    <sub-title>Rules of the road</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220110220021 +0000" stop="20220110221021 +0000">
     <title>From Dawn till Dust: Discover Dakar part 4</title>
     <desc>The Dakar isn't won by sheer speed alone – just as important as pace is navigation on the 8,000km route.</desc>
@@ -42698,6 +42678,11 @@
     <title>La Liste</title>
     <desc>Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the steepest peaks in the Alps.</desc>
     <sub-title>Redefining steep skiing</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111224612 +0000" stop="20220112002445 +0000">
+    <title>Valley Uprising</title>
+    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <sub-title>Pushing the limits of climbing</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
