@@ -1062,14 +1062,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220113233000 +0000" stop="20220114000000 +0000">
-    <title>ABC News Video Lab</title>
+    <title>The World in 2021</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220113233000 +0000" stop="20220114000000 +0000">
-    <title>The World in 2021</title>
-    <subtitles type="teletext"/>
+    <title>ABC News Video Lab</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -42581,11 +42581,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220110172055 +0000" stop="20220110185929 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220110185929 +0000" stop="20220110190924 +0000">
     <title>Mundo Gustavo S1E5</title>
     <desc>Gustavo and his brother shred LA with Madars Apse and meet up with Jamie Foy at Street League in Arizona.</desc>
@@ -42602,8 +42597,9 @@
     <sub-title>The Torin Yater-Wallace story</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220110200548 +0000" stop="20220110202548 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
+    <title>Dakar Rally SE10</title>
+    <desc>Catch up with all the off-road action and highlights from the eighth stage of the Dakar Rally in Saudi Arabia.</desc>
+    <sub-title>Dakar Daily – Stage 8</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220110202548 +0000" stop="20220110212713 +0000">
     <title>Anna Gasser – The Spark Within</title>
@@ -42666,8 +42662,9 @@
     <sub-title>Winner takes all</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220111010229 +0000" stop="20220111012229 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
+    <title>Dakar Rally SE10</title>
+    <desc>Catch up with all the off-road action and highlights from the eighth stage of the Dakar Rally in Saudi Arabia.</desc>
+    <sub-title>Dakar Daily – Stage 8</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220111012229 +0000" stop="20220111020554 +0000">
     <title>Red Bull Soapbox Race S6E3</title>
@@ -42878,6 +42875,24 @@
     <title>Long Days</title>
     <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
     <sub-title>There are no short film days when you're making a ski film</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111193055 +0000" stop="20220111194517 +0000">
+    <title>Behind the Bullet S1E12</title>
+    <desc>The World Championship goes down to the wire at the final stop of the season at the MXGP of Città di Mantova.</desc>
+    <sub-title>Winner takes all</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111194517 +0000" stop="20220111195715 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111195715 +0000" stop="20220111200033 +0000">
+    <title>FIM Hard Enduro World Championship 2021</title>
+    <desc>Enjoy a montage of the best of Wade Young as he takes third place in the FIM Hard Enduro World Championship.</desc>
+    <sub-title>Wade Young's Hard Enduro season</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111200033 +0000" stop="20220111202033 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
