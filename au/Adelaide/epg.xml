@@ -42840,20 +42840,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220110155709 +0000" stop="20220110162135 +0000">
-    <title>Moto Maverick</title>
-    <desc>Ryan Sipes examines the current state of motocross racing through a stylised and cinematic lens.</desc>
-    <sub-title>Experimental motocross film starring Ryan Sipes</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110162135 +0000" stop="20220110170857 +0000">
-    <title>La Liste</title>
-    <desc>Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the steepest peaks in the Alps.</desc>
-    <sub-title>Redefining steep skiing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110170857 +0000" stop="20220110172055 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220110172055 +0000" stop="20220110185929 +0000">
     <title>Valley Uprising</title>
     <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
@@ -43136,6 +43122,21 @@
     <title>Toby Price: Ridin’ Shotgun</title>
     <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
     <sub-title>Finke Desert Race 2021</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111171720 +0000" stop="20220111175500 +0000">
+    <title>From the Inside Out</title>
+    <desc>On a trip to British Columbia, freeriding friends, The Coastal Crew, document their joy of mountain biking.</desc>
+    <sub-title>This is freeride mountain biking</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111175500 +0000" stop="20220111184253 +0000">
+    <title>Shaping Jordy</title>
+    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111184253 +0000" stop="20220111193055 +0000">
+    <title>Long Days</title>
+    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
+    <sub-title>There are no short film days when you're making a ski film</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
