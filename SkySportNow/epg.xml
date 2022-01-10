@@ -2,1270 +2,6 @@
   <channel id="60">
     <display-name>sky-sport-1</display-name>
   </channel>
-  <programme channel="60" start="20220109121000 +0000" stop="20220109140500 +0000">
-    <title>Gallagher Premiership (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Harlequins host Exeter Chiefs at Twickenham Stoop.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220109140500 +0000" stop="20220109143000 +0000">
-    <title>All Access: Richie Mo'unga (M)</title>
-    <desc>Sky Sport Presents: All Access: Crusaders superstar Richie Mo'unga gives Sky Sport unprecedented access into the life of a Super Rugby player. He’s let our cameras into his inner sanctum for seven days, showing us how he balances rugby and family.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20220109143000 +0000" stop="20220109145500 +0000">
-    <title>All Access: Tom Robinson (M)</title>
-    <desc>Sky Sport Presents: All Access: Blues superstar Tom Robinson gives Sky Sport unprecedented access into the life a Super Rugby player. He’s let our cameras into his inner sanctum for seven days, showing us how he balances rugby and home life.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20220109145500 +0000" stop="20220109171000 +0000">
-    <title>Gallagher Premiership (G)</title>
-    <desc>LIVE coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220109171000 +0000" stop="20220109184000 +0000">
-    <title>Land Rover 1st XV Rugby: AKG v KNC (G)</title>
-    <desc>Join us for coverage of the 2021 Land Rover 1st XV Rugby season as Auckland Grammar hosts King's College.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220109184000 +0000" stop="20220109190000 +0000">
-    <title>BBL: MR v ST Mini (G)</title>
-    <desc>Mini highlights of the 40th match of the Big Bash League between the Melbourne Renegades and Sydney Thunder at Marvel Stadium, Melbourne.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="60" start="20220109190000 +0000" stop="20220109193000 +0000">
-    <title>Japan Rugby League One (G)</title>
-    <desc>Highlight coverage of Japan Rugby League One, as Tokyo Sungoliath host Toshiba Brave Lupus Tokyo at Azinomoto Stadium, Tokyo.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220109193000 +0000" stop="20220109200000 +0000">
-    <title>Japan Rugby League One (G)</title>
-    <desc>Highlights coverage of Japan Rugby League One, as Kobelco Kobe Steelers host Shining Arcs Tokyo-Bay Urayasu at Noevir Stadium, Hyogo.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220109200000 +0000" stop="20220109220000 +0000">
-    <title>French Top 14 (G)</title>
-    <desc>Replay coverage from Round 15 of the French Top 14 season as Racing 92 host Clermont Auvergne at Paris La Défense Arena.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220109220000 +0000" stop="20220109223000 +0000">
-    <title>Road To Beijing: Nico Porteous (G)</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20220109223000 +0000" stop="20220110003000 +0000">
-    <title>NBL R6: BRI v NZ Breakers (G)</title>
-    <desc>Join us for coverage from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="60" start="20220110003000 +0000" stop="20220110020000 +0000">
-    <title>1st XV Rugby: Wgtn Final: SCT v SIL (G)</title>
-    <desc>Join us for coverage of the Land Rover 1st XV Wellington Final as Scots College take on St Pats Silverstream for the title.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220110020000 +0000" stop="20220110040000 +0000">
-    <title>Japan Rugby League One (G)</title>
-    <desc>Replay coverage of Japan Rugby League One, as Tokyo Sungoliath host Toshiba Brave Lupus Tokyo at Azinomoto Stadium, Tokyo.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220110040000 +0000" stop="20220110060000 +0000">
-    <title>Japan Rugby League One (G)</title>
-    <desc>Replay coverage of Japan Rugby League One, as Kobelco Kobe Steelers host Shining Arcs Tokyo-Bay Urayasu at Noevir Stadium, Hyogo.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220110060000 +0000" stop="20220110063000 +0000">
-    <title>Playmakers: Brooke Tuatao (G)</title>
-    <desc>Ravinder Hunia speaks with elite crossfitter and former bodybuilder Brooke Tuatao who is the founder of the fitness movement "Fitmumz", for mothers in South Auckland.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20220110063000 +0000" stop="20220110070000 +0000">
-    <title>Road To Beijing: Finn Bilous (G)</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20220110070000 +0000" stop="20220110073000 +0000">
-    <title>French Top 14 Highlights Show (G)</title>
-    <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20220110073000 +0000" stop="20220110093000 +0000">
-    <title>NBL R6: BRI v NZ Breakers (G)</title>
-    <desc>Join us for coverage from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="60" start="20220110093000 +0000" stop="20220110110000 +0000">
-    <title>Gallagher Premiership (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
-    <category>Rugby</category>
-  </programme>
-  <channel id="61">
-    <display-name>sky-sport-2</display-name>
-  </channel>
-  <programme channel="61" start="20220109110000 +0000" stop="20220109111000 +0000">
-    <title>BBL: PS v ST Hls (G)</title>
-    <desc>Highlights of the 38th match of the Big Bash League match between the Perth Scorchers and Sydney Thunder at Metricon Stadium on the Gold Coast.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20220109130000 +0000" stop="20220109170000 +0000">
-    <title>LIVE: Snooker: Masters (G)</title>
-    <desc>World Snooker Tour: Masters 2022: Day 1 Afternoon Session: One of the Triple Crown events and the second longest running tournament in Snooker returns as Snooker's best compete at Alexandra Palace, London, England.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="61" start="20220109170000 +0000" stop="20220109173000 +0000">
-    <title>AO Classics: Navratilova V Sukova 1984 (G)</title>
-    <desc>Martina Navratilova goes up against Helena Sukova in the Semi-Finals of the 1984 Australian Open, hoping to win her seventh Grand Slam title in a row and complete a calendar Grand Slam.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220109173000 +0000" stop="20220109180000 +0000">
-    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
-    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220109180000 +0000" stop="20220109200000 +0000">
-    <title>Gallagher Premiership (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Bristol Bears host Sale Sharks at Ashton Gate.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20220109200000 +0000" stop="20220109220000 +0000">
-    <title>Gallagher Premiership (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Harlequins host Exeter Chiefs at Twickenham Stoop.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20220109220000 +0000" stop="20220109223000 +0000">
-    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
-    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220109223000 +0000" stop="20220109224500 +0000">
-    <title>Road To Beijing: Finn Bilous (G)</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="61" start="20220109224500 +0000" stop="20220109230000 +0000">
-    <title>Road To Beijing: Nico Porteous (G)</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="61" start="20220109230000 +0000" stop="20220110000000 +0000">
-    <title>The Ashes: 4th Test Day 5 Hls (G)</title>
-    <desc>Highlights from Day 5 of the fourth Ashes Test between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20220110000000 +0000" stop="20220110003000 +0000">
-    <title>AO Classics: Navratilova V Sukova 1984 (G)</title>
-    <desc>Martina Navratilova goes up against Helena Sukova in the Semi-Finals of the 1984 Australian Open, hoping to win her seventh Grand Slam title in a row and complete a calendar Grand Slam.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220110003000 +0000" stop="20220110010000 +0000">
-    <title>AO Classics: Kyrgios v Seppi 2015 (G)</title>
-    <desc>Thrilling match between Nick Kyrgios and Andreas Seppi in the Quarter-Finals of the 2015 Australian Open.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220110010000 +0000" stop="20220110013000 +0000">
-    <title>Australian Open Flashbacks (G)</title>
-    <desc>Former champions and finalists reflect on their biggest matches and moments at the Australian Open, providing an insight to the culture of tennis both on and off the court the past 40 years.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220110013000 +0000" stop="20220110053000 +0000">
-    <title>LIVE: Adelaide International 2: Day 1 (G)</title>
-    <desc>LIVE - ATP 250: Adelaide International 2. Tune in for all the action from Day 1 of the tournament as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220110053000 +0000" stop="20220110063000 +0000">
-    <title>ATP Cup: Final Hls (G)</title>
-    <desc>Highlights coverage of the ATP Cup, the premier international team event in men’s tennis. Tune in for all the action of the Final from the Sydney Olympic Park in Sydney, Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220110063000 +0000" stop="20220110073000 +0000">
-    <title>ATP Cup: Review Show (G)</title>
-    <desc>Tune in for the review of the 2022 ATP Cup, the premier international team event in men’s tennis.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220110073000 +0000" stop="20220110080000 +0000">
-    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
-    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20220110080000 +0000" stop="20220110083000 +0000">
-    <title>French Top 14 Highlights Show (G)</title>
-    <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20220110083000 +0000" stop="20220110090000 +0000">
-    <title>Glory Days (M)</title>
-    <desc>Former and current sport stars sit down in the Stan Sport theatre and watch back some classic matches over the years.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20220110090000 +0000" stop="20220110093000 +0000">
-    <title>Glory Days (M)</title>
-    <desc>Former and current sport stars sit down in the Stan Sport theatre and watch back some classic matches over the years.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20220110093000 +0000" stop="20220110110000 +0000">
-    <title>LIVE: Adelaide International 2: Day 1 (G)</title>
-    <desc>LIVE - ATP 250: Adelaide International 2. Tune in for all the action from Day 1 of the tournament as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <channel id="62">
-    <display-name>sky-sport-3</display-name>
-  </channel>
-  <programme channel="62" start="20220109110000 +0000" stop="20220109120000 +0000">
-    <title>LIVE: BBL: SS v PS (G)</title>
-    <desc>LIVE coverage of the 42nd match of the Big Bash League between the Sydney Sixers and Perth Scorchers at C.ex Coffs International Stadium, Coffs Harbour.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109120000 +0000" stop="20220109130000 +0000">
-    <title>RSA v IND: 2nd Test Day 4 Hls (G)</title>
-    <desc>Highlights coverage from Day 4 of the second Test Match between South Africa and India at SuperSport Park, Centurion.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109130000 +0000" stop="20220109160000 +0000">
-    <title>BBL: MR v BH (G)</title>
-    <desc>Replay coverage of the 37th match of the Big Bash League between the Melbourne Renegades and Brisbane Heat at GMHBA Stadium, Geelong.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109160000 +0000" stop="20220109163000 +0000">
-    <title>BBL: PS v ST Hls (G)</title>
-    <desc>Highlights of the 38th match of the Big Bash League match between the Perth Scorchers and Sydney Thunder at Metricon Stadium on the Gold Coast.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109163000 +0000" stop="20220109170000 +0000">
-    <title>IND v NZ: Ajaz Patel's 10/119 (G)</title>
-    <desc>In New Zealand's second Test Match against India, Ajaz Patel becomes only the third man in Test Match history to take all 10 wickets in an innings.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109170000 +0000" stop="20220109190000 +0000">
-    <title>The Ashes: 4th Test Day 5 (G)</title>
-    <desc>Replay coverage from Day 5 of the fourth Ashes Test between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109190000 +0000" stop="20220109193000 +0000">
-    <title>BBL: BH v HH Hls (G)</title>
-    <desc>Highlights of the 41st match of the Big Bash League between the Brisbane Heat and Hobart Hurricanes at The Gabba, Brisbane.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109193000 +0000" stop="20220109200000 +0000">
-    <title>BBL: PS v ST Hls (G)</title>
-    <desc>Highlights of the 38th match of the Big Bash League match between the Perth Scorchers and Sydney Thunder at Metricon Stadium on the Gold Coast.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109200000 +0000" stop="20220109210000 +0000">
-    <title>The Ashes: 4th Test Day 5 Hls (G)</title>
-    <desc>Highlights from Day 5 of the fourth Ashes Test between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109210000 +0000" stop="20220109213000 +0000">
-    <title>BBL: AS v HH Hls (G)</title>
-    <desc>Highlights of the 35th match of the Big Bash League between the Adelaide Strikers and Hobart Hurricanes at the Adelaide Oval, Adelaide.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109213000 +0000" stop="20220109220000 +0000">
-    <title>BBL: MR v HH Hls (G)</title>
-    <desc>Highlights of the 37th match of the Big Bash League between the Melbourne Renegades and Brisbane Heat at GMHBA Stadium, Geelong.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109220000 +0000" stop="20220109223000 +0000">
-    <title>BBL: MR v ST Hls (G)</title>
-    <desc>Highlights of the 40th match of the Big Bash League between the Melbourne Renegades and Sydney Thunder at Marvel Stadium, Melbourne.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109223000 +0000" stop="20220109230000 +0000">
-    <title>BBL: BH v HH Mini (G)</title>
-    <desc>Mini highlights of the 41st match of the Big Bash League between the Brisbane Heat and Hobart Hurricanes at The Gabba, Brisbane.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220109230000 +0000" stop="20220110024000 +0000">
-    <title>BBL: SS v PS (G)</title>
-    <desc>Replay coverage of the 42nd match of the Big Bash League between the Sydney Sixers and Perth Scorchers at C.ex Coffs International Stadium, Coffs Harbour.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220110024000 +0000" stop="20220110065000 +0000">
-    <title>LIVE: BBL: HH v ST (G)</title>
-    <desc>LIVE coverage of the 44th match of the Big Bash League between the Hoabrt Hurricanes and Sydney Thunder at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220110065000 +0000" stop="20220110071000 +0000">
-    <title>BBL: BH v HH Mini (G)</title>
-    <desc>Mini highlights of the 41st match of the Big Bash League between the Brisbane Heat and Hobart Hurricanes at The Gabba, Brisbane.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220110071000 +0000" stop="20220110073000 +0000">
-    <title>BBL: SS v PS Mini (G)</title>
-    <desc>Mini highlights of of the 42nd match of the Big Bash League between the Sydney Sixers and Perth Scorchers at C.ex Coffs International Stadium, Coffs Harbour.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220110073000 +0000" stop="20220110080000 +0000">
-    <title>BBL: MR v HH Hls (G)</title>
-    <desc>Highlights of the 37th match of the Big Bash League between the Melbourne Renegades and Brisbane Heat at GMHBA Stadium, Geelong.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220110080000 +0000" stop="20220110110000 +0000">
-    <title>LIVE: BBL: MS v AS (G)</title>
-    <desc>LIVE coverage of the 43rd match of the Big Bash League between the Melbourne Stars and Adelaide Strikers at the MCG, Melbourne.</desc>
-    <category>Cricket</category>
-  </programme>
-  <channel id="63">
-    <display-name>sky-sport-4</display-name>
-  </channel>
-  <programme channel="63" start="20220109110000 +0000" stop="20220109113000 +0000">
-    <title>LIVE: ATP Cup: Final (G)</title>
-    <desc>LIVE coverage of the ATP Cup, the premier international team event in men’s tennis. Tune in for all the action of the Final from the Sydney Olympic Park in Sydney, Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="63" start="20220109113000 +0000" stop="20220109120000 +0000">
-    <title>AO Classics: Navratilova V Sukova 1984 (G)</title>
-    <desc>Martina Navratilova goes up against Helena Sukova in the Semi-Finals of the 1984 Australian Open, hoping to win her seventh Grand Slam title in a row and complete a calendar Grand Slam.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="63" start="20220109120000 +0000" stop="20220109123000 +0000">
-    <title>AO Classics: Kyrgios v Seppi 2015 (G)</title>
-    <desc>Thrilling match between Nick Kyrgios and Andreas Seppi in the Quarter-Finals of the 2015 Australian Open.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="63" start="20220109123000 +0000" stop="20220109130000 +0000">
-    <title>Australian Open Flashbacks (G)</title>
-    <desc>Former champions and finalists reflect on their biggest matches and moments at the Australian Open, providing an insight to the culture of tennis both on and off the court the past 40 years.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="63" start="20220109130000 +0000" stop="20220109140000 +0000">
-    <title>Wimbledon: Day 13 Hls (G)</title>
-    <desc>Sky Sport brings you highlights from Day 13 - the final day - of the 2021 Championships from the grass courts of Wimbledon in London.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="63" start="20220109140000 +0000" stop="20220109143000 +0000">
-    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
-    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="63" start="20220109143000 +0000" stop="20220109163000 +0000">
-    <title>A-League Women (G)</title>
-    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="63" start="20220109163000 +0000" stop="20220109170000 +0000">
-    <title>NRL Grand Final: PEN v SOU Hls (G)</title>
-    <desc>Join Sky Sport for Highlight action of the Grand Final of the 2021 NRL Premiership as the Penrith Panthers take on the South Sydney Rabbitohs from Suncorp Stadium, Brisbane.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220109170000 +0000" stop="20220109173000 +0000">
-    <title>2021 Storm Wins (G)</title>
-    <desc>Highlights of the Round 9 match of the NRL Premiership between the South Sydney Rabbitohs and Melbourne Storm from Stadium Australia in Sydney.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220109173000 +0000" stop="20220109180000 +0000">
-    <title>2021 Storm Wins (G)</title>
-    <desc>Highlights of the Round 10 match of the NRL Premiership between Melbourne Storm and the St George Illawarra Dragons from Suncorp Stadium in Brisbane.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220109180000 +0000" stop="20220109183000 +0000">
-    <title>2021 Storm Wins (G)</title>
-    <desc>Highlights of the Round 11 match of the NRL Premiership between the Canberra Raiders and Melbourne Storm from GIO Stadium in Canberra.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220109183000 +0000" stop="20220109190000 +0000">
-    <title>Women's SL SF St Helens v Castleford Hls (G)</title>
-    <desc>Join Sky Sport for highlight coverage of the first Semi-Final of the 2021 Women's Super League, St Helens take on Castleford.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220109190000 +0000" stop="20220109230000 +0000">
-    <title>LIVE: Snooker: Masters (G)</title>
-    <desc>Masters Day 1 Evening Session: One of the Triple Crown events and the second longest-running tournament in Snooker returns as the top players compete at Alexandra Palace, London. Neil Robertson takes on Anthony McGill in the 1st round.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="63" start="20220109230000 +0000" stop="20220110070000 +0000">
-    <title>LIVE: Tennis: AO Qualifying: Day 1 (G)</title>
-    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 1 from Melbourne Park in Melbourne, Victoria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="63" start="20220110070000 +0000" stop="20220110073000 +0000">
-    <title>2021 Rabbitohs Wins (G)</title>
-    <desc>Highlights of the Round 2 match of the NRL Premiership between the Manly Sea Eagles and the South Sydney Rabbitohs from Lottoland in Sydney.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220110073000 +0000" stop="20220110080000 +0000">
-    <title>2021 Rabbitohs Wins (G)</title>
-    <desc>Highlights of the Round 3 match of the NRL Premiership between the South Sydney Rabbitohs and the Sydney Roosters from Stadium Australia in Sydney.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220110080000 +0000" stop="20220110083000 +0000">
-    <title>2021 Rabbitohs Wins (G)</title>
-    <desc>Highlights of the Round 4 match of the NRL Premiership between the Canterbury Bulldogs and the South Sydney Rabbitohs from Stadium Australia in Sydney.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220110083000 +0000" stop="20220110090000 +0000">
-    <title>2021 Rabbitohs Wins (G)</title>
-    <desc>Highlights of the Round 5 match of the NRL Premiership between the South Sydney Rabbitohs and the Brisbane Broncos from Stadium Australia in Sydney.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220110090000 +0000" stop="20220110093000 +0000">
-    <title>2021 Rabbitohs Wins (G)</title>
-    <desc>Highlights of the Round 7 match of the NRL Premiership between the Gold Coast Titans and the South Sydney Rabbitohs from Cbus Super Stadium on the Gold Coast.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220110093000 +0000" stop="20220110100000 +0000">
-    <title>2021 Rabbitohs Wins (G)</title>
-    <desc>Highlights of the Round 8 match of the NRL Premiership between the Canberra Raiders and the South Sydney Rabbitohs from GIO Stadium in Canberra.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20220110100000 +0000" stop="20220110110000 +0000">
-    <title>Snooker: Masters Day 1 Eve (G)</title>
-    <desc>Masters Day 1 Evening Session: One of the Triple Crown events and the second longest-running tournament in Snooker returns as the top players compete at Alexandra Palace, London. Neil Robertson takes on Anthony McGill in the 1st round.</desc>
-    <category>Sports</category>
-  </programme>
-  <channel id="83">
-    <display-name>sky-sport-5</display-name>
-  </channel>
-  <programme channel="83" start="20220109110000 +0000" stop="20220109120000 +0000">
-    <title>FIM Speedway: Rd10 (G)</title>
-    <desc>Replay of the FIM Speedway Grand Prix, Round 10, Grand Prix of Poland, From MotoArena Torun, Torun, Poland.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109120000 +0000" stop="20220109150000 +0000">
-    <title>FIM Speedway: Rd11 (G)</title>
-    <desc>Replay of the FIM Speedway Grand Prix, Round 11, Grand Prix of Poland, From MotoArena Torun, Torun, Poland.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109150000 +0000" stop="20220109160000 +0000">
-    <title>Dakar Rally Stage 6 Hls (G)</title>
-    <desc>Highlights of the Dakar Rally, Stage 6, from Saudi Arabia.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109160000 +0000" stop="20220109170000 +0000">
-    <title>Dakar Rally Week 1 Hls (G)</title>
-    <desc>Highlights of Week 1 of the Dakar Rally from Saudi Arabia.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109170000 +0000" stop="20220109173000 +0000">
-    <title>BSB: Knockhill Race 1 Hls (G)</title>
-    <desc>Highlights of the 2021 Bennett's British Superbikes Championship, race 1 from Knockhill.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109173000 +0000" stop="20220109180000 +0000">
-    <title>BSB: Knockhill Race 2 Hls (G)</title>
-    <desc>Highlights of the 2021 Bennett's British Superbikes Championship, race 2 from Knockhill.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109180000 +0000" stop="20220109183000 +0000">
-    <title>BSB: Knockhill Race 3 Hls (G)</title>
-    <desc>Highlights of the 2021 Bennett's British Superbikes Championship, race 3 from Knockhill.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109183000 +0000" stop="20220109204500 +0000">
-    <title>BSB: Brands Hatch R2 Replay (G)</title>
-    <desc>Replay of the 2021 British Superbikes season. Race 2 from Brands Hatch.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109204500 +0000" stop="20220109221500 +0000">
-    <title>BSB: Donington R1 Replay (G)</title>
-    <desc>Replay of race 1 at the 2021 Donington British Superbikes event.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109221500 +0000" stop="20220109231500 +0000">
-    <title>BSB: Donington R2 Replay (G)</title>
-    <desc>Replay of race 2 at the 2021 Donington British Superbikes event.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220109231500 +0000" stop="20220110001500 +0000">
-    <title>BSB: Donington R3 Replay (G)</title>
-    <desc>Replay of race 3 at the 2021 Donington British Superbikes event.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110001500 +0000" stop="20220110012000 +0000">
-    <title>BSB: Cadwell Race 1 Replay (G)</title>
-    <desc>Replay of the British Superbike Cadwell 1st race.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110012000 +0000" stop="20220110021500 +0000">
-    <title>BSB: Cadwell Race 2 Replay (G)</title>
-    <desc>Replay of the British Superbike Cadwell 2nd race.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110021500 +0000" stop="20220110031500 +0000">
-    <title>BSB: Cadwell Race 3 Replay (G)</title>
-    <desc>Replay of the British Superbike Cadwell 3rd race.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110031500 +0000" stop="20220110043500 +0000">
-    <title>BSB: Snetterton Race 1 Replay (G)</title>
-    <desc>Replay of the British Superbikes race 1 from Snetterton.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110043500 +0000" stop="20220110052000 +0000">
-    <title>BSB: Snetterton Race 2 Hls (G)</title>
-    <desc>Highlights of the British Superbikes race 2 from Snetterton.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110052000 +0000" stop="20220110060000 +0000">
-    <title>NZ Rally Championship 2WD Hls (G)</title>
-    <desc>Brian Green Property Group NZ Rally Championship 2WD class 2021 Highlights, including Historic, Open 2 wheel drive and FIA 2 wheel drive across NZ in 2021.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110060000 +0000" stop="20220110070000 +0000">
-    <title>Dakar Rally Stage 7 Hls (G)</title>
-    <desc>Highlights of the Dakar Rally, Stage 7, from Saudi Arabia.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110070000 +0000" stop="20220110083000 +0000">
-    <title>BSB: Snetterton Race 3 Replay (G)</title>
-    <desc>Replay of the British Superbikes race 3 from Snetterton.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110083000 +0000" stop="20220110093000 +0000">
-    <title>BSB: Silverstone Race 1 Replay (G)</title>
-    <desc>Replay of the British Superbike 1st race from Silverstone.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110093000 +0000" stop="20220110103000 +0000">
-    <title>BSB: Silverstone Race 2 Replay (G)</title>
-    <desc>Replay of the British Superbike 2nd race from Silverstone.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20220110103000 +0000" stop="20220110110000 +0000">
-    <title>BSB: Silverstone Race 3 Replay (G)</title>
-    <desc>Replay of the British Superbike 3rd race from Silverstone.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <channel id="84">
-    <display-name>sky-sport-6</display-name>
-  </channel>
-  <programme channel="84" start="20220109110000 +0000" stop="20220109112500 +0000">
-    <title>European Challenge Tour: Highlights (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Range Servant Challenge and Dormy Open.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109112500 +0000" stop="20220109115000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Irish Challenge and D+D Real Czech Challenge.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109115000 +0000" stop="20220109122000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of Challenge de Cadiz &amp; Challenge de Espana.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109122000 +0000" stop="20220109125000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Open de Bretagne, Czech Event 2 and Le Vaudreuil Golf Challenge.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109125000 +0000" stop="20220109135000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Euram Bank Open and Italian Challenge.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109135000 +0000" stop="20220109142000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the B-NL Challenge Trophy and English Challenge.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109142000 +0000" stop="20220109145000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Germany Challenge and Open de Provence.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109145000 +0000" stop="20220109170000 +0000">
-    <title>Augusta Amateur Champs: Round 4 (G)</title>
-    <desc>Replay Augusta Amateur Women's Amateur Championship. Catch some the world's top amateurs to compete in the 2nd annual championship. Tune in for the final round at Augusta National Golf Club, Georgia.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109170000 +0000" stop="20220109173000 +0000">
-    <title>US Amateur Championship: Round 1 Hls (G)</title>
-    <desc>Highlights from Round 1 of the US Amateur Championship 2021 held at Oakmont Country Club in Verona, Pennsylvania.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109173000 +0000" stop="20220109180000 +0000">
-    <title>US Amateur Championship: Round 2 Hls (G)</title>
-    <desc>Highlights from Round 2 of the US Amateur Championship 2021 held at Oakmont Country Club in Verona, Pennsylvania.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109180000 +0000" stop="20220109183000 +0000">
-    <title>US Amateur Championship: Round 3 Hls (G)</title>
-    <desc>Highlights from Round 3 of the US Amateur Championship 2021 held at Oakmont Country Club in Verona, Pennsylvania.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109183000 +0000" stop="20220109190000 +0000">
-    <title>US Amateur Championships: Round 5 Hls (G)</title>
-    <desc>Highlights Round 5 of the US Amateur Championship 2021 held at Oakmont Country Club in Verona, Pennsylvania.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109190000 +0000" stop="20220109193000 +0000">
-    <title>European Tour Event Hls (G)</title>
-    <desc>Event Highlights European Tour: Omega Dubai Desert Classic held at Emirates Golf Club, Dubai, UAE.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109193000 +0000" stop="20220109200000 +0000">
-    <title>Sky Sport TBC (G)</title>
-    <desc>Sky Sport TBC</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="84" start="20220109200000 +0000" stop="20220109203000 +0000">
-    <title>Sky Sport TBC</title>
-    <desc>Sky Sport TBC</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="84" start="20220109203000 +0000" stop="20220109210000 +0000">
-    <title>PGA Tour: Round 3 Hls (G)</title>
-    <desc>Highlights PGA Tour. Sentry Tournament of Champions Round 3 played at Plantation Course at Kapalua, Maui, Hawaii.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220109210000 +0000" stop="20220110013000 +0000">
-    <title>LIVE: PGA Tour: Round 4 (G)</title>
-    <desc>LIVE PGA Tour. Sentry Tournament of Champions Round 4 played at Plantation Course at Kapalua, Maui, Hawaii.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110013000 +0000" stop="20220110020000 +0000">
-    <title>LPGA Event Highlights (G)</title>
-    <desc>Event Highlights LPGA. The Diamond Resorts Tournament of Champions at the Tranquilo Golf Course at Four Seasons Golf and Sports Club Orlando</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110020000 +0000" stop="20220110030000 +0000">
-    <title>LPGA Event Highlights (G)</title>
-    <desc>Event Highlights LPGA. The Gainbridge LPGA at Boca Rio Golf Club in Florida, USA.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110030000 +0000" stop="20220110040000 +0000">
-    <title>LPGA Event Highlights (G)</title>
-    <desc>Event Highlights LPGA. Drive On Championship played at Golden Ocala Golf and Equestrian Club in Ocala, Florida.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110040000 +0000" stop="20220110045500 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Kitkat Group Pro-Am is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Royal Johannesburg &amp; Kensington Golf Club, Johannesburg, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110045500 +0000" stop="20220110055000 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Players Championship is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Dainfern Country Club, Sandton, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110055000 +0000" stop="20220110063000 +0000">
-    <title>PGA Tour: The CUT (G)</title>
-    <desc>Watch 'The CUT' every week for the latest tournament information, player features and tips from PGA Tour players themselves.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110063000 +0000" stop="20220110070000 +0000">
-    <title>Golf's Greatest Holes: Ep,1 (G)</title>
-    <desc>Golf’s Greatest Holes Ep.1. Join former Ryder Cup captain Paul McGinley and TV personality Chris Hollins, on a trip of a lifetime, as they play the greatest holes on the island of Ireland.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20220110070000 +0000" stop="20220110110000 +0000">
-    <title>PGA Tour: Round 4 (G)</title>
-    <desc>Replay PGA Tour. Sentry Tournament of Champions Round 4 played at Plantation Course at Kapalua, Maui, Hawaii.</desc>
-    <category>Golf</category>
-  </programme>
-  <channel id="85">
-    <display-name>sky-sport-7</display-name>
-  </channel>
-  <programme channel="85" start="20220109110000 +0000" stop="20220109112000 +0000">
-    <title>Carabao Cup Highlights (G)</title>
-    <desc>Semi Final 1st Leg. All the action from the latest round of games in the Carabao Cup, the English Football League knockout cup.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109112000 +0000" stop="20220109133000 +0000">
-    <title>LIVE: Serie A (G)</title>
-    <desc>Venezia v Milan. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109133000 +0000" stop="20220109135500 +0000">
-    <title>LIVE: FA Cup LIVE (G)</title>
-    <desc>Pre Match (Liverpool v Shrewsbury). Join us as we bring you analysis and reviews from a team of football expert, live from beIN Sports studio.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109135500 +0000" stop="20220109160500 +0000">
-    <title>LIVE: The FA Cup (G)</title>
-    <desc>Liverpool v Shrewsbury. 3rd Round tie from Anfield</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109160500 +0000" stop="20220109170500 +0000">
-    <title>LIVE: FA Cup LIVE (G)</title>
-    <desc>Pre Match (Nottingham Forrest v Arsenal). Join us as we bring you analysis and reviews from a team of football experts, live from beIN Sports studio.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109170500 +0000" stop="20220109191000 +0000">
-    <title>LIVE: The FA Cup (G)</title>
-    <desc>Nottm Forest v Arsenal. 3rd Round tie from The City Ground</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109191000 +0000" stop="20220109194000 +0000">
-    <title>LIVE: FA Cup LIVE (G)</title>
-    <desc>Post Match (Nottingham Forest v Arsenal). Join us as we bring you analysis and reviews from a team of football experts, live from beIN Sports studio.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="85" start="20220109194000 +0000" stop="20220109214500 +0000">
-    <title>LIVE: Ligue 1 (G)</title>
-    <desc>Lyon v PSG. Watch every round of Ligue 1, Frances top division of football</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109214500 +0000" stop="20220109221500 +0000">
-    <title>LIVE: The Express (G)</title>
-    <desc>Lyon v PSG Post Game. The Express team bring you all the build-up to today’s fixtures with comment and analysis from journalists and experts from across beIN’s global network.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220109221500 +0000" stop="20220110000000 +0000">
-    <title>FA Cup LIV v SHR (G)</title>
-    <desc>Liverpool v Shrewsbury. 3rd Round tie from Anfield</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="85" start="20220110000000 +0000" stop="20220110001500 +0000">
-    <title>Carabao Classic (G)</title>
-    <desc>Liverpool v Chelsea. We look back into the Carabao Cup archives.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110001500 +0000" stop="20220110003000 +0000">
-    <title>Carabao Classic (G)</title>
-    <desc>Chelsea v Tottenham. We look back into the Carabao Cup archives.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110003000 +0000" stop="20220110004500 +0000">
-    <title>Carabao Classic (G)</title>
-    <desc>Arsenal v Man City. We look back into the Carabao Cup archives.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110004500 +0000" stop="20220110023000 +0000">
-    <title>A-League Women (G)</title>
-    <desc>Melbourne City v Wellington Phoenix. The 14th season of the Australian national women's football competition.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110023000 +0000" stop="20220110041500 +0000">
-    <title>FA Cup Forest v Arsenal (G)</title>
-    <desc>Nottingham Forest v Arsenal. 3rd Round tie from The City Ground</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110041500 +0000" stop="20220110044500 +0000">
-    <title>LaLiga Mini (G)</title>
-    <desc>Granada v Barcelona. Exclusive coverage from the Spanish LaLiga, Spains top division of football, with the worlds biggest teams and best players.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110044500 +0000" stop="20220110050000 +0000">
-    <title>LaLiga Goals Galore (G)</title>
-    <desc>Wissam Ben Yedder. Relive every goal from the best players in 2018-19 LaLiga season.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110050000 +0000" stop="20220110051000 +0000">
-    <title>A-League Women 10-min (G)</title>
-    <desc>Melbourne City v Wellington Phoenix. The 14th season of the Australian national womens association football competition.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110051000 +0000" stop="20220110060500 +0000">
-    <title>Ligue 1 Highlights (G)</title>
-    <desc>MD 20. All the highlights from the latest round of games in Ligue 1, Frances top division of football</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110060500 +0000" stop="20220110070000 +0000">
-    <title>Bundesliga Highlights (G)</title>
-    <desc>Sunday - Rnd 18. All the action from the latest round of games in the German Bundesliga, Germanys top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110070000 +0000" stop="20220110075500 +0000">
-    <title>LaLiga Highlights (G)</title>
-    <desc>MD 20. Catch all the highlights from the latest round of games in LaLiga Santander, Spains top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110075500 +0000" stop="20220110082500 +0000">
-    <title>FA Cup Mini (G)</title>
-    <desc>Leicester City v Watford</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110082500 +0000" stop="20220110085500 +0000">
-    <title>FA Cup Mini (G)</title>
-    <desc>Chelsea v Chesterfield</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110085500 +0000" stop="20220110092500 +0000">
-    <title>FA Cup Mini (G)</title>
-    <desc>Liverpool v Shrewsbury Town</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20220110092500 +0000" stop="20220110110000 +0000">
-    <title>Serie A (G)</title>
-    <desc>Roma v Juventus. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <channel id="86">
-    <display-name>sky-sport-8</display-name>
-  </channel>
-  <programme channel="86" start="20220109110000 +0000" stop="20220109123000 +0000">
-    <title>FIS Skiing Austria: 4HT HS142 (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Bischofshofen with the Ski Jumping Men's Four Hills Tournament HS142.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220109123000 +0000" stop="20220109134500 +0000">
-    <title>FIS Skiing Austria: HS142 Qual (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Bischofshofen with the Ski Jumping Men's HS142 Qualification.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220109134500 +0000" stop="20220109145000 +0000">
-    <title>FIS Skiing Austria: HS142 Run 1 (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Bischofshofen with the Ski Jumping Men's HS142 Run 1.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220109145000 +0000" stop="20220109170500 +0000">
-    <title>LIVE: FIS Skiing Austria: HS142 Run 2 (G)</title>
-    <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Bischofshofen with the Ski Jumping Men's HS142 Run 2.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220109170500 +0000" stop="20220110110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
-    <category>Sports</category>
-  </programme>
-  <channel id="87">
-    <display-name>sky-sport-9</display-name>
-  </channel>
-  <programme channel="87" start="20220109110000 +0000" stop="20220109120000 +0000">
-    <title>A-League Men (G)</title>
-    <desc>A-League Replay: Melbourne Victory Vs Adelaide United</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="87" start="20220109120000 +0000" stop="20220109140000 +0000">
-    <title>French Top 14: Castres v La Rochelle (G)</title>
-    <desc>Replay coverage from Round 14 of the French Top 14 season as Castres host La Rochelle</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="87" start="20220109140000 +0000" stop="20220109143000 +0000">
-    <title>Outdoor Sports Show (G)</title>
-    <desc>Here we start this episode from Croatia. The West Coast of Istria is a well-known tourist and sports paradise. It is the perfect place for the Plava Laguna 5150 Triathlon, part of the well known Ironman series.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20220109143000 +0000" stop="20220109144500 +0000">
-    <title>Road To Beijing: Alice Robinson (G)</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20220109144500 +0000" stop="20220109163000 +0000">
-    <title>WSL: Rip Curl WSL Finals (G)</title>
-    <desc>Replay WSL: Tune in for Day 6 of the Rip Curl WSL Finals  from Lower Trestles, San Clemente, California.  WSL Finals will feature the top five men and women on the WSL's Championship Tour Leader board at the end of the 2021 regular season. (Last 2 hours)</desc>
-    <category>Watersports</category>
-  </programme>
-  <programme channel="87" start="20220109163000 +0000" stop="20220109170000 +0000">
-    <title>Inside Sailing (G)</title>
-    <desc>Let us start this month’s episode by visiting Oman once again. This country on the Arabian Peninsula is associated with developing high-level sailing as the Oman Sail team have invested time and energy in building a sailing culture in the country.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20220109170000 +0000" stop="20220109180000 +0000">
-    <title>Giro d'Italia Week 1 Hls (G)</title>
-    <desc>Highlights- Giro d'Italia 2021. Tune in for all the action of Week 1.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220109180000 +0000" stop="20220109190000 +0000">
-    <title>Giro d'Italia Week 2 Hls (G)</title>
-    <desc>Highlights- Giro d'Italia 2021. Tune in for all the action of Week 2.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220109190000 +0000" stop="20220109200000 +0000">
-    <title>Giro d'Italia Week 3 Hls (G)</title>
-    <desc>Highlights- Giro d'Italia 2021. Tune in for all the action of Week 3.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220109200000 +0000" stop="20220110013000 +0000">
-    <title>ATP Cup Final ESP v CAN (G)</title>
-    <desc>Replay coverage of the ATP Cup, the premier international team event in men’s tennis. Tune in for all the action of the Final between Spain and Canada from the Sydney Olympic Park in Sydney, Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20220110013000 +0000" stop="20220110020000 +0000">
-    <title>Australian Open Flashbacks (G)</title>
-    <desc>Former champions and finalists reflect on their biggest matches and moments at the Australian Open, providing an insight to the culture of tennis both on and off the court the past 40 years.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20220110020000 +0000" stop="20220110023000 +0000">
-    <title>Giro d'Italia Stage 1 Hls (G)</title>
-    <desc>Highlights - Giro d'italia 2021. Tune in for Stage 1, this 8.6km time trial takes place entirely within the city. It starts in the magnificent Piazza Castello, switching through some tight corners before running towards the Po. Turin-Turin, 8.6km.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110023000 +0000" stop="20220110030000 +0000">
-    <title>Giro d'Italia Stage 2 Hls (G)</title>
-    <desc>Highlights - Giro d'italia 2021. Tune in for Stage 2, a flat stage to the region’s second city of Novara that should be a slam dunk for the sprinters. Stupinigi-Novara, 179km.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110030000 +0000" stop="20220110033000 +0000">
-    <title>Giro d'Italia Stage 3 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 3 a 187 kilometres race to Canale. Following a virtually flat opening the route continues onto more lumpy terrain in the last 70 km. Biella – Canale 187km.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110033000 +0000" stop="20220110040000 +0000">
-    <title>Giro d'Italia Stage 4 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 4, the Giro serves its first uphill finish in the 4th stage. At 186 kilometres, the race travels from Piacenza to an intriguing finale in Sestola.  Piacenza - Sestola, 186km.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110040000 +0000" stop="20220110043000 +0000">
-    <title>Giro d'Italia Stage 5 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 5 has got bunch sprint written all over it. The 171 kilometres parcours between Modena and Cattolica is as flat as it gets. Modena - Cattolica,175km.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110043000 +0000" stop="20220110050000 +0000">
-    <title>Giro d'Italia Stage 6 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 6, a mountainous race. The route between Grotte di Frasassi and Ascoli Piceno is 150 kilometres long and features 3,400 vertical metres.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110050000 +0000" stop="20220110053000 +0000">
-    <title>Giro d'Italia Stage 7 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 7, not entirely flat, but chances are that the fast men will have it their way in Termoli. The route adds up to 170 kilometres and the last 70 are perfect for the sprinters.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110053000 +0000" stop="20220110060000 +0000">
-    <title>Giro d'Italia Stage 8 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 8, travels Foggia to an uphill finale in Guardia Sanframondi. The route takes in an elevation gain of 3,400 metres.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110060000 +0000" stop="20220110063000 +0000">
-    <title>Giro d'Italia Stage 9 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 9, is a tough test of 160 kilometres test in the Apennine mountains. The route takes in 3,400 vertical metres, while the finale at Campo Felice is extremely steep and unpaved in the last kilometres.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110063000 +0000" stop="20220110070000 +0000">
-    <title>Giro d'Italia Stage 10 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 10, at 140 kilometres, the route takes in 1,300 vertical metres before a pan flat finale. So gentlemen sprinters... ready, get set, go!</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110070000 +0000" stop="20220110073000 +0000">
-    <title>Giro d'Italia Stage 11 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 11, Heading west from the start, the opening 40 kilometres or so are flat and could see a high-speed and frenetic battle between the leading teams to get riders into the break. Perugia-Montalcino, 162km.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110073000 +0000" stop="20220110080000 +0000">
-    <title>Giro d'Italia Stage 12 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 12,  sets off from Siena to traverse hilly terrain and finish in Bagno di Romagna. The 209 kilometres route takes in an elevation gain of 3,700 metres.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110080000 +0000" stop="20220110083000 +0000">
-    <title>Giro d'Italia Stage 13 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 13, runs on the flat from Ravenna to Verona. The route adds up to 197 kilometres.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110083000 +0000" stop="20220110090000 +0000">
-    <title>Giro d'Italia Stage 14 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 14, an elevation gain of 3,700 metres, the 14th stage of the Giro leads from Cittadella to the summit of Monte Zoncolan. The last 3 kilometres climb at a whopping 13%.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110090000 +0000" stop="20220110093000 +0000">
-    <title>Giro d'Italia Stage 15 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 15, mainly played out on a lumpy circuit the region alongside the Italian-Slovenian border. The last ascent - short bur sharp - comes with 3 kilometres remaining.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110093000 +0000" stop="20220110100000 +0000">
-    <title>Giro d'Italia Stage 16 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 16, is an arduous test in the Dolomites. The race between Sacile and Cortina d’Ampezzo is 221 kilometres long and takes in an elevation gain of 5,700 metres.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110100000 +0000" stop="20220110103000 +0000">
-    <title>Giro D'italia Stage 17 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 17, adds up to 193 kilometres, but the real action is packed inside the last 55 kilometres. First the Passo del Valentino, then the brutal Sega di Ala.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220110103000 +0000" stop="20220110110000 +0000">
-    <title>Giro d'Italia Stage 18 Hls (G)</title>
-    <desc>Highlights - Giro d'Italia 2021. Tune in for stage 18, takes place on the Plain of the Po. The first 200 kilometres live entirely up to that name, but the last 28 kilometres serve three short ascents.</desc>
-    <category>Cycling</category>
-  </programme>
-  <channel id="88">
-    <display-name>sky-sport-news</display-name>
-  </channel>
-  <programme channel="88" start="20220109110000 +0000" stop="20220109113000 +0000">
-    <title>IndyCar: Texas 2 Hls (G)</title>
-    <desc>Highlights of the 2nd Texas double-header race from Texas Motor Speedway.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="88" start="20220109113000 +0000" stop="20220109123000 +0000">
-    <title>Fox Sports News (G)</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20220109123000 +0000" stop="20220109133000 +0000">
-    <title>The Ashes: 4th Test Day 5 Hls (G)</title>
-    <desc>Highlights from Day 5 of the fourth Ashes Test between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="88" start="20220109133000 +0000" stop="20220109140000 +0000">
-    <title>PGA Tour: Round 3 Hls (G)</title>
-    <desc>Highlights PGA Tour. Sentry Tournament of Champions Round 3 played at Plantation Course at Kapalua, Maui, Hawaii.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="88" start="20220109140000 +0000" stop="20220109150000 +0000">
-    <title>Fox Sports News (G)</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20220109150000 +0000" stop="20220109170000 +0000">
-    <title>NBL R6: BRI v NZ Breakers (G)</title>
-    <desc>Join us for coverage from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20220109170000 +0000" stop="20220109190000 +0000">
-    <title>French Top 14 (G)</title>
-    <desc>Replay coverage from Round 15 of the French Top 14 season as Racing 92 host Clermont Auvergne at Paris La Défense Arena.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20220109190000 +0000" stop="20220109200000 +0000">
-    <title>The Ashes: 4th Test Day 5 Hls (G)</title>
-    <desc>Highlights from Day 5 of the fourth Ashes Test between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="88" start="20220109200000 +0000" stop="20220109210000 +0000">
-    <title>LIVE: Fox Sports News</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20220109210000 +0000" stop="20220109213000 +0000">
-    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
-    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20220109213000 +0000" stop="20220109233000 +0000">
-    <title>French Top 14 (G)</title>
-    <desc>Replay coverage from Round 15 of the French Top 14 season as Brive host Bordeaux Begles at Stade Amédée-Domenech.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20220109233000 +0000" stop="20220109234500 +0000">
-    <title>Road To Beijing: Alice Robinson (G)</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20220109234500 +0000" stop="20220110000000 +0000">
-    <title>Road To Beijing: Finn Bilous (G)</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20220110000000 +0000" stop="20220110010000 +0000">
-    <title>Fox Sports News (G)</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20220110010000 +0000" stop="20220110013000 +0000">
-    <title>BBL: BH v HH Hls (G)</title>
-    <desc>Highlights of the 41st match of the Big Bash League between the Brisbane Heat and Hobart Hurricanes at The Gabba, Brisbane.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="88" start="20220110013000 +0000" stop="20220110020000 +0000">
-    <title>BBL: SS v PS Hls (G)</title>
-    <desc>Highlights of the 42nd match of the Big Bash League between the Sydney Sixers and Perth Scorchers at C.ex Coffs International Stadium, Coffs Harbour.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="88" start="20220110020000 +0000" stop="20220110030000 +0000">
-    <title>The Ashes: 4th Test Day 5 Hls (G)</title>
-    <desc>Highlights from Day 5 of the fourth Ashes Test between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="88" start="20220110030000 +0000" stop="20220110040000 +0000">
-    <title>ATP Cup: Final Hls (G)</title>
-    <desc>Highlights coverage of the ATP Cup, the premier international team event in men’s tennis. Tune in for all the action of the Final from the Sydney Olympic Park in Sydney, Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20220110040000 +0000" stop="20220110050000 +0000">
-    <title>ATP Cup: Review Show (G)</title>
-    <desc>Tune in for the review of the 2022 ATP Cup, the premier international team event in men’s tennis.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20220110050000 +0000" stop="20220110070000 +0000">
-    <title>French Top 14 (G)</title>
-    <desc>Replay coverage from Round 15 of the French Top 14 season as Racing 92 host Clermont Auvergne at Paris La Défense Arena.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20220110070000 +0000" stop="20220110073000 +0000">
-    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
-    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20220110073000 +0000" stop="20220110080000 +0000">
-    <title>Rugby: ITA v All Blacks Hls (G)</title>
-    <desc>Highlights of the All Blacks clash against Italy in Rome.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20220110080000 +0000" stop="20220110090000 +0000">
-    <title>LIVE: Fox Sports News</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20220110090000 +0000" stop="20220110110000 +0000">
-    <title>French Top 14 (G)</title>
-    <desc>Replay coverage from Round 15 of the French Top 14 season as Castres host Stade Francais Paris at Stade Pierre Fabre.</desc>
-    <category>Rugby</category>
-  </programme>
-  <channel id="81">
-    <display-name>espn</display-name>
-  </channel>
-  <programme channel="81" start="20220109110000 +0000" stop="20220109130000 +0000">
-    <title>NFL (G)</title>
-    <desc>Eagles v Cowboys.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220109130000 +0000" stop="20220109143000 +0000">
-    <title>College Basketball (G)</title>
-    <desc>BYU v Saint Mary's.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220109143000 +0000" stop="20220109150000 +0000">
-    <title>NFL Films (G)</title>
-    <desc>Long-Snappers and Holders: Ep 16: VOICES OF THE GAME:Talking gridiron runs in Kevin Harlan's family, Jason Wright's voice is being heard in Washington, and wise words from Vince Lombardi that still ring true today.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220109150000 +0000" stop="20220109180000 +0000">
-    <title>Live: NFL Countdown (G)</title>
-    <desc>Samantha Ponder introduces the features associated with the day's games, joined by a roster of analysts including Tedy Bruschi, Randy Moss, Matt Hasselbeck, Rex Ryan, and Louis Riddick.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220109180000 +0000" stop="20220109213500 +0000">
-    <title>Live: NFL (G)</title>
-    <desc>Ravens v Steelers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220109213500 +0000" stop="20220110005000 +0000">
-    <title>Live: NFL (G)</title>
-    <desc>Rams v 49ers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110005000 +0000" stop="20220110011500 +0000">
-    <title>Live: SC: NFL Blitz (G)</title>
-    <desc>SC: NFL Blitz features action packed highlights and any news around the NFL tailor made for the local NFL fan.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110011500 +0000" stop="20220110043000 +0000">
-    <title>Live: NFL (G)</title>
-    <desc>Raiders v Chargers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110043000 +0000" stop="20220110050000 +0000">
-    <title>NFL Films (G)</title>
-    <desc>Long-Snappers and Holders: Talking gridiron runs in Kevin Harlan's family, Jason Wright's voice is being heard in Washington, and wise words from Vince Lombardi that still ring true today.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110050000 +0000" stop="20220110073000 +0000">
-    <title>NFL (G)</title>
-    <desc>Ravens v Steelers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110073000 +0000" stop="20220110080000 +0000">
-    <title>NFL Mini (G)</title>
-    <desc>Ravens v Steelers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110080000 +0000" stop="20220110083000 +0000">
-    <title>NFL Mini (G)</title>
-    <desc>Rams v 49ers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110083000 +0000" stop="20220110090000 +0000">
-    <title>NFL Mini (G)</title>
-    <desc>Sunday night gridiron highlights</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110090000 +0000" stop="20220110093000 +0000">
-    <title>NFL Mini (G)</title>
-    <desc>NFL Mini</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20220110093000 +0000" stop="20220110110000 +0000">
-    <title>NFL (G)</title>
-    <desc>Raiders v Chargers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <channel id="82">
-    <display-name>espn2</display-name>
-  </channel>
-  <programme channel="82" start="20220109110000 +0000" stop="20220109113000 +0000">
-    <title>College Basketball (G)</title>
-    <desc>North Carolina v Virginia.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220109113000 +0000" stop="20220109133000 +0000">
-    <title>AMA Supercross (G)</title>
-    <desc>AMA Supercross: Stadium motorcycle racing on dirt tracks featuring the best known names in motorcycles.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20220109133000 +0000" stop="20220109150000 +0000">
-    <title>College Basketball (G)</title>
-    <desc>Texas Tech v Kansas.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220109150000 +0000" stop="20220109180000 +0000">
-    <title>Live: Fantasy Football Now (G)</title>
-    <desc>Host Will Cain and analysts Matthew Berry, Field Yates and licensed physical therapist Stephania Bell provide the latest info on fantasy gridiron news going into the day.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220109180000 +0000" stop="20220109211000 +0000">
-    <title>Live: NFL (G)</title>
-    <desc>Live: NFL</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220109211000 +0000" stop="20220109220000 +0000">
-    <title>E:60 (G)</title>
-    <desc>A Love Story: An all new E60: The daughter of an NHL superstar, a working class wrestling coach, a devastating diagnosis - and a story of unwavering love.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20220109220000 +0000" stop="20220110000000 +0000">
-    <title>Live: College Basketball (G)</title>
-    <desc>Colorado v Washington.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220110000000 +0000" stop="20220110003000 +0000">
-    <title>In Depth With (G)</title>
-    <desc>Tom Hanks: Acting icon Tom Hanks talks about some of his most rewarding roles, as well as the challenging ones as well as his love for baseball.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20220110003000 +0000" stop="20220110010000 +0000">
-    <title>Path To The College Football Playoff (G)</title>
-    <desc>Path To The College Football Playoff</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220110010000 +0000" stop="20220110013000 +0000">
-    <title>Path To The College Football Playoff (G)</title>
-    <desc>Path To The College Football Playoff</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220110013000 +0000" stop="20220110033000 +0000">
-    <title>Live: Championship Drive (G)</title>
-    <desc>Led by host Kevin Connors, college gridiron analysts and reporters meet to discuss and debate who the Top 4 teams are in the country.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220110033000 +0000" stop="20220110050000 +0000">
-    <title>Live: SportsCenter (G)</title>
-    <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20220110050000 +0000" stop="20220110060000 +0000">
-    <title>Live: SportsCenter (G)</title>
-    <desc>with Scott Van Pelt: Scott Van Pelt hosts ESPN's signature news and highlights show, with interviews and unique segments including bad beats of the week.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20220110060000 +0000" stop="20220110083000 +0000">
-    <title>NFL (G)</title>
-    <desc>NFL</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220110083000 +0000" stop="20220110090000 +0000">
-    <title>Path To The College Football Playoff (G)</title>
-    <desc>Path To The College Football Playoff</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220110090000 +0000" stop="20220110093000 +0000">
-    <title>Path To The College Football Playoff (G)</title>
-    <desc>Path To The College Football Playoff</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20220110093000 +0000" stop="20220110100000 +0000">
-    <title>ESPN FC (G)</title>
-    <desc>Featuring panelists from around the football world debating the games hottest talking points.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="82" start="20220110100000 +0000" stop="20220110110000 +0000">
-    <title>NFL (G)</title>
-    <desc>Rams v 49ers.</desc>
-    <category>US Sports</category>
-  </programme>
-  <channel id="93">
-    <display-name>sky-sport-popup-1</display-name>
-  </channel>
-  <programme channel="93" start="20220109110000 +0000" stop="20220109170000 +0000">
-    <title>Coming Up: Tennis (G)</title>
-    <desc>Tune in on 11 January for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="93" start="20220109170000 +0000" stop="20220110110000 +0000">
-    <title>Coming Up: Tennis (G)</title>
-    <desc>Tune in next for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
-    <category>Sports</category>
-  </programme>
-  <channel id="60">
-    <display-name>sky-sport-1</display-name>
-  </channel>
   <programme channel="60" start="20220110110000 +0000" stop="20220110113000 +0000">
     <title>Gallagher Premiership (G)</title>
     <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
@@ -1323,8 +59,8 @@
   </programme>
   <programme channel="60" start="20220111053000 +0000" stop="20220111073000 +0000">
     <title>A-League Women (G)</title>
-    <desc>A-League Women Replay: Melbourne City Fc V Wellington Phoenix</desc>
-    <category>Soccer</category>
+    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="60" start="20220111073000 +0000" stop="20220111093000 +0000">
     <title>A-League: ADL v WEL (G)</title>
@@ -1349,29 +85,24 @@
     <desc>LIVE - ATP 250: Adelaide International 2. Tune in for all the action from Day 1 of the tournament as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20220110113000 +0000" stop="20220110134000 +0000">
+  <programme channel="61" start="20220110120000 +0000" stop="20220110141000 +0000">
     <title>NBL R6: BRI v NZ Breakers (G)</title>
     <desc>Join us for coverage from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20220110134000 +0000" stop="20220110140500 +0000">
+  <programme channel="61" start="20220110141000 +0000" stop="20220110143500 +0000">
     <title>BBL: SS v PS Hls (G)</title>
     <desc>Highlights of the 42nd match of the Big Bash League between the Sydney Sixers and Perth Scorchers at C.ex Coffs International Stadium, Coffs Harbour.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="61" start="20220110140500 +0000" stop="20220110143000 +0000">
-    <title>BBL: MS v AS Hls (G)</title>
-    <desc>Highlights of the 43rd match of the Big Bash League between the Melbourne Stars and Adelaide Strikers at the MCG, Melbourne.</desc>
+  <programme channel="61" start="20220110143500 +0000" stop="20220110150000 +0000">
+    <title>BBL: HH v ST Hls (G)</title>
+    <desc>Highlights of the 44th match of the Big Bash League between the Hoabrt Hurricanes and Sydney Thunder at the University of Tasmania Stadium, Launceston.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="61" start="20220110143000 +0000" stop="20220110163000 +0000">
+  <programme channel="61" start="20220110150000 +0000" stop="20220110170000 +0000">
     <title>Gallagher Premiership (G)</title>
     <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20220110163000 +0000" stop="20220110170000 +0000">
-    <title>French Top 14 Highlights Show (G)</title>
-    <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="61" start="20220110170000 +0000" stop="20220110190000 +0000">
@@ -1379,12 +110,12 @@
     <desc>Super Rugby Australia Qualifying Final: Brumbies play the Force at GIO Stadium in the nation's capital Canberra.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="61" start="20220110190000 +0000" stop="20220110210000 +0000">
+  <programme channel="61" start="20220110190000 +0000" stop="20220110205500 +0000">
     <title>Super Rugby Australia Final (G)</title>
     <desc>Super Rugby Australia Replay Final</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="61" start="20220110210000 +0000" stop="20220110230000 +0000">
+  <programme channel="61" start="20220110205500 +0000" stop="20220110230000 +0000">
     <title>Rugby Champs: All Blacks v ARG (G)</title>
     <desc>Replay of The Rugby Championship as The All Blacks take on the Argentinian Pumas from The Gold Coast.</desc>
     <category>Rugby</category>
@@ -1452,19 +183,24 @@
     <desc>Replay coverage of the 43rd match of the Big Bash League between the Melbourne Stars and Adelaide Strikers at the MCG, Melbourne.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220111010000 +0000" stop="20220111021000 +0000">
+  <programme channel="62" start="20220111010000 +0000" stop="20220111020000 +0000">
     <title>WI v IRE: 1st ODI Hls (G)</title>
     <desc>Highlights of the first One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220111021000 +0000" stop="20220111062000 +0000">
-    <title>LIVE: BBL: PS v MS (G)</title>
-    <desc>LIVE coverage of the 27th match of the Big Bash League between the Perth Scorchers and Melbourne Stars at GMHBA Stadium, Geelong.</desc>
+  <programme channel="62" start="20220111020000 +0000" stop="20220111022000 +0000">
+    <title>BBL: HH v ST (G)</title>
+    <desc>Mini highlights of the 44th match of the Big Bash League between the Hoabrt Hurricanes and Sydney Thunder at the University of Tasmania Stadium, Launceston.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220111062000 +0000" stop="20220111065000 +0000">
-    <title>BBL: HH v ST Hls (G)</title>
-    <desc>Highlights of the 44th match of the Big Bash League between the Hoabrt Hurricanes and Sydney Thunder at the University of Tasmania Stadium, Launceston.</desc>
+  <programme channel="62" start="20220111022000 +0000" stop="20220111024000 +0000">
+    <title>BBL: MS v AS Mini (G)</title>
+    <desc>Mini highlights of the 43rd match of the Big Bash League between the Melbourne Stars and Adelaide Strikers at the MCG, Melbourne.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220111024000 +0000" stop="20220111065000 +0000">
+    <title>LIVE: BBL: PS v MS (G)</title>
+    <desc>LIVE coverage of the 27th match of the Big Bash League between the Perth Scorchers and Melbourne Stars at GMHBA Stadium, Geelong.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20220111065000 +0000" stop="20220111072000 +0000">
@@ -1490,10 +226,25 @@
     <desc>Masters Day 1 Evening Session: One of the Triple Crown events and the second longest-running tournament in Snooker returns as the top players compete at Alexandra Palace, London. Neil Robertson takes on Anthony McGill in the 1st round.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20220110130000 +0000" stop="20220110173000 +0000">
+  <programme channel="63" start="20220110130000 +0000" stop="20220110161000 +0000">
     <title>LIVE: Snooker: Masters (G)</title>
     <desc>World Snooker Tour: Masters 2022: Day 2 Afternoon Session: The second longest running tournament in Snooker continues as Snooker's best compete at Alexandra Palace, London, England.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20220110161000 +0000" stop="20220110163500 +0000">
+    <title>2021 Rabbitohs Wins (G)</title>
+    <desc>Highlights of the Round 2 match of the NRL Premiership between the Manly Sea Eagles and the South Sydney Rabbitohs from Lottoland in Sydney.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220110163500 +0000" stop="20220110170000 +0000">
+    <title>2021 Rabbitohs Wins (G)</title>
+    <desc>Highlights of the Round 3 match of the NRL Premiership between the South Sydney Rabbitohs and the Sydney Roosters from Stadium Australia in Sydney.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220110170000 +0000" stop="20220110173000 +0000">
+    <title>2021 Rabbitohs Wins (G)</title>
+    <desc>Highlights of the Round 4 match of the NRL Premiership between the Canterbury Bulldogs and the South Sydney Rabbitohs from Stadium Australia in Sydney.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20220110173000 +0000" stop="20220110180000 +0000">
     <title>2021 Rabbitohs Wins (G)</title>
@@ -1711,7 +462,7 @@
   <channel id="84">
     <display-name>sky-sport-6</display-name>
   </channel>
-  <programme channel="84" start="20220110110000 +0000" stop="20220110124000 +0000">
+  <programme channel="84" start="20220110110500 +0000" stop="20220110124000 +0000">
     <title>Replay: NZPGA Championship (G)</title>
     <desc>Replay: NZPGA Championship: Round 3. Tune in for replay coverage of NZPGA Championship at Te Puke Golf Club.</desc>
     <category>Golf</category>
@@ -2159,14 +910,14 @@
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20220110170000 +0000" stop="20220110173000 +0000">
-    <title>A-League Hls (G)</title>
-    <desc>A-League Hls</desc>
-    <category>Sports</category>
+    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
+    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="88" start="20220110173000 +0000" stop="20220110193000 +0000">
     <title>A-League Women (G)</title>
-    <desc>A-League Women Replay: Melbourne City Fc V Wellington Phoenix</desc>
-    <category>Soccer</category>
+    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="88" start="20220110193000 +0000" stop="20220110200000 +0000">
     <title>ATP Uncovered (G)</title>
@@ -2179,8 +930,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20220110210000 +0000" stop="20220110223000 +0000">
-    <title>Adelaide International 2: Day 2 MOTD (G)</title>
-    <desc>Match of the day from Day 2 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <title>Adelaide International 2: Day 1 MOTD (G)</title>
+    <desc>Match of the day from Day 1 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="88" start="20220110223000 +0000" stop="20220110230000 +0000">
@@ -2198,12 +949,12 @@
     <desc>Highlights of the 44th match of the Big Bash League between the Hoabrt Hurricanes and Sydney Thunder at the University of Tasmania Stadium, Launceston.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="88" start="20220111000000 +0000" stop="20220111010000 +0000">
+  <programme channel="88" start="20220111000000 +0000" stop="20220111005500 +0000">
     <title>ATP Cup: Review Show (G)</title>
     <desc>Tune in for the review of the 2022 ATP Cup, the premier international team event in men’s tennis.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="88" start="20220111010000 +0000" stop="20220111030000 +0000">
+  <programme channel="88" start="20220111005500 +0000" stop="20220111030000 +0000">
     <title>French Top 14 (G)</title>
     <desc>Replay coverage from Round 15 of the French Top 14 season as Castres host Stade Francais Paris at Stade Pierre Fabre.</desc>
     <category>Rugby</category>
@@ -2213,19 +964,29 @@
     <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="88" start="20220111040000 +0000" stop="20220111043000 +0000">
+  <programme channel="88" start="20220111040000 +0000" stop="20220111041500 +0000">
     <title>Road To Beijing: Nico Porteous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="88" start="20220111043000 +0000" stop="20220111050000 +0000">
+  <programme channel="88" start="20220111041500 +0000" stop="20220111043000 +0000">
     <title>Road To Beijing: Alice Robinson (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="88" start="20220111050000 +0000" stop="20220111053000 +0000">
+  <programme channel="88" start="20220111043000 +0000" stop="20220111044500 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220111044500 +0000" stop="20220111051500 +0000">
+    <title>NBL R6: BRI v NZ Breakers Highlights (G)</title>
+    <desc>Join us for highlights from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="88" start="20220111051500 +0000" stop="20220111053000 +0000">
+    <title>A-League Men Mini Hls (G)</title>
+    <desc>A-League Mini Hls: Melbourne Victory v Western United</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20220111053000 +0000" stop="20220111063000 +0000">
@@ -2618,12 +1379,12 @@
     <desc>Join Sky Sport for Replay coverage of the Grand Final of the 2021 Women's Super League as St Helens take on the Leeds Rhinos from Emerald Headingley Stadium, Leeds.</desc>
     <category>League</category>
   </programme>
-  <programme channel="61" start="20220111113500 +0000" stop="20220111133500 +0000">
+  <programme channel="61" start="20220111113500 +0000" stop="20220111134000 +0000">
     <title>NBL R6: BRI v NZ Breakers (G)</title>
     <desc>Join us for coverage from Round 6 of the 2021/22 NBL Season as the Brisbane Bullets take on the NZ Breakers at the Nissan Arena in Brisbane.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20220111133500 +0000" stop="20220111141500 +0000">
+  <programme channel="61" start="20220111134000 +0000" stop="20220111141500 +0000">
     <title>NBL Overtime (G)</title>
     <desc>Catch all the highlights and analysis from the latest round of games with the NBL Overtime crew.</desc>
     <category>Tennis</category>
@@ -3286,10 +2047,35 @@
     <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom second run.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220111233000 +0000" stop="20220112091500 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
-    <category>Sports</category>
+  <programme channel="86" start="20220111233000 +0000" stop="20220112010000 +0000">
+    <title>Adelaide International 2: Day 2 MOTD (G)</title>
+    <desc>Match of the day from Day 2 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20220112010000 +0000" stop="20220112030000 +0000">
+    <title>Gallagher Premiership (G)</title>
+    <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20220112030000 +0000" stop="20220112050000 +0000">
+    <title>Gallagher Premiership (G)</title>
+    <desc>Replay coverage of the Gallagher Premiership season as Harlequins host Exeter Chiefs at Twickenham Stoop.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20220112050000 +0000" stop="20220112070000 +0000">
+    <title>Japan Rugby League One (G)</title>
+    <desc>Replay coverage of Japan Rugby League One, as Kobelco Kobe Steelers host Shining Arcs Tokyo-Bay Urayasu at Noevir Stadium, Hyogo.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20220112070000 +0000" stop="20220112084500 +0000">
+    <title>Japan Rugby League One (G)</title>
+    <desc>Replay coverage of Japan Rugby League One, as Tokyo Sungoliath host Toshiba Brave Lupus Tokyo at Azinomoto Stadium, Tokyo.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20220112084500 +0000" stop="20220112091500 +0000">
+    <title>French Top 14 Highlights Show (G)</title>
+    <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="86" start="20220112091500 +0000" stop="20220112100000 +0000">
     <title>FIS Skiing Austria: W SL Run 1 Replay (G)</title>
@@ -4420,14 +3206,59 @@
     <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Snowboard Team PSL.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112130000 +0000" stop="20220112170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220112130000 +0000" stop="20220112143000 +0000">
+    <title>Adelaide International 2: Day 2 MOTD (G)</title>
+    <desc>Match of the day from Day 2 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20220112143000 +0000" stop="20220112163000 +0000">
+    <title>A-League Women (G)</title>
+    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112170000 +0000" stop="20220113110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220112163000 +0000" stop="20220112165000 +0000">
+    <title>A-League Mini Hls: ADL v WEL (G)</title>
+    <desc>A-League Mini Hls: Adelaide United V Wellington Phoenix</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112165000 +0000" stop="20220112220000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112220000 +0000" stop="20220112230000 +0000">
+    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112230000 +0000" stop="20220112233000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112233000 +0000" stop="20220112234500 +0000">
+    <title>Road To Beijing: Finn Bilous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112234500 +0000" stop="20220113040000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113040000 +0000" stop="20220113091000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113091000 +0000" stop="20220113094000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113094000 +0000" stop="20220113110000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Short Program takes place.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -4458,23 +3289,28 @@
     <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="87" start="20220113000000 +0000" stop="20220113003000 +0000">
+  <programme channel="87" start="20220113000000 +0000" stop="20220113001500 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
     <category>Sports</category>
   </programme>
+  <programme channel="87" start="20220113001500 +0000" stop="20220113003000 +0000">
+    <title>Road To Beijing: Zoi Sadowski -Synnott (G)</title>
+    <desc>Road To Beijing: Zoi Sadowski -Synnott</desc>
+    <category>Sports</category>
+  </programme>
   <programme channel="87" start="20220113003000 +0000" stop="20220113010000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 1st Test Hls (G)</title>
     <desc>The French are back on Australian soil for the first time since 2014 as the Wallabies take on France from Suncorp Stadium in Brisbane.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220113010000 +0000" stop="20220113013000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 2nd Test Hls (G)</title>
     <desc>The Trophée des Bicentenaires is back up for grabs as the Wallabies take on France in the second test from AAMI Park in Melbourne.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220113013000 +0000" stop="20220113020000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 3rd Test Hls (G)</title>
     <desc>The Wallabies take on France in the third and final test from Suncorp Stadium in Brisbane.</desc>
     <category>Rugby</category>
   </programme>
@@ -4498,9 +3334,14 @@
     <desc>World Snooker Tour: Masters 2022: Day 4 Evening Session: The second longest running tournament in Snooker history continues as Snooker's best compete at Alexandra Palace, London, England.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220113100000 +0000" stop="20220113103000 +0000">
+  <programme channel="87" start="20220113100000 +0000" stop="20220113101500 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220113101500 +0000" stop="20220113103000 +0000">
+    <title>Road To Beijing: Zoi Sadowski -Synnott</title>
+    <desc>Road To Beijing: Zoi Sadowski -Synnott</desc>
     <category>Sports</category>
   </programme>
   <programme channel="87" start="20220113103000 +0000" stop="20220113110000 +0000">
@@ -5554,14 +4395,59 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20220113110000 +0000" stop="20220113170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220113110000 +0000" stop="20220113140000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Short Program takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220113170000 +0000" stop="20220114110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220113140000 +0000" stop="20220113145000 +0000">
+    <title>FIS Skiing Austria: W SL Run 1 Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom first run.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113145000 +0000" stop="20220113154000 +0000">
+    <title>FIS Skiing Austria: W SL Run 2 Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom second run.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113154000 +0000" stop="20220113161500 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113161500 +0000" stop="20220113220000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Women's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113220000 +0000" stop="20220113230000 +0000">
+    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113230000 +0000" stop="20220114000000 +0000">
+    <title>FIS Skiing Austria: PSL Team Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Snowboard Team PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220114000000 +0000" stop="20220114025500 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Free Skating takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220114025500 +0000" stop="20220114032500 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Victory Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220114032500 +0000" stop="20220114091000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Women's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220114091000 +0000" stop="20220114110000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Free Skating takes place.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -5582,15 +4468,20 @@
     <desc>Wrap of the fourth Ashes Test between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="87" start="20220113143000 +0000" stop="20220113150000 +0000">
+  <programme channel="87" start="20220113143000 +0000" stop="20220113144500 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
     <category>Sports</category>
   </programme>
+  <programme channel="87" start="20220113144500 +0000" stop="20220113150000 +0000">
+    <title>Road To Beijing: Zoi Sadowski -Synnott</title>
+    <desc>Road To Beijing: Zoi Sadowski -Synnott</desc>
+    <category>Sports</category>
+  </programme>
   <programme channel="87" start="20220113150000 +0000" stop="20220113170000 +0000">
     <title>A-League Women (G)</title>
-    <desc>A-League Women Replay: Melbourne City Fc V Wellington Phoenix</desc>
-    <category>Soccer</category>
+    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="87" start="20220113170000 +0000" stop="20220114010000 +0000">
     <title>WSL Tweed Coast Pro: Day 2 Replay (G)</title>
@@ -6028,9 +4919,9 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20220114195500 +0000" stop="20220114220000 +0000">
-    <title>LIVE Champions Cup: CAS v MUN (G)</title>
-    <desc>LIVE Champions Cup: Castres v Munster</desc>
-    <category>Sports</category>
+    <title>Heineken Champions Cup (G)</title>
+    <desc>LIVE Heineken Champions Cup as Castres Olympique host Munster at Stade Pierre Fabre.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="60" start="20220114220000 +0000" stop="20220114223000 +0000">
     <title>Rugby: Wales v All Blacks Hls (G)</title>
@@ -6038,9 +4929,9 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20220114223000 +0000" stop="20220115003000 +0000">
-    <title>NBL R7: PER v NZ Breakers (G)</title>
-    <desc>NBL R7: PER v NZ Breakers</desc>
-    <category>Sports</category>
+    <title>NBL R7: TAS V NZ Breakers (G)</title>
+    <desc>Join us for coverage from Round 7 of the 2021/22 NBL Season as the Tasmanian Jackjumpers take on the NZ Breakers at the Mystate Arena in Tasmania.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="60" start="20220115003000 +0000" stop="20220115013000 +0000">
     <title>The Ashes: 5th Test Day 1 Hls (G)</title>
@@ -6578,14 +5469,24 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20220114110000 +0000" stop="20220114170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220114110000 +0000" stop="20220114120500 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Free Skating takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220114170000 +0000" stop="20220114183000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220114120500 +0000" stop="20220114123500 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Victory Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220114123500 +0000" stop="20220114175000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220114175000 +0000" stop="20220114183000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="86" start="20220114183000 +0000" stop="20220114190000 +0000">
@@ -7158,7 +6059,27 @@
     <desc>Tune in on 16 January for LIVE coverage of Golf: Asian Tour.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20220114170000 +0000" stop="20220115110000 +0000">
+  <programme channel="93" start="20220114170000 +0000" stop="20220114220000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Rhythm Dance takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220114220000 +0000" stop="20220114230000 +0000">
+    <title>Coming Up: Figure Skating (G)</title>
+    <desc>Tune in for LIVE coverage of the ISU European Championships.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220114230000 +0000" stop="20220115030000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Free Skating takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220115030000 +0000" stop="20220115031500 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Victory Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220115031500 +0000" stop="20220115110000 +0000">
     <title>Coming Up: Golf (G)</title>
     <desc>Tune in on 16 January for LIVE coverage of Golf: Asian Tour.</desc>
     <category>Sports</category>
@@ -7177,28 +6098,28 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20220115134500 +0000" stop="20220115160000 +0000">
-    <title>LIVE: Quad Netball: ENG v SA (G)</title>
-    <desc>LIVE: Quad Netball: England v South Africa</desc>
+    <title>LIVE: Netball Quad Series: ENG v SA (G)</title>
+    <desc>LIVE coverage of the Netball Quad Series as England's Vitality Roses take on South Africa at Copper Box Arena, London.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20220115160000 +0000" stop="20220115181500 +0000">
-    <title>LIVE: Quad Netball: NZ v AUS (G)</title>
-    <desc>LIVE: Quad Netball: Silver Ferns v Australia</desc>
+    <title>LIVE: Netball Quad Series: NZ v AUS (G)</title>
+    <desc>LIVE coverage of the Netball Quad Series as the Silver Ferns take on Australia at Copper Box Arena, London.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20220115181500 +0000" stop="20220115203000 +0000">
     <title>Adelaide International 2: Final (G)</title>
-    <desc>Replay coverage of the Final from Day 7 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <desc>Replay coverage of the Final from Day 6 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="60" start="20220115203000 +0000" stop="20220115223000 +0000">
-    <title>Quad Netball (G)</title>
-    <desc>Quad Netball</desc>
+    <title>Netball Quad Series: ENG v SA (G)</title>
+    <desc>Replay coverage of the Netball Quad Series as England's Vitality Roses take on South Africa at Copper Box Arena, London.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20220115223000 +0000" stop="20220116003000 +0000">
-    <title>Quad Netball (G)</title>
-    <desc>Quad Netball</desc>
+    <title>Netball Quad Series: NZ v AUS (G)</title>
+    <desc>Replay coverage of the Netball Quad Series as the Silver Ferns take on Australia at Copper Box Arena, London.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20220116003000 +0000" stop="20220116013000 +0000">
@@ -7212,9 +6133,9 @@
     <category>Cricket</category>
   </programme>
   <programme channel="60" start="20220116100500 +0000" stop="20220116110000 +0000">
-    <title>LIVE NBL R7: SYD v NZ Breakers (G)</title>
-    <desc>LIVE NBL R7: SYD v NZ Breakers</desc>
-    <category>Sports</category>
+    <title>NBL R7: SYD V NZ Breakers (G)</title>
+    <desc>Join us for coverage from Round 7 of the 2021/22 NBL Season as the Sydney Kings take on the NZ Breakers at the Qudos Bank Arena in Sydney.</desc>
+    <category>Tennis</category>
   </programme>
   <channel id="61">
     <display-name>sky-sport-2</display-name>
@@ -7822,14 +6743,79 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20220115110000 +0000" stop="20220115170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220115110000 +0000" stop="20220115160000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Rhythm Dance takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220115170000 +0000" stop="20220116110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20220115160000 +0000" stop="20220115163000 +0000">
+    <title>AO Classics: Williams v Wang 2020 (G)</title>
+    <desc>Tune in for the match highlights from Serena Williams vs Qiang Wang in the third round of the 2020 Australian Open.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20220115163000 +0000" stop="20220115170000 +0000">
+    <title>Australian Open Flashbacks (G)</title>
+    <desc>Former champions and finalists reflect on their biggest matches and moments at the Australian Open, providing an insight to the culture of tennis both on and off the court the past 40 years.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20220115170000 +0000" stop="20220115173000 +0000">
+    <title>La Vuelta Stage 13 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for stage 13, this stage travels on the flat from Belmez to Villanueva. The race adds up to 197.2 kilometres. Belmez &gt; Villanueva De La Serena.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="86" start="20220115173000 +0000" stop="20220115180000 +0000">
+    <title>La Vuelta Stage 14 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for stage 14, at 159.7 kilometres, this stage travels from Don Benito to a summit finish at Pico Villuercas. The climb to the line adds up 16.5 kilometres. Don Benito &gt; Pico Villuercas.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="86" start="20220115180000 +0000" stop="20220115183500 +0000">
+    <title>La Vuelta Stage 15 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Stage 15 travels in 193.4 kilometres from Navalmoral de La Mata to El Barraco. Four climbs spice up the last 100 kilometres before the finale is a 5.4 kilometres descent into the valley of the Alberche river.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="86" start="20220115183500 +0000" stop="20220115220000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Ice Dance takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220115220000 +0000" stop="20220115221500 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Ice Dance Victory Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220115221500 +0000" stop="20220115224500 +0000">
+    <title>La Vuelta Stage 16 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for Stage 16, this goes from Laredo to Santa Cruz de Bezana. The race along the Cantabrian coast is 170.8 kilometres long. Fairly sprinter-friendly course.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="86" start="20220115224500 +0000" stop="20220115231500 +0000">
+    <title>La Vuelta Stage 17 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for Stage 17,  is a mountainous test of 181.6 kilometres long. The infamous climb to the Lagos de Covadonga serves as the finale of a race with three intermediate ascents. Unquera &gt; Lagos De Covadonga.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="86" start="20220115231500 +0000" stop="20220115233000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Victory Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220115233000 +0000" stop="20220116033000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Women's Free Skating takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116033000 +0000" stop="20220116034500 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Women's Victory Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116034500 +0000" stop="20220116084500 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Rhythm Dance takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116084500 +0000" stop="20220116110000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Free Skating takes place.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -8185,6 +7171,864 @@
   <programme channel="93" start="20220116070000 +0000" stop="20220116110000 +0000">
     <title>Coming Up: Golf (G)</title>
     <desc>Tune in for LIVE coverage of Golf: Asian Tour.</desc>
+    <category>Sports</category>
+  </programme>
+  <channel id="60">
+    <display-name>sky-sport-1</display-name>
+  </channel>
+  <programme channel="60" start="20220116110000 +0000" stop="20220116120500 +0000">
+    <title>NBL R7: SYD V NZ Breakers (G)</title>
+    <desc>Join us for coverage from Round 7 of the 2021/22 NBL Season as the Sydney Kings take on the NZ Breakers at the Qudos Bank Arena in Sydney.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="60" start="20220116120500 +0000" stop="20220116124500 +0000">
+    <title>Glory Days (M)</title>
+    <desc>Ep 1: Morgan Turinui and Dan Parks sit down in the Stan Sport theatre and share their memories from a classic Wallabies vs Scotland encounter in 2004.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20220116124500 +0000" stop="20220116131500 +0000">
+    <title>Netball Quad Series: ENG v SA Hls (G)</title>
+    <desc>Highlights of the Netball Quad Series as England's Vitality Roses take on South Africa at Copper Box Arena, London.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="60" start="20220116131500 +0000" stop="20220116134500 +0000">
+    <title>Netball Quad Series: NZ v AUS Hls (G)</title>
+    <desc>Highlights of the Netball Quad Series as the Silver Ferns take on Australia at Copper Box Arena, London.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="60" start="20220116134500 +0000" stop="20220116160000 +0000">
+    <title>LIVE: Netball Quad Series: AUS v SA (G)</title>
+    <desc>LIVE coverage of the Netball Quad Series as Australia take on South Africa at Copper Box Arena, London.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="60" start="20220116160000 +0000" stop="20220116181500 +0000">
+    <title>LIVE: Netball Quad Series: ENG v NZ (G)</title>
+    <desc>LIVE coverage of the Netball Quad Series as England's Vitality Roses take on the Silver Ferns at Copper Box Arena, London.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="60" start="20220116181500 +0000" stop="20220116184500 +0000">
+    <title>Japan Rugby League One (G)</title>
+    <desc>Highlights coverage of Japan Rugby League One, as Shining Arcs Tokyo-Bay Urayasu host Kubota Spears Funabashi Tokyo-Bay at Prince Chichibu Memorial Rugby Ground, Tokyo.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20220116184500 +0000" stop="20220116191500 +0000">
+    <title>Japan Rugby League One (G)</title>
+    <desc>Highlights coverage of Japan Rugby League One, as Tokyo Sungoliath at Toyota Verblitz at Azinomoto Stadium, Tokyo.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20220116191500 +0000" stop="20220116202500 +0000">
+    <title>UCI Cyclo-Cross World Cup (G)</title>
+    <desc>UCI Cyclo-Cross World Cup 2021: Flamanville. Tune in for the Women's Elite from Flamanville, France.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="60" start="20220116202500 +0000" stop="20220116215500 +0000">
+    <title>UCI Cyclo-Cross World Cup (G)</title>
+    <desc>UCI Cyclo-Cross World Cup 2021: Flamanville. Tune in for the Men's Elite from Flamanville, France.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="60" start="20220116215500 +0000" stop="20220116223000 +0000">
+    <title>Netball Quad Series: ENG v SA Hls (G)</title>
+    <desc>Highlights of the Netball Quad Series as England's Vitality Roses take on South Africa at Copper Box Arena, London.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="60" start="20220116223000 +0000" stop="20220116230000 +0000">
+    <title>Netball Quad Series: NZ v AUS Hls (G)</title>
+    <desc>Highlights of the Netball Quad Series as the Silver Ferns take on Australia at Copper Box Arena, London.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="60" start="20220116230000 +0000" stop="20220117000000 +0000">
+    <title>ATP Cup: Review Show (G)</title>
+    <desc>Tune in for the review of the 2022 ATP Cup, the premier international team event in men’s tennis.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="60" start="20220117000000 +0000" stop="20220117073000 +0000">
+    <title>LIVE: Australian Open: Day 1 (G)</title>
+    <desc>Sky Sport is proud to bring you the 2022 Australian Open, the first tennis Grand Slam event of the year. Join us for LIVE coverage of Day 1, Day Session from Melbourne Park.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="60" start="20220117073000 +0000" stop="20220117110000 +0000">
+    <title>LIVE: Australian Open: Day 1 (G)</title>
+    <desc>Sky Sport is proud to bring you the 2022 Australian Open, the first tennis Grand Slam event of the year. Join us for LIVE coverage of Day 1, Night Session from Melbourne Park.</desc>
+    <category>Tennis</category>
+  </programme>
+  <channel id="61">
+    <display-name>sky-sport-2</display-name>
+  </channel>
+  <programme channel="61" start="20220116110000 +0000" stop="20220116111000 +0000">
+    <title>A-League Men (G)</title>
+    <desc>A-League Men Replay: Perth Glory Vs Wellington Phoenix</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="61" start="20220116111000 +0000" stop="20220116131000 +0000">
+    <title>Adelaide International 2: Final (G)</title>
+    <desc>Replay coverage of the Final from Day 7 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="61" start="20220116131000 +0000" stop="20220116134000 +0000">
+    <title>Road To Beijing: Finn Bilous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220116134000 +0000" stop="20220116141000 +0000">
+    <title>Road To Beijing: Alice Robinson (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220116141000 +0000" stop="20220116144000 +0000">
+    <title>Road To Beijing: Nico Porteous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220116144000 +0000" stop="20220116151000 +0000">
+    <title>NBL R7: SYD v Breakers hls (G)</title>
+    <desc>NBL R7: SYD v Breakers hls</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220116151000 +0000" stop="20220116172500 +0000">
+    <title>LIVE Champions Cup: WSP v TLS (G)</title>
+    <desc>LIVE Champions Cup: Wasps v Toulouse.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220116172500 +0000" stop="20220116193000 +0000">
+    <title>LIVE: Champions Cup: Clermont v Sharks (G)</title>
+    <desc>LIVE: Champions Cup: Clermont v Sale Sharks</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="61" start="20220116193000 +0000" stop="20220116213000 +0000">
+    <title>Champions Cup: ROC v BTH Replay (G)</title>
+    <desc>Champions Cup: La Rochelle v Bath Rugby Replay</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220116213000 +0000" stop="20220116220000 +0000">
+    <title>BBL: SS v ST Hls (G)</title>
+    <desc>Highlights of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20220116220000 +0000" stop="20220116223000 +0000">
+    <title>BBL: AS v PS Hls (G)</title>
+    <desc>Highlights of the 49th Big Bash League match between the Adelaide Strikers and Perth Scorchers at the Adelaide Oval, Adelaide.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20220116223000 +0000" stop="20220117003000 +0000">
+    <title>Quad Netball TBC (G)</title>
+    <desc>Quad Netball TBC</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220117003000 +0000" stop="20220117013000 +0000">
+    <title>The Ashes: 5th Test Day 3 Hls (G)</title>
+    <desc>Highlights from Day 3 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20220117013000 +0000" stop="20220117100500 +0000">
+    <title>LIVE: The Ashes: 5th Test Day 4 (G)</title>
+    <desc>LIVE coverage from Day 4 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart. First ball at 3:30pm.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20220117100500 +0000" stop="20220117110000 +0000">
+    <title>Champions Cup: EXE v GLA Replay (G)</title>
+    <desc>Champions Cup: Exeter Chiefs v Glasgow Warriors Replay</desc>
+    <category>Sports</category>
+  </programme>
+  <channel id="62">
+    <display-name>sky-sport-3</display-name>
+  </channel>
+  <programme channel="62" start="20220116110000 +0000" stop="20220116123000 +0000">
+    <title>LIVE: BBL: MS v BH (G)</title>
+    <desc>LIVE coverage of the 51st match of the Big Bash League match between the Melbourne Stars and Brisbane Heat at the MCG, Melbourne.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220116123000 +0000" stop="20220116125500 +0000">
+    <title>BBL: AS v PS Mini (G)</title>
+    <desc>Mini highlights of the 49th Big Bash League match between the Adelaide Strikers and Perth Scorchers at the Adelaide Oval, Adelaide.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220116125500 +0000" stop="20220116151000 +0000">
+    <title>LIVE Champions Cup: WSP v TLS (G)</title>
+    <desc>LIVE Champions Cup: Wasps v Toulouse.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="62" start="20220116151000 +0000" stop="20220116172000 +0000">
+    <title>LIVE Champions Cup: WSP v TLS (G)</title>
+    <desc>LIVE Champions Cup: Wasps v Toulouse.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="62" start="20220116172000 +0000" stop="20220116192000 +0000">
+    <title>The Ashes: 5th Test Day 3 (G)</title>
+    <desc>Replay coverage from Day 3 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220116192000 +0000" stop="20220116194000 +0000">
+    <title>BBL: SS v ST Mini (G)</title>
+    <desc>Mini highlights of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220116194000 +0000" stop="20220116200000 +0000">
+    <title>BBL: MS v BH Mini (G)</title>
+    <desc>Mini highlights of the 51st match of the Big Bash League match between the Melbourne Stars and Brisbane Heat at the MCG, Melbourne.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220116200000 +0000" stop="20220116210000 +0000">
+    <title>The Ashes: 5th Test Day 3 Hls (G)</title>
+    <desc>Highlights from Day 3 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220116210000 +0000" stop="20220117043000 +0000">
+    <title>WI v IRE: 3rd ODI (G)</title>
+    <desc>Replay coverage of the third One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220117043000 +0000" stop="20220117080000 +0000">
+    <title>WI v IRE: 1st T20 (G)</title>
+    <desc>Replay coverage of the first T20 International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220117080000 +0000" stop="20220117090000 +0000">
+    <title>ICC U19 CWC: BAN v ENG Hls (G)</title>
+    <desc>Highlights of the ICC U19 Cricket World Cup match between Bangladesh and England at Warner Park, St Kitts and Nevis.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220117090000 +0000" stop="20220117094500 +0000">
+    <title>BBL: SS v ST Hls (G)</title>
+    <desc>Highlights of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220117094500 +0000" stop="20220117110000 +0000">
+    <title>LIVE: BBL: HH v MR (G)</title>
+    <desc>LIVE coverage of the 52nd Big Bash League match between the Hobart Hurricanes and Melbourne Renegades at Blundstone Arena, Hobart.</desc>
+    <category>Cricket</category>
+  </programme>
+  <channel id="63">
+    <display-name>sky-sport-4</display-name>
+  </channel>
+  <programme channel="63" start="20220116110000 +0000" stop="20220116130000 +0000">
+    <title>Snooker: Masters: Day 7 (G)</title>
+    <desc>World Snooker Tour: Masters 2022: Day 7 Evening Session: The second longest running tournament in Snooker history continues as Snooker's best compete at Alexandra Palace, London, England.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20220116130000 +0000" stop="20220116173000 +0000">
+    <title>LIVE: Snooker: Masters: Final (G)</title>
+    <desc>World Snooker Tour: Masters 2022: Day 8 Afternoon Session: The second longest running tournament in Snooker concludes as this year's finalists compete at Alexandra Palace, London, England.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20220116173000 +0000" stop="20220116180000 +0000">
+    <title>NRL 2021: Warriors Top 10 Tries - WAR v SGI (G)</title>
+    <desc>The New Zealand Warriors took on the St George Illawarra Dragons in Round 6 of the competition which saw a stunning try from our own captain Roger Tuivasa-Sheck which were the match winning points we needed!</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220116180000 +0000" stop="20220116183000 +0000">
+    <title>NRL 2021: Warriors Top 10 Tries - WAR v MAN (G)</title>
+    <desc>The New Zealand Warriors took on the Manly Sea Eagles in Round 5 of the competition which saw a pass out to the wing, which looked to be intercepted by Manly, but was saved just in time by Ken Maumalo.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220116183000 +0000" stop="20220116190000 +0000">
+    <title>NRL 2021: Warriors Top 10 Tries - WAR v WST (G)</title>
+    <desc>The New Zealand Warriors took on the Wests Tigers in Round 11 of the competition which saw a long play end with the ball going out wide to Marcelo Montoya who managed to get it over the line, even after a big collision at the last second.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220116190000 +0000" stop="20220116220000 +0000">
+    <title>LIVE: Snooker: Masters: Final (G)</title>
+    <desc>World Snooker Tour: Masters 2022: Day 8 Evening Session: The second longest running tournament in Snooker concludes this year's finalists compete for the trophy at Alexandra Palace, London, England.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20220116220000 +0000" stop="20220116223000 +0000">
+    <title>NRL 2021: Warriors Top 10 Tries - WAR v CRO (G)</title>
+    <desc>The New Zealand Warriors took on the Cronulla Sharks in Round 21 of the competition which saw Euan Aitken claim the ball and have to wrestle off 2 defenders, showing his strength as he pushes it over the line.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220116223000 +0000" stop="20220117020000 +0000">
+    <title>BBL: SS v ST (G)</title>
+    <desc>Replay coverage of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="63" start="20220117020000 +0000" stop="20220117023000 +0000">
+    <title>2021 Storm Wins (G)</title>
+    <desc>Highlights of the Round 16 match of the NRL Premiership between the Sydney Roosters and Melbourne Storm from Sydney Cricket Ground in Sydney.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220117023000 +0000" stop="20220117030000 +0000">
+    <title>2021 Storm Wins (G)</title>
+    <desc>Highlights of the Round 18 match of the NRL Premiership between Melbourne Storm and the Newcastle Knights from AAMI Park in Melbourne.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220117030000 +0000" stop="20220117033000 +0000">
+    <title>2021 Storm Wins (G)</title>
+    <desc>Join Sky Sport for Highlight coverage of Round 23 of the 2021 NRL Premiership as the Gold Coast Titans take on the Melbourne Storm from Cbus Super Stadium, Gold Coast.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20220117033000 +0000" stop="20220117070000 +0000">
+    <title>Snooker: Masters: Final (G)</title>
+    <desc>World Snooker Tour: Masters 2022: Day 8 Afternoon Session: One of the Triple Crown events and the second longest running tournament in professional Snooker history concludes as this year's finalists compete at Alexandra Palace, London, England.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20220117070000 +0000" stop="20220117095000 +0000">
+    <title>Snooker: Masters: Final (G)</title>
+    <desc>World Snooker Tour: Masters 2022: Day 8 Evening Session: The trophy is on the line as this year's finalists compete at Alexandra Palace, London, England.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20220117095000 +0000" stop="20220117110000 +0000">
+    <title>LIVE: ICC U19 CWC: WI v SCO (G)</title>
+    <desc>LIVE coverage of the ICC U19 Cricket World Cup match between West Indies and Scotland at Warner Park, St Kitts &amp; Nevis.</desc>
+    <category>Cricket</category>
+  </programme>
+  <channel id="83">
+    <display-name>sky-sport-5</display-name>
+  </channel>
+  <programme channel="83" start="20220116110000 +0000" stop="20220116180000 +0000">
+    <title>LIVE: ICC U19 CWC: BAN v ENG (G)</title>
+    <desc>LIVE coverage of the ICC U19 Cricket World Cup match between Bangladesh and England at Warner Park, St Kitts and Nevis.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="83" start="20220116180000 +0000" stop="20220116190000 +0000">
+    <title>Dakar Rally Stage 11 Hls (G)</title>
+    <desc>Highlights of the Dakar Rally Stage 11 from Saudi Arabia.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220116190000 +0000" stop="20220116200000 +0000">
+    <title>Dakar Rally Stage 12 Hls (G)</title>
+    <desc>Highlights of the Dakar Rally Stage 12  from Saudi Arabia.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220116200000 +0000" stop="20220116220000 +0000">
+    <title>FIM: 24 Heures Motos Replay (G)</title>
+    <desc>Replay of the last 2 hours at the FIM Endurance World Championship - 24 Heures Motos, from France.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220116220000 +0000" stop="20220117000000 +0000">
+    <title>FIM: 12 Hours of Estoril Replay (G)</title>
+    <desc>Replay of the 2021 FIM Endurance World Championship, 12 Hours of Estoril, from Portugal (last 2 hours).</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220117000000 +0000" stop="20220117020000 +0000">
+    <title>FIM: Bol d'Or Replay (G)</title>
+    <desc>Replay FIM Endurance World Championship from the 24 hour Bol d'Or from France. (last 2 hours).</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220117020000 +0000" stop="20220117040000 +0000">
+    <title>FIM EWC: 6 Hours of Most (G)</title>
+    <desc>FIM Endurance World Championship from the 6 Hours of Most, last 2 hours, Czech Republic.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220117040000 +0000" stop="20220117060000 +0000">
+    <title>WEC: 6 Hours of Spa Replay (G)</title>
+    <desc>Replay of the 2021 FIA World Endurance Championship opener from Belgium. (Final 2 hours).</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220117060000 +0000" stop="20220117080000 +0000">
+    <title>WEC: 8 Hours Of Portimao Replay (G)</title>
+    <desc>Replay of the FIA World Endurance Championship event - 8 Hours of Portimao from Portugal (final 2 hours).</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220117080000 +0000" stop="20220117100000 +0000">
+    <title>WEC: 6 Hours of Monza Replay (G)</title>
+    <desc>Replay of the 2021 FIA World Endurance Chamionship event, 6 Hours of Monza, from Italy (last 2 hours).</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20220117100000 +0000" stop="20220117110000 +0000">
+    <title>WEC: Le Mans Replay (G)</title>
+    <desc>From France, the historic 24 Hours of Le Mans endurance race, final 3 hours.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <channel id="84">
+    <display-name>sky-sport-6</display-name>
+  </channel>
+  <programme channel="84" start="20220116110000 +0000" stop="20220116120000 +0000">
+    <title>Australian PGA: Round 4 (G)</title>
+    <desc>Replay Australian PGA Champs. Round 4 played at the Royal Queensland Golf Club in Brisbane.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116120000 +0000" stop="20220116123000 +0000">
+    <title>PGA Tour: Round 3 Hls (G)</title>
+    <desc>Highlights PGA Tour. Sony Open Round 3 played at Waialae Country Club on Oahu, Hawaii.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116123000 +0000" stop="20220116130000 +0000">
+    <title>US Amateur Women's Golf Hls (G)</title>
+    <desc>Highlights US Amateur Women's Golf. Round 1 at Westchester Country Club in Rye, New York.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116130000 +0000" stop="20220116133000 +0000">
+    <title>US Amateur Women's Golf Hls (G)</title>
+    <desc>Highlights US Amateur Women's Golf. Round 1 at Westchester Country Club in Rye, New York.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116133000 +0000" stop="20220116140000 +0000">
+    <title>US Amateur Women's Golf Hls (G)</title>
+    <desc>Highlights US Amateur Women's Golf. Round 2 at Westchester Country Club in Rye, New York.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116140000 +0000" stop="20220116143000 +0000">
+    <title>US Amateur Women's Golf Hls (G)</title>
+    <desc>Highlights US Amateur Women's Golf. Round 4 at Westchester Country Club in Rye, New York.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116143000 +0000" stop="20220116150000 +0000">
+    <title>US Amateur Women's Golf Hls (G)</title>
+    <desc>Highlights US Amateur Women's Golf. Round 5 at Westchester Country Club in Rye, New York.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116150000 +0000" stop="20220116153000 +0000">
+    <title>PGA Tour: Round 3 Hls (G)</title>
+    <desc>Highlights PGA Tour. Sony Open Round 3 played at Waialae Country Club on Oahu, Hawaii.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116153000 +0000" stop="20220116160000 +0000">
+    <title>PGA Tour: The Cut</title>
+    <desc>No Description Available</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116160000 +0000" stop="20220116180000 +0000">
+    <title>PGA Tour: Round 3 (G)</title>
+    <desc>Replay PGA Tour. Sony Open Round 3 played at Waialae Country Club on Oahu, Hawaii.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20220116180000 +0000" stop="20220117105900 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
+  </programme>
+  <channel id="85">
+    <display-name>sky-sport-7</display-name>
+  </channel>
+  <programme channel="85" start="20220116110000 +0000" stop="20220116112500 +0000">
+    <title>Bundesliga Mini (G)</title>
+    <desc>Cologne v Bayern. Exclusive coverage from the 59th season of the German Bundesliga.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116112500 +0000" stop="20220116115500 +0000">
+    <title>EFL Mini (G)</title>
+    <desc>Luton v Bournemouth. Enjoy extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116115500 +0000" stop="20220116135500 +0000">
+    <title>LIVE: EFL (G)</title>
+    <desc>Hull v Stoke. Extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116135500 +0000" stop="20220116155500 +0000">
+    <title>LIVE: Serie A (G)</title>
+    <desc>Bologna v Napoli. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116155500 +0000" stop="20220116161000 +0000">
+    <title>Serie A Classic (G)</title>
+    <desc>Napoli v Lazio. 2020/21: Rewind the clock and enjoy some of the classics from Serie A.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116161000 +0000" stop="20220116164000 +0000">
+    <title>Serie A Classics (G)</title>
+    <desc>Roma v Napoli. Mini Match. Rewind the clock and enjoy some of the classics from Europes premier club football competitions.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116164000 +0000" stop="20220116165000 +0000">
+    <title>Serie A Classic (G)</title>
+    <desc>Roma v Lazio. 2020/21: Rewind the clock and enjoy some of the classics from Serie A.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116165000 +0000" stop="20220116185500 +0000">
+    <title>LIVE: Serie A (G)</title>
+    <desc>Roma v Cagliari. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116185500 +0000" stop="20220116191000 +0000">
+    <title>Serie A Classic (G)</title>
+    <desc>Roma v Milan. Rewind the clock and enjoy some of the classics from Europes premier club football competitions.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116191000 +0000" stop="20220116192500 +0000">
+    <title>Serie A Classic (G)</title>
+    <desc>Milan v Roma. 2020/21: Rewind the clock and enjoy some of the classics from Serie A.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116192500 +0000" stop="20220116193500 +0000">
+    <title>Serie A Classic (G)</title>
+    <desc>Milan v Inter. 2018/19: Rewind the clock and enjoy some of the classics from Serie A.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116193500 +0000" stop="20220116214000 +0000">
+    <title>LIVE: Serie A (G)</title>
+    <desc>Atalanta v Inter. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116214000 +0000" stop="20220116215500 +0000">
+    <title>Serie A Classic (G)</title>
+    <desc>Inter v Juventus. Rewind the clock and enjoy some of the classics from Europes premier club football competitions.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116215500 +0000" stop="20220116234000 +0000">
+    <title>EFL (G)</title>
+    <desc>Hull v Stoke. Extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220116234000 +0000" stop="20220117012500 +0000">
+    <title>Serie A (G)</title>
+    <desc>Atalanta v Inter. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117012500 +0000" stop="20220117014000 +0000">
+    <title>Serie A Classic (G)</title>
+    <desc>Inter v Milan. Rewind the clock and enjoy some of the classics from Europes premier club football competitions.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117014000 +0000" stop="20220117032500 +0000">
+    <title>A-League Women (G)</title>
+    <desc>Wellington Phoenix v Brisbane Roar. The 14th season of the Australian national womens association football competition.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117032500 +0000" stop="20220117051000 +0000">
+    <title>A-League Men (G)</title>
+    <desc>Perth Glory v Wellington Phoenix. Watch coverage from every round of Isuzu UTE A-League 2021/22, Australias top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117051000 +0000" stop="20220117060500 +0000">
+    <title>Ligue 1 Highlights (G)</title>
+    <desc>MD 21. All the highlights from the latest round of games in Ligue 1, Frances top division of football</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117060500 +0000" stop="20220117070000 +0000">
+    <title>Bundesliga Highlights (G)</title>
+    <desc>Sunday - Rnd 19. All the action from the latest round of games in the German Bundesliga, Germanys top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117070000 +0000" stop="20220117073000 +0000">
+    <title>EFL Highlights (G)</title>
+    <desc>MD 21. All the action from the latest weekend of games in the Sky Bet Championship, League One and League Two.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117073000 +0000" stop="20220117075500 +0000">
+    <title>A-League Women Mini (G)</title>
+    <desc>Wellington Phoenix v Brisbane Roar. The 14th season of the Australian national womens association football competition.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117075500 +0000" stop="20220117082500 +0000">
+    <title>Serie A Mini (G)</title>
+    <desc>Atalanta v Inter. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117082500 +0000" stop="20220117102500 +0000">
+    <title>Chelsea TV (G)</title>
+    <desc>Man City v Chelsea. Enjoy every Chelsea FC first team match from every major competition in full, plus classic encounters, only on beIN Sports</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117102500 +0000" stop="20220117105500 +0000">
+    <title>Chelsea TV (G)</title>
+    <desc>Premier League Years  97/98. In this series we chronicle the season by season performance of the Blues since the Premier League began</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20220117105500 +0000" stop="20220117110000 +0000">
+    <title>Inside Chelsea (G)</title>
+    <desc>A behind the scenes look at Chelsea FC to bring you the latest news and views on the Blues</desc>
+    <category>Soccer</category>
+  </programme>
+  <channel id="86">
+    <display-name>sky-sport-8</display-name>
+  </channel>
+  <programme channel="86" start="20220116110000 +0000" stop="20220116124500 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Free Skating takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116124500 +0000" stop="20220116130000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Victory Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116130000 +0000" stop="20220116162500 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Ice Dance takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116162500 +0000" stop="20220116203000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Women's Free Skating takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116203000 +0000" stop="20220116230000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Exhibition Gala takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220116230000 +0000" stop="20220117000000 +0000">
+    <title>La Vuelta Final Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for final highlights..</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="86" start="20220117000000 +0000" stop="20220117080000 +0000">
+    <title>LIVE: Australian Open: Extra 1 (G)</title>
+    <desc>Sky Sport is proud to bring you the 2022 Australian Open, the first tennis Grand Slam event of the year. Tune in for additional LIVE coverage of the action from Day 1, Day Session at Melbourne Park.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20220117080000 +0000" stop="20220117110000 +0000">
+    <title>LIVE: Australian Open: Extra 1 (G)</title>
+    <desc>Sky Sport is proud to bring you the 2022 Australian Open, the first tennis Grand Slam event of the year. Tune in for additional LIVE coverage of the action from Day 1, Night Session at Melbourne Park.</desc>
+    <category>Tennis</category>
+  </programme>
+  <channel id="87">
+    <display-name>sky-sport-9</display-name>
+  </channel>
+  <programme channel="87" start="20220116110000 +0000" stop="20220116113000 +0000">
+    <title>La Vuelta Stage 16 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for Stage 16, this goes from Laredo to Santa Cruz de Bezana. The race along the Cantabrian coast is 170.8 kilometres long. Fairly sprinter-friendly course.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116113000 +0000" stop="20220116120000 +0000">
+    <title>La Vuelta Stage 17 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for Stage 17,  is a mountainous test of 181.6 kilometres long. The infamous climb to the Lagos de Covadonga serves as the finale of a race with three intermediate ascents. Unquera &gt; Lagos De Covadonga.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116120000 +0000" stop="20220116123000 +0000">
+    <title>La Vuelta Stage 18 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for Stage 18, this stage is the hardest of the entire Vuelta. The finale is played out on the Gamoniteiro, a 15.2 kilometres climb at 9.6%. Salas &gt; Gamoniteiro.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116123000 +0000" stop="20220116135500 +0000">
+    <title>LIVE: UCI Cyclo-Cross World Cup (G)</title>
+    <desc>LIVE: UCI Cyclo-Cross World Cup 2021: Flamanville. Tune in for the Women's Elite from Flamanville, France.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116135500 +0000" stop="20220116153000 +0000">
+    <title>LIVE: UCI Cyclo-Cross World Cup (G)</title>
+    <desc>LIVE: UCI Cyclo-Cross World Cup 2021: Flamanville. Tune in for the Men's Elite from Flamanville, France.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116153000 +0000" stop="20220116160000 +0000">
+    <title>La Vuelta Stage 19 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. The 19th stage of La Vuelta is played out to the west of Madrid. The 165.2 kilometres route, which runs from Ávila to Toledo, is predominantly flat. Yet, the cobbled finale runs uphill.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116160000 +0000" stop="20220116163000 +0000">
+    <title>La Vuelta Stage 20 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. The 20th stage leads from Arenas de San Pedro to the Plataforma de Gredos. The race features a series of intermediate climbs before the final haul. Arenas De San Pedro &gt; Plataforma De Gredos.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116163000 +0000" stop="20220116170000 +0000">
+    <title>La Vuelta Stage 21 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021.  The final stage of the Vuelta a España runs from Fuenlabrada to Madrid. As always, the Spanish Grand Tour ends on a 5.9 kilometres circuit in the Spanish capital. Flat route, so expect a group sprint. Fuenlabrada &gt; Madrid.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116170000 +0000" stop="20220116173000 +0000">
+    <title>NBL R7: SYD v Breakers hls (G)</title>
+    <desc>NBL R7: SYD v Breakers hls</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220116173000 +0000" stop="20220116193000 +0000">
+    <title>Adelaide International 2: Final (G)</title>
+    <desc>Replay coverage of the Final from Day 7 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="87" start="20220116193000 +0000" stop="20220116213000 +0000">
+    <title>Champions Cup: WSP v TLS Replay (G)</title>
+    <desc>Champions Cup: Wasps v Toulouse Replay</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220116213000 +0000" stop="20220116223000 +0000">
+    <title>La Vuelta Final Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for final highlights..</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220116223000 +0000" stop="20220117000000 +0000">
+    <title>NZ Rugby Awards (G)</title>
+    <desc>Join us for a celebration of Rugby in New Zealand as the top men and women are honoured for their contribution to our national game at the 2021 Rugby Awards.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220117000000 +0000" stop="20220117080000 +0000">
+    <title>2022 Australian Open Extra 2: Day 1 LIVE</title>
+    <desc>2022 Australian Open Extra 2: Day 1 LIVE</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220117080000 +0000" stop="20220117090000 +0000">
+    <title>TARGA Tasmania Hls (G)</title>
+    <desc>Highlights from the 2021 TARGA Tasmania.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="87" start="20220117090000 +0000" stop="20220117093000 +0000">
+    <title>La Vuelta Stage 11 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for stage 11, at 131.6 kilometres, this stage is a relatively short test. It's a lumpy race with a brutal finale. Antequera &gt; Valdepenas De Jaen.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220117093000 +0000" stop="20220117100000 +0000">
+    <title>La Vuelta Stage 12 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for stage 12, running from Jaén to Córdoba, this stage amounts to 166.8 kilometres. The finale features the Alto del14% before a 10 kilometres descent leads onto a flat run in third largest city Andalucia.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220117100000 +0000" stop="20220117103000 +0000">
+    <title>La Vuelta Stage 13 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for stage 13, this stage travels on the flat from Belmez to Villanueva. The race adds up to 197.2 kilometres. Belmez &gt; Villanueva De La Serena.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="87" start="20220117103000 +0000" stop="20220117110000 +0000">
+    <title>La Vuelta Stage 14 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for stage 14, at 159.7 kilometres, this stage travels from Don Benito to a summit finish at Pico Villuercas. The climb to the line adds up 16.5 kilometres. Don Benito &gt; Pico Villuercas.</desc>
+    <category>Cycling</category>
+  </programme>
+  <channel id="88">
+    <display-name>sky-sport-news</display-name>
+  </channel>
+  <programme channel="88" start="20220116110000 +0000" stop="20220116113000 +0000">
+    <title>Road To Beijing: Alice Robinson (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220116113000 +0000" stop="20220116123000 +0000">
+    <title>Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220116123000 +0000" stop="20220116130000 +0000">
+    <title>Rugby: JPN v AUS Hls (G)</title>
+    <desc>International rugby highlights of the Brave Blossoms hosting the Wallabies from Oita, Japan.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20220116130000 +0000" stop="20220116133000 +0000">
+    <title>Rugby: Ireland V Japan Hls (G)</title>
+    <desc>Highlights as Ireland host Japan from Aviva Stadium in Dublin.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20220116133000 +0000" stop="20220116140000 +0000">
+    <title>Rugby: SCO v JPN Hls (G)</title>
+    <desc>Highlights of the Brave Blossoms clash with Scotland in Edinburgh.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20220116140000 +0000" stop="20220116150000 +0000">
+    <title>Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220116150000 +0000" stop="20220116170000 +0000">
+    <title>A-League Women: WEL v BRI (G)</title>
+    <desc>A-League Women Replay: Wellington Phoenix V Brisbane Roar Fc</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="88" start="20220116170000 +0000" stop="20220116173000 +0000">
+    <title>PGA Round 3 Hls (G)</title>
+    <desc>PGA Round 3 Hls</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="88" start="20220116173000 +0000" stop="20220116180000 +0000">
+    <title>Road To Beijing: Finn Bilous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220116180000 +0000" stop="20220116183000 +0000">
+    <title>A-League Men Hls: PER v WEL (G)</title>
+    <desc>A-League Men Hls Round 10: Perth Glory Vs Wellington Phoenix</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="88" start="20220116183000 +0000" stop="20220116190000 +0000">
+    <title>WI v IRE: 1st T20 Hls (G)</title>
+    <desc>Highlights of the first T20 International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="88" start="20220116190000 +0000" stop="20220116200000 +0000">
+    <title>The Ashes: 5th Test Day 3 Hls (G)</title>
+    <desc>Highlights from Day 3 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="88" start="20220116200000 +0000" stop="20220116210000 +0000">
+    <title>LIVE: Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220116210000 +0000" stop="20220116213000 +0000">
+    <title>Road To Beijing: Margaux Hackett</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Margaux Hackett.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220116213000 +0000" stop="20220116233000 +0000">
+    <title>Champions Cup: EXE v GLA Replay (G)</title>
+    <desc>Champions Cup: Exeter Chiefs v Glasgow Warriors Replay</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220116233000 +0000" stop="20220117000000 +0000">
+    <title>NBL R7: SYD v Breakers hls (G)</title>
+    <desc>NBL R7: SYD v Breakers hls</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117000000 +0000" stop="20220117010000 +0000">
+    <title>Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117010000 +0000" stop="20220117030000 +0000">
+    <title>Champions Cup: EXE v GLA Replay (G)</title>
+    <desc>Champions Cup: Exeter Chiefs v Glasgow Warriors Replay</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117030000 +0000" stop="20220117040000 +0000">
+    <title>Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117040000 +0000" stop="20220117043000 +0000">
+    <title>Japan Rugby League One (G)</title>
+    <desc>Highlights coverage of Japan Rugby League One, as Shining Arcs Tokyo-Bay Urayasu host Kubota Spears Funabashi Tokyo-Bay at Prince Chichibu Memorial Rugby Ground, Tokyo.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20220117043000 +0000" stop="20220117050000 +0000">
+    <title>Japan Rugby League One (G)</title>
+    <desc>Highlights coverage of Japan Rugby League One, as Tokyo Sungoliath at Toyota Verblitz at Azinomoto Stadium, Tokyo.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20220117050000 +0000" stop="20220117053000 +0000">
+    <title>BBL: MS v BH Hls (G)</title>
+    <desc>Highlights of the 51st match of the Big Bash League match between the Melbourne Stars and Brisbane Heat at the MCG, Melbourne.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="88" start="20220117053000 +0000" stop="20220117060000 +0000">
+    <title>BBL: SS v ST Hls (G)</title>
+    <desc>Highlights of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="88" start="20220117060000 +0000" stop="20220117063000 +0000">
+    <title>LIVE: The Crowd Goes Wild (PG)</title>
+    <desc>Join the team for an alternative dose of sports news, delivering the best (and worst) sporting moments the only way they know how, with a little cheek!</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117063000 +0000" stop="20220117073000 +0000">
+    <title>ICC U19 CWC: BAN v ENG Hls (G)</title>
+    <desc>Highlights of the ICC U19 Cricket World Cup match between Bangladesh and England at Warner Park, St Kitts and Nevis.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="88" start="20220117073000 +0000" stop="20220117080000 +0000">
+    <title>Quad Netball Hls TBC (G)</title>
+    <desc>Quad Netball Highlights TBC</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117080000 +0000" stop="20220117090000 +0000">
+    <title>LIVE: Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117090000 +0000" stop="20220117093000 +0000">
+    <title>NBL R7: SYD v Breakers hls (G)</title>
+    <desc>NBL R7: SYD v Breakers hls</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117093000 +0000" stop="20220117100000 +0000">
+    <title>The Crowd Goes Wild (PG)</title>
+    <desc>Join the team for an alternative dose of sports news, delivering the best (and worst) sporting moments the only way they know how, with a little cheek!</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20220117100000 +0000" stop="20220117103000 +0000">
+    <title>A-League Men Hls: PER v WEL (G)</title>
+    <desc>A-League Men Hls Round 10: Perth Glory Vs Wellington Phoenix</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="88" start="20220117103000 +0000" stop="20220117110000 +0000">
+    <title>Quad Netball Hls TBC (G)</title>
+    <desc>Quad Netball Highlights TBC</desc>
+    <category>Sports</category>
+  </programme>
+  <channel id="93">
+    <display-name>sky-sport-popup-1</display-name>
+  </channel>
+  <programme channel="93" start="20220116110000 +0000" stop="20220116170000 +0000">
+    <title>Coming Up: Golf (G)</title>
+    <desc>Tune in for LIVE coverage of Golf: Asian Tour.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220116170000 +0000" stop="20220117110000 +0000">
+    <title>Coming Up: Golf (G)</title>
+    <desc>Tune in on 23 January for LIVE coverage of Round 4 of the Latin American Amateur Championship.</desc>
     <category>Sports</category>
   </programme>
 </tv>
