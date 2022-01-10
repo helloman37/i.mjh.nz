@@ -55,16 +55,6 @@
     <sub-title>Rainy Day Summer Run</sub-title>
     <category>Other</category>
   </programme>
-  <programme channel="5331d5fb753499095a00045a" start="20220110140000 +0000" stop="20220110150000 +0000">
-    <title>Damage Report</title>
-    <desc>John Iadarola discusses important and pressing issues to take on.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5331d5fb753499095a00045a" start="20220110150000 +0000" stop="20220110160000 +0000">
-    <title>Dr. Rashad Richey: Indisputable</title>
-    <desc>Dr. Richey talks about the top news stories of the day, reads viewer comments, and engages in debates and conversations with guests.</desc>
-    <category>News and Information</category>
-  </programme>
   <programme channel="5331d5fb753499095a00045a" start="20220110160000 +0000" stop="20220110180000 +0000">
     <title>The Young Turks</title>
     <desc>A news and commentary program focusing on current events and topics.</desc>
@@ -79,334 +69,6 @@
     <title>The Conversation</title>
     <desc>In-depth conversations with celebrities, creators, political leaders, and more on the issues facing a constantly changing culture.</desc>
     <category>News and Information</category>
-  </programme>
-  <programme channel="5331d5fb753499095a00045a" start="20220110193000 +0000" stop="20220110203000 +0000">
-    <title>Dr. Rashad Richey: Indisputable</title>
-    <desc>Dr. Richey talks about the top news stories of the day, reads viewer comments, and engages in debates and conversations with guests.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5417a212ff9fba68282fbf5e" start="20220110103000 +0000" stop="20220110154500 +0000">
-    <title>Glory Fights: Glory 19 Virginia</title>
-    <desc>Watch the Glory 19 fights from Virginia as Glory World Series shows off why they are the top kickboxing promotion  in the world.</desc>
-    <sub-title>Glory 19 Virginia</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5417a212ff9fba68282fbf5e" start="20220110154500 +0000" stop="20220110183000 +0000">
-    <title>Glory Kickboxing: Glory 22 Fights</title>
-    <desc>Watch some of the fights from the Glory 22 event from France which featured a main event on Rico Verhoeven putting his belt on the line.</desc>
-    <sub-title>Glory 22 Fights</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5417a212ff9fba68282fbf5e" start="20220110183000 +0000" stop="20220110203000 +0000">
-    <title>Glory Kickboxing</title>
-    <desc>Glory Kickboxing features some of the top kickboxing fights featuring the best kickboxers in the world. In this episode: Glory 24 in Denver.</desc>
-    <sub-title>Glory 24 Denver</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="545943f1c9f133a519bbac92" start="20220110123000 +0000" stop="20220110143000 +0000">
-    <title>Mystery Science Theater 3000: Last Of The Wild Horses</title>
-    <desc>A cowboy winds up in the middle of a turf war between a rancher and his neighbors in Last of the Wild Horses.</desc>
-    <sub-title>Last Of The Wild Horses</sub-title>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="545943f1c9f133a519bbac92" start="20220110143000 +0000" stop="20220110163000 +0000">
-    <title>MST3K: Project Moonbase</title>
-    <desc>Joel and the Bots watch two more Commando Cody episodes and a film about a sabotaged space station. They also introduce their new product SPACOM to the Mads.</desc>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="545943f1c9f133a519bbac92" start="20220110163000 +0000" stop="20220110170000 +0000">
-    <title>MST3K Shorts</title>
-    <desc>Friendly Patrolman Hal Jackson visits the Dixon family to instruct their youngest son, Alan, in the art of safe and courteous driving.</desc>
-    <sub-title>Last Clear Chance</sub-title>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="545943f1c9f133a519bbac92" start="20220110170000 +0000" stop="20220110190000 +0000">
-    <title>Mystery Science Theater 3000: Hellcats</title>
-    <desc>Joel and the 'bots attempt to puzzle out what's going on in the unintelligible biker film, The Hellcats (1968). Flashbacks from earlier episodes fill out the host segments.</desc>
-    <sub-title>Hellcats</sub-title>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="545943f1c9f133a519bbac92" start="20220110190000 +0000" stop="20220110210000 +0000">
-    <title>Mystery Science Theater 3000: Hercules And The Captive Women</title>
-    <desc>The guys face off against Hercules once again as the strong man fights evil Queen Antinea to get his son back in Hercules and the Captive Women.</desc>
-    <sub-title>Hercules And The Captive Women</sub-title>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220110140000 +0000" stop="20220110150000 +0000">
-    <title>Bloomberg Markets: The Open</title>
-    <desc>Jonathan Ferro takes viewers through the market-moving events from around the world during the most important hour of the trading day.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220110150000 +0000" stop="20220110160000 +0000">
-    <title>Bloomberg Markets: Americas</title>
-    <desc>From New York, global business and markets news.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220110160000 +0000" stop="20220110170000 +0000">
-    <title>Bloomberg Markets: European Close</title>
-    <desc>Live from New York and London; analyzing the major market-moving stories across the day in Europe, hearing from the biggest newsmakers and showcasing the expertise of Bloomberg News.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220110170000 +0000" stop="20220110180000 +0000">
-    <title>Bloomberg: Balance of Power</title>
-    <desc>Focusing on the intersection of politics and global business.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220110180000 +0000" stop="20220110190000 +0000">
-    <title>Bloomberg Markets</title>
-    <desc>The most important global business and breaking markets news and information as it happens.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220110190000 +0000" stop="20220110213000 +0000">
-    <title>Bloomberg Markets: The Close</title>
-    <desc>The final minutes and seconds before the closing bell on Wall Street with the latest news, data and expert analysis.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110140000 +0000" stop="20220110143000 +0000">
-    <title>Cook That: Movie Night Snake And Comfort Food Challenge</title>
-    <desc>Cooking competition show that pits your favorite digital stars against each other.</desc>
-    <sub-title>Movie Night Snake And Comfort Food Challenge</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110143000 +0000" stop="20220110150000 +0000">
-    <title>Cook That: Dessert And Lunchbox Challenge</title>
-    <desc>Cooking competition show that pits your favorite digital stars against each other.</desc>
-    <sub-title>Dessert And Lunchbox Challenge</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110150000 +0000" stop="20220110153000 +0000">
-    <title>Ready Set Style</title>
-    <desc>3 contestants get mystery boxes with clothing/accessory items and have to create the best outfit, using their items + a few things on the racks behind them.</desc>
-    <sub-title>Episode 1</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110153000 +0000" stop="20220110154500 +0000">
-    <title>Ready Set Style</title>
-    <desc>Three fashion stylists go head to head to style a turtle neck and take it from pastels to neons.</desc>
-    <sub-title>Turtle Neck</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110154500 +0000" stop="20220110160000 +0000">
-    <title>Ready Set Style</title>
-    <desc>Three fashion stylists go head to head to style a Leather Jacket and take it from grunge to girly.</desc>
-    <sub-title>Leather Jacket</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110160000 +0000" stop="20220110164500 +0000">
-    <title>Detected</title>
-    <desc>In this first episode, the STOKES TWINS ask each other a bunch of fun revealing questions and discover many new things about each other. Does Alex think he's better looking than Alan? Watch and find out.</desc>
-    <sub-title>Twin vs. Twin Lie Detector Test</sub-title>
-    <category>Reality</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110164500 +0000" stop="20220110174500 +0000">
-    <title>Detected</title>
-    <desc>In this episode of DETECTED, Tristan Tales and Alex Lange heat it up with a TON of crazy revealing questions for each other to see who's lying and who's telling the truth</desc>
-    <sub-title>Alex Lange and Tristan Tales Take a Lie Detector Test</sub-title>
-    <category>Reality</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110174500 +0000" stop="20220110183000 +0000">
-    <title>It's My Party</title>
-    <desc>There's a lot that goes into planning the party of your dreams. From picking a theme to finding a venue, making sure everything goes smoothly is no easy task. However, at the end of the day, it's your party!</desc>
-    <sub-title>Meet Alexa!</sub-title>
-    <category>Reality</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110183000 +0000" stop="20220110190000 +0000">
-    <title>Wheel of Fashion</title>
-    <desc>Caci Twins, Payton and Mikahl, are going head to head to create the best outfit using leopard print! Who do you think is the winner?</desc>
-    <sub-title>Leopard Print Challenge</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110190000 +0000" stop="20220110193000 +0000">
-    <title>Wheel of Fashion</title>
-    <desc>Meg DeAngelis and Josh Levi are going head to head to create the music festival outfit! Who do you think is the winner?</desc>
-    <sub-title>Music Festival Challenge</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110193000 +0000" stop="20220110200000 +0000">
-    <title>Wheel of Fashion</title>
-    <desc>Gabby and Carrington are going head to head to create the perfect RAINBOW outfit for a pool party! Who do you think is the winner?</desc>
-    <sub-title>Rainbow Challenge</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220110200000 +0000" stop="20220110203000 +0000">
-    <title>Malibu Surf</title>
-    <desc>A drama set on the shores of Malibu highlighting the love triangles of 10 teens.</desc>
-    <sub-title>Episodes 1 - 4</sub-title>
-    <category>Reality</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110140000 +0000" stop="20220110150000 +0000">
-    <title>Space: 1999</title>
-    <desc>The Alphans encounter the Voyager space probe that has been wandering the cosmos propelled by the Queller drive- a faulty engine system. Following the probe is a fleet of alien ships from a world devastated by the drive.</desc>
-    <sub-title>Voyager's Return</sub-title>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110150000 +0000" stop="20220110160000 +0000">
-    <title>Space: 1999</title>
-    <desc>Discredited eagle pilot Tony Cellini is beset by recurring nightmares in which he was the only survivor of disastrous space mission. Now the moon is approaching the same set of circumstances that Cellini encountered.</desc>
-    <sub-title>Dragon's Domain</sub-title>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110160000 +0000" stop="20220110170000 +0000">
-    <title>Space: 1999</title>
-    <desc>The Alphans encounter a miles-long ark from the planet Daria, where the inhabitants have a very distinctive class separation.</desc>
-    <sub-title>Mission of the Darians</sub-title>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110170000 +0000" stop="20220110180000 +0000">
-    <title>Space: 1999</title>
-    <desc>The moon is approaching a black hole. Professor Bergman is a able to rig up an energy shield around the moonbase, but Commander Koenig feels this is only a desperate measure and has an eagle with six personnel dispatched.</desc>
-    <sub-title>Black Sun</sub-title>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110180000 +0000" stop="20220110190000 +0000">
-    <title>Space: 1999</title>
-    <desc>While exploring a cavern in an asteroid, the Alphans release Balor, a sadistic alien who has achieved immortality.</desc>
-    <sub-title>End of Eternity</sub-title>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110190000 +0000" stop="20220110200000 +0000">
-    <title>Space: 1999</title>
-    <desc>Dr. Russell's presumed-dead husband mysteriously reappears on a reconnaissance mission to a nearby planet.</desc>
-    <sub-title>Matter of Life and Death</sub-title>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110200000 +0000" stop="20220110210000 +0000">
-    <title>Space: 1999</title>
-    <desc>A vessel of alien pacifists, bound for Earth, lands on the moon. They are greeted as friends by all- except Commissioner Simmons who sees their vessel as way to return home.</desc>
-    <sub-title>Earthbound</sub-title>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="55b179af994403942f3061d6" start="20220110140000 +0000" stop="20220110170000 +0000">
-    <title>The National Report</title>
-    <desc>"National Report" with Shaun Kraisman and Emma Rechenberg. for live breaking news from NY and Washington, on politics, health, finance, and lifestyle.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="55b179af994403942f3061d6" start="20220110170000 +0000" stop="20220110190000 +0000">
-    <title>John Bachman Now</title>
-    <desc>John Bachman tackles big news from DC, NY and around America.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="55b179af994403942f3061d6" start="20220110190000 +0000" stop="20220110210000 +0000">
-    <title>American Agenda</title>
-    <desc>A live, fast-paced look at national news and international events; Bob Sellers brings the news from Washington with insightful analysis from lawmakers and experts, with media reports from New York and around the world.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110140000 +0000" stop="20220110151500 +0000">
-    <title>CNET News</title>
-    <desc>PlayStation VR 2 details revealed: How amazing will it be? Watch the BMW iX M60 change colors on the fly, Cadillac InnerSpace: An autonomous luxury concept and more.</desc>
-    <sub-title>1/5/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110151500 +0000" stop="20220110161500 +0000">
-    <title>CNET News</title>
-    <desc>Asus Expertbook: A new line of business laptops, Garmin Venu 2 Plus is a solid fitness smartwatch, Lenovo adds a colorful second screen to the ThinkBook Plus Gen 3 and more.</desc>
-    <sub-title>1/5 - 1/4/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110161500 +0000" stop="20220110171500 +0000">
-    <title>CNET News</title>
-    <desc>PlayStation VR2: First look at Sony's next-generation VR system, check out everything unveiled at Hyundai's CES keynote, Hyundai's autonomous pod concepts debut at CES 2022 and more.</desc>
-    <sub-title>1/4/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110171500 +0000" stop="20220110174500 +0000">
-    <title>CNET News</title>
-    <desc>John Deere tractors go totally autonomous, ROG's shows off Zephyrus G14: A compact gaming laptop with impressive specs, ROG Swift OLED gaming monitors offer high-end specs and more.</desc>
-    <sub-title>1/4/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110174500 +0000" stop="20220110190000 +0000">
-    <title>CNET News</title>
-    <desc>See everything Intel unveiled at its CES press conference, everything announced at Nvidia's CES keynote, TCL's Mini-LEDs get upgraded: 85-inch TCL X9 OD Zero reveal and more.</desc>
-    <sub-title>1/4 - 1/3/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110190000 +0000" stop="20220110200000 +0000">
-    <title>CNET News</title>
-    <desc>First look at LG OLED TVs for 2022: The best TVs get brighter and bigger, LG QNED TVs eyes-on: Mini-LED, 8K resolution and nano color, Galaxy S21 FE: Samsung's affordable new alternative to the Galaxy S21 and more.</desc>
-    <sub-title>1/3 - 12/30/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110200000 +0000" stop="20220110204500 +0000">
-    <title>CNET News</title>
-    <desc>CES 2022: Most impressive tech, the best TVs of CES 2022 get bigger, crazier and more expensive, 5 of our favorite smart home products from CES 2022 and more.</desc>
-    <sub-title>1/7 - 1/6/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110140000 +0000" stop="20220110160000 +0000">
-    <title>Opening Bell</title>
-    <desc>Daily news about the people, policies and companies shaping the markets. Daily, 9-11:30am ET.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110160000 +0000" stop="20220110163000 +0000">
-    <title>Cheddar News</title>
-    <desc>The latest live business and technology headlines, plus constant Cheddar 50 stock market updates.</desc>
-    <sub-title>Cheddar Movers AM</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110163000 +0000" stop="20220110170000 +0000">
-    <title>Fast Forward</title>
-    <desc>Fast Forward explores the potential permanent changes, across industries, that we adopt after the pandemic is over.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110170000 +0000" stop="20220110190000 +0000">
-    <title>Cheddar Between Bells</title>
-    <desc>Feed your curiosity about what's next. Watch Cheddar News for live news and original shows that explore the people, ideas and innovations that are shaping your world.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110190000 +0000" stop="20220110220000 +0000">
-    <title>Cheddar Closing Bell</title>
-    <desc>Closing stock market trends and after-hours earnings, along with the latest in tech and more.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110135900 +0000" stop="20220110150000 +0000">
-    <title>Naturescape</title>
-    <desc>Experiencing the beaches of an Indonesian island set to a peaceful soundtrack.</desc>
-    <sub-title>Lombok Beaches: Indonesia</sub-title>
-    <category>Faith and Spirituality</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110150000 +0000" stop="20220110155900 +0000">
-    <title>Naturescape</title>
-    <desc>Exploring the dream-like side of the skies after dark, on Earth and in space.</desc>
-    <sub-title>Dark Calm, Earth and Beyond</sub-title>
-    <category>Faith and Spirituality</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110155900 +0000" stop="20220110165900 +0000">
-    <title>Fireplace: Banff</title>
-    <desc>A truer-than-life fireplace filmed in Banff, Canada.</desc>
-    <category>Faith and Spirituality</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110165900 +0000" stop="20220110180000 +0000">
-    <title>Fireplace: Banff</title>
-    <desc>A truer-than-life fireplace filmed in Banff, Canada.</desc>
-    <category>Faith and Spirituality</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110180000 +0000" stop="20220110185900 +0000">
-    <title>Sunrise Meditation</title>
-    <desc>Easimg into the day with the sound of lapping waves and breathtaking beaches from around the world.</desc>
-    <category>Faith and Spirituality</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110185900 +0000" stop="20220110200000 +0000">
-    <title>Atuh Beach: Indonesia</title>
-    <desc>Take a tour of beautiful Indonesian waters, surrounded by impressive rock formations.</desc>
-    <category>Faith and Spirituality</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110200000 +0000" stop="20220110210000 +0000">
-    <title>Fly Over Earth</title>
-    <desc>Footage of some of the most scenic destinations the world.</desc>
-    <category>Faith and Spirituality</category>
-  </programme>
-  <programme channel="5317bfebff98025b3200ff99" start="20220110184500 +0000" stop="20220111011500 +0000">
-    <title>All Aboard: Rainy Day Summer Run</title>
-    <desc>Take a relaxing trip through the European country side as a light summer rain falls from an overcast sky.</desc>
-    <sub-title>Rainy Day Summer Run</sub-title>
-    <category>Other</category>
-  </programme>
-  <programme channel="5317bfebff98025b3200ff99" start="20220111011500 +0000" stop="20220111061500 +0000">
-    <title>All Aboard: Life on a Train: Euro Trip</title>
-    <desc>Take a train trip through the Norwegian countryside. Meet the passengers and conductors and enjoy the beautiful views.</desc>
-    <sub-title>Life on a Train: Euro Trip</sub-title>
-    <category>Other</category>
   </programme>
   <programme channel="5331d5fb753499095a00045a" start="20220110193000 +0000" stop="20220110203000 +0000">
     <title>Dr. Rashad Richey: Indisputable</title>
@@ -438,14 +100,10 @@
     <desc>A news and commentary program focusing on current events and topics.</desc>
     <category>News and Information</category>
   </programme>
-  <programme channel="5331d5fb753499095a00045a" start="20220111010000 +0000" stop="20220111020000 +0000">
-    <title>Damage Report</title>
-    <desc>John Iadarola discusses important and pressing issues to take on.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5331d5fb753499095a00045a" start="20220111020000 +0000" stop="20220111030000 +0000">
-    <title>Happy Half Hour</title>
-    <desc>Brett Erlich helps take the edge off by bringing the best news of the week every Friday.</desc>
+  <programme channel="5417a212ff9fba68282fbf5e" start="20220110154500 +0000" stop="20220110183000 +0000">
+    <title>Glory Kickboxing: Glory 22 Fights</title>
+    <desc>Watch some of the fights from the Glory 22 event from France which featured a main event on Rico Verhoeven putting his belt on the line.</desc>
+    <sub-title>Glory 22 Fights</sub-title>
     <category>News and Information</category>
   </programme>
   <programme channel="5417a212ff9fba68282fbf5e" start="20220110183000 +0000" stop="20220110203000 +0000">
@@ -466,10 +124,11 @@
     <sub-title>Glory 30: Los Angeles Main Card</sub-title>
     <category>News and Information</category>
   </programme>
-  <programme channel="5417a212ff9fba68282fbf5e" start="20220111011500 +0000" stop="20220111034500 +0000">
-    <title>GLORY 32 Virginia</title>
-    <desc>GLORY Kickboxing Presents GLORY 32 at the Ted Constant Convocation Center in Norfolk, VA. This event featured the GLORY Featherweight Championship matchup between Serhiy Adamchuk and Gabriel Varga as the Headline event.</desc>
-    <category>Action &amp; Adventure</category>
+  <programme channel="545943f1c9f133a519bbac92" start="20220110170000 +0000" stop="20220110190000 +0000">
+    <title>Mystery Science Theater 3000: Hellcats</title>
+    <desc>Joel and the 'bots attempt to puzzle out what's going on in the unintelligible biker film, The Hellcats (1968). Flashbacks from earlier episodes fill out the host segments.</desc>
+    <sub-title>Hellcats</sub-title>
+    <category>Comedy</category>
   </programme>
   <programme channel="545943f1c9f133a519bbac92" start="20220110190000 +0000" stop="20220110210000 +0000">
     <title>Mystery Science Theater 3000: Hercules And The Captive Women</title>
@@ -488,11 +147,15 @@
     <desc>Joel and the Bots have a tough time agreeing on how to spend their free time between segments of the teen sci-fi thriller "The Crawling Hand".</desc>
     <category>Comedy</category>
   </programme>
-  <programme channel="545943f1c9f133a519bbac92" start="20220111010000 +0000" stop="20220111030000 +0000">
-    <title>Mystery Science Theater 3000: Rocket Attack U.S.A.</title>
-    <desc>The crew watches the second chapter of The Phantom Creeps and a film about an American spy sent to the Soviet Union to investigate a missile attack. Joel hosts a quiz show with the Bots.</desc>
-    <sub-title>Rocket Attack U.S.A.</sub-title>
-    <category>Comedy</category>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220110170000 +0000" stop="20220110180000 +0000">
+    <title>Bloomberg: Balance of Power</title>
+    <desc>Focusing on the intersection of politics and global business.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220110180000 +0000" stop="20220110190000 +0000">
+    <title>Bloomberg Markets</title>
+    <desc>The most important global business and breaking markets news and information as it happens.</desc>
+    <category>News and Information</category>
   </programme>
   <programme channel="54ff7ba69222cb1c2624c584" start="20220110190000 +0000" stop="20220110213000 +0000">
     <title>Bloomberg Markets: The Close</title>
@@ -514,14 +177,34 @@
     <desc>Essential stories from the close of the U.S. markets to the open of trading across Asia.</desc>
     <category>News and Information</category>
   </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220111010000 +0000" stop="20220111020000 +0000">
-    <title>Bloomberg Markets: China Open</title>
-    <desc>The definitive guide to the markets in Hong Kong and on the mainland; Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring the latest news and analysis to start the trading day.</desc>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220110164500 +0000" stop="20220110174500 +0000">
+    <title>Detected</title>
+    <desc>In this episode of DETECTED, Tristan Tales and Alex Lange heat it up with a TON of crazy revealing questions for each other to see who's lying and who's telling the truth</desc>
+    <sub-title>Alex Lange and Tristan Tales Take a Lie Detector Test</sub-title>
+    <category>Reality</category>
+  </programme>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220110174500 +0000" stop="20220110183000 +0000">
+    <title>It's My Party</title>
+    <desc>There's a lot that goes into planning the party of your dreams. From picking a theme to finding a venue, making sure everything goes smoothly is no easy task. However, at the end of the day, it's your party!</desc>
+    <sub-title>Meet Alexa!</sub-title>
+    <category>Reality</category>
+  </programme>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220110183000 +0000" stop="20220110190000 +0000">
+    <title>Wheel of Fashion</title>
+    <desc>Caci Twins, Payton and Mikahl, are going head to head to create the best outfit using leopard print! Who do you think is the winner?</desc>
+    <sub-title>Leopard Print Challenge</sub-title>
     <category>News and Information</category>
   </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220111020000 +0000" stop="20220111040000 +0000">
-    <title>Bloomberg Markets: Asia</title>
-    <desc>From Hong Kong, business and markets news.</desc>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220110190000 +0000" stop="20220110193000 +0000">
+    <title>Wheel of Fashion</title>
+    <desc>Meg DeAngelis and Josh Levi are going head to head to create the music festival outfit! Who do you think is the winner?</desc>
+    <sub-title>Music Festival Challenge</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220110193000 +0000" stop="20220110200000 +0000">
+    <title>Wheel of Fashion</title>
+    <desc>Gabby and Carrington are going head to head to create the perfect RAINBOW outfit for a pool party! Who do you think is the winner?</desc>
+    <sub-title>Rainbow Challenge</sub-title>
     <category>News and Information</category>
   </programme>
   <programme channel="5595e43c66ace1652e63c6a2" start="20220110200000 +0000" stop="20220110203000 +0000">
@@ -566,6 +249,338 @@
     <sub-title>Pack Your Bags!</sub-title>
     <category>Reality</category>
   </programme>
+  <programme channel="55a6a3275616b6240c26f393" start="20220110170000 +0000" stop="20220110180000 +0000">
+    <title>Space: 1999</title>
+    <desc>The moon is approaching a black hole. Professor Bergman is a able to rig up an energy shield around the moonbase, but Commander Koenig feels this is only a desperate measure and has an eagle with six personnel dispatched.</desc>
+    <sub-title>Black Sun</sub-title>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="55a6a3275616b6240c26f393" start="20220110180000 +0000" stop="20220110190000 +0000">
+    <title>Space: 1999</title>
+    <desc>While exploring a cavern in an asteroid, the Alphans release Balor, a sadistic alien who has achieved immortality.</desc>
+    <sub-title>End of Eternity</sub-title>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="55a6a3275616b6240c26f393" start="20220110190000 +0000" stop="20220110200000 +0000">
+    <title>Space: 1999</title>
+    <desc>Dr. Russell's presumed-dead husband mysteriously reappears on a reconnaissance mission to a nearby planet.</desc>
+    <sub-title>Matter of Life and Death</sub-title>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="55a6a3275616b6240c26f393" start="20220110200000 +0000" stop="20220110210000 +0000">
+    <title>Space: 1999</title>
+    <desc>A vessel of alien pacifists, bound for Earth, lands on the moon. They are greeted as friends by all- except Commissioner Simmons who sees their vessel as way to return home.</desc>
+    <sub-title>Earthbound</sub-title>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="55a6a3275616b6240c26f393" start="20220110210000 +0000" stop="20220110230000 +0000">
+    <title>Chicago Cab</title>
+    <desc>A nameless Chicago cab driver picks up more than 30 different passengers over the course of a typical December day. The driver tries to maintain his calm even as the passengers drive him crazy.</desc>
+    <category>Independent</category>
+  </programme>
+  <programme channel="55a6a3275616b6240c26f393" start="20220110230000 +0000" stop="20220111010000 +0000">
+    <title>Traveller</title>
+    <desc>A con man teaches a novice the rules for membership in an Irish-American grifters gang.</desc>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="55b179af994403942f3061d6" start="20220110170000 +0000" stop="20220110190000 +0000">
+    <title>John Bachman Now</title>
+    <desc>John Bachman tackles big news from DC, NY and around America.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="55b179af994403942f3061d6" start="20220110190000 +0000" stop="20220110210000 +0000">
+    <title>American Agenda</title>
+    <desc>A live, fast-paced look at national news and international events; Bob Sellers brings the news from Washington with insightful analysis from lawmakers and experts, with media reports from New York and around the world.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="55b179af994403942f3061d6" start="20220110210000 +0000" stop="20220110220000 +0000">
+    <title>Eric Bolling The Balance</title>
+    <desc>Eric Bolling The Balance on Newsmax.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="55b179af994403942f3061d6" start="20220110220000 +0000" stop="20220110230000 +0000">
+    <title>The Chris Salcedo Show</title>
+    <desc>Conservative, liberty-loving host, hits press bias and both political parties every day.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="55b179af994403942f3061d6" start="20220110230000 +0000" stop="20220111000000 +0000">
+    <title>Spicer &amp; Co</title>
+    <desc>Sean Spicer heads a group of Washington insiders, experts, journalists and power brokers to analyze the top headlines and key news.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110161500 +0000" stop="20220110171500 +0000">
+    <title>CNET News</title>
+    <desc>PlayStation VR2: First look at Sony's next-generation VR system, check out everything unveiled at Hyundai's CES keynote, Hyundai's autonomous pod concepts debut at CES 2022 and more.</desc>
+    <sub-title>1/4/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110171500 +0000" stop="20220110174500 +0000">
+    <title>CNET News</title>
+    <desc>John Deere tractors go totally autonomous, ROG's shows off Zephyrus G14: A compact gaming laptop with impressive specs, ROG Swift OLED gaming monitors offer high-end specs and more.</desc>
+    <sub-title>1/4/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110174500 +0000" stop="20220110190000 +0000">
+    <title>CNET News</title>
+    <desc>See everything Intel unveiled at its CES press conference, everything announced at Nvidia's CES keynote, TCL's Mini-LEDs get upgraded: 85-inch TCL X9 OD Zero reveal and more.</desc>
+    <sub-title>1/4 - 1/3/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110190000 +0000" stop="20220110200000 +0000">
+    <title>CNET News</title>
+    <desc>First look at LG OLED TVs for 2022: The best TVs get brighter and bigger, LG QNED TVs eyes-on: Mini-LED, 8K resolution and nano color, Galaxy S21 FE: Samsung's affordable new alternative to the Galaxy S21 and more.</desc>
+    <sub-title>1/3 - 12/30/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110200000 +0000" stop="20220110204500 +0000">
+    <title>CNET News</title>
+    <desc>CES 2022: Most impressive tech, the best TVs of CES 2022 get bigger, crazier and more expensive, 5 of our favorite smart home products from CES 2022 and more.</desc>
+    <sub-title>1/7 - 1/6/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110204500 +0000" stop="20220110211500 +0000">
+    <title>CNET News</title>
+    <desc>Change your voice with the Razer Zephry Pro mask, Chevy Silverado EV vs. Ford F-150 Lightning: How they stack up, need an electric bike, but for snow? Check out Moonbikes and more.</desc>
+    <sub-title>1/6 - 1/5/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110211500 +0000" stop="20220110223000 +0000">
+    <title>CNET News</title>
+    <desc>PlayStation VR 2 details revealed: How amazing will it be? Watch the BMW iX M60 change colors on the fly, Cadillac InnerSpace: An autonomous luxury concept and more.</desc>
+    <sub-title>1/5/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220110223000 +0000" stop="20220110233000 +0000">
+    <title>CNET News</title>
+    <desc>Asus Expertbook: A new line of business laptops, Garmin Venu 2 Plus is a solid fitness smartwatch, Lenovo adds a colorful second screen to the ThinkBook Plus Gen 3 and more.</desc>
+    <sub-title>1/5 - 1/4/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110170000 +0000" stop="20220110190000 +0000">
+    <title>Cheddar Between Bells</title>
+    <desc>Feed your curiosity about what's next. Watch Cheddar News for live news and original shows that explore the people, ideas and innovations that are shaping your world.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110190000 +0000" stop="20220110220000 +0000">
+    <title>Cheddar Closing Bell</title>
+    <desc>Closing stock market trends and after-hours earnings, along with the latest in tech and more.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110220000 +0000" stop="20220110230000 +0000">
+    <title>Cheddar's News Wrap</title>
+    <desc>The latest in news, business, politics, entertainment trends, and more all wrapped up and ready to go.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110230000 +0000" stop="20220110233000 +0000">
+    <title>Who Knew?</title>
+    <desc>The best of Cheddar's YouTube channel, featuring a thematic series of stories from Cheddar's online Explains, Explores and Examines series.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220110165900 +0000" stop="20220110180000 +0000">
+    <title>Fireplace: Banff</title>
+    <desc>A truer-than-life fireplace filmed in Banff, Canada.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220110180000 +0000" stop="20220110185900 +0000">
+    <title>Sunrise Meditation</title>
+    <desc>Easimg into the day with the sound of lapping waves and breathtaking beaches from around the world.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220110185900 +0000" stop="20220110200000 +0000">
+    <title>Atuh Beach: Indonesia</title>
+    <desc>Take a tour of beautiful Indonesian waters, surrounded by impressive rock formations.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220110200000 +0000" stop="20220110210000 +0000">
+    <title>Fly Over Earth</title>
+    <desc>Footage of some of the most scenic destinations the world.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220110210000 +0000" stop="20220110215900 +0000">
+    <title>Canoe on the Lake: Alaska</title>
+    <desc>Taking a breather on the shores of an Alaskan lake and imagining a peaceful ride on a blue canoe.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220110215900 +0000" stop="20220110225900 +0000">
+    <title>Cabin on the Sea: Newfoundland</title>
+    <desc>Calm waters surround a tiny, secluded, red cabin on the sea.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220110225900 +0000" stop="20220111000000 +0000">
+    <title>Pororari River Track: New Zealand</title>
+    <desc>A river tucked away on New Zealand's West Coast.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5317bfebff98025b3200ff99" start="20220111011500 +0000" stop="20220111061500 +0000">
+    <title>All Aboard: Life on a Train: Euro Trip</title>
+    <desc>Take a train trip through the Norwegian countryside. Meet the passengers and conductors and enjoy the beautiful views.</desc>
+    <sub-title>Life on a Train: Euro Trip</sub-title>
+    <category>Other</category>
+  </programme>
+  <programme channel="5331d5fb753499095a00045a" start="20220111040000 +0000" stop="20220111060000 +0000">
+    <title>The Young Turks</title>
+    <desc>A news and commentary program focusing on current events and topics.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5417a212ff9fba68282fbf5e" start="20220111034500 +0000" stop="20220111063000 +0000">
+    <title>GLORY 33 New Jersey</title>
+    <desc>GLORY Kickboxing Presents GLORY 33 at the Sun National Bank Center in Trenton, New Jersey. This event featured the World Title fight between Rico Verhoeven and Anderson Silva.</desc>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="545943f1c9f133a519bbac92" start="20220111050000 +0000" stop="20220111070000 +0000">
+    <title>Mystery Science Theater 3000: Last Of The Wild Horses</title>
+    <desc>A cowboy winds up in the middle of a turf war between a rancher and his neighbors in Last of the Wild Horses.</desc>
+    <sub-title>Last Of The Wild Horses</sub-title>
+    <category>Comedy</category>
+  </programme>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Bloomberg Daybreak: Middle East</title>
+    <desc>A focus on global macro issues with a Middle Eastern context.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Life After Quince</title>
+    <desc>It's been a while since we saw what our "Life After Quince" girls were up to. Let's catch back up as Shany and Airam spill all the tea on what's happened since San Diego!</desc>
+    <sub-title>Men Are Trash</sub-title>
+    <category>Reality</category>
+  </programme>
+  <programme channel="55a6a3275616b6240c26f393" start="20220111043000 +0000" stop="20220111061500 +0000">
+    <title>Goodbye Bruce Lee</title>
+    <desc>A kung fu expert is approached by the director of the late Bruce Lee's unfinished film and asked to help in bringing the film to the silver screen.</desc>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="55b179af994403942f3061d6" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Stinchfield</title>
+    <desc>Grant Stinchfield pushes for America First as he exposes the hypocrisy of big media, Washington politicos, and Hollywood celebs.</desc>
+    <category>Other</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220111043000 +0000" stop="20220111053000 +0000">
+    <title>CNET News</title>
+    <desc>Asus Expertbook: A new line of business laptops, Garmin Venu 2 Plus is a solid fitness smartwatch, Lenovo adds a colorful second screen to the ThinkBook Plus Gen 3 and more.</desc>
+    <sub-title>1/5 - 1/4/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Cheddar's News Wrap</title>
+    <desc>The latest in news, business, politics, entertainment trends, and more all wrapped up and ready to go.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220111045900 +0000" stop="20220111055900 +0000">
+    <title>Fireplace: Banff</title>
+    <desc>A truer-than-life fireplace filmed in Banff, Canada.</desc>
+    <category>Faith and Spirituality</category>
+  </programme>
+  <programme channel="5317bfebff98025b3200ff99" start="20220110184500 +0000" stop="20220111011500 +0000">
+    <title>All Aboard: Rainy Day Summer Run</title>
+    <desc>Take a relaxing trip through the European country side as a light summer rain falls from an overcast sky.</desc>
+    <sub-title>Rainy Day Summer Run</sub-title>
+    <category>Other</category>
+  </programme>
+  <programme channel="5317bfebff98025b3200ff99" start="20220111011500 +0000" stop="20220111061500 +0000">
+    <title>All Aboard: Life on a Train: Euro Trip</title>
+    <desc>Take a train trip through the Norwegian countryside. Meet the passengers and conductors and enjoy the beautiful views.</desc>
+    <sub-title>Life on a Train: Euro Trip</sub-title>
+    <category>Other</category>
+  </programme>
+  <programme channel="5331d5fb753499095a00045a" start="20220110230000 +0000" stop="20220111010000 +0000">
+    <title>The Young Turks</title>
+    <desc>A news and commentary program focusing on current events and topics.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5331d5fb753499095a00045a" start="20220111010000 +0000" stop="20220111020000 +0000">
+    <title>Damage Report</title>
+    <desc>John Iadarola discusses important and pressing issues to take on.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5331d5fb753499095a00045a" start="20220111020000 +0000" stop="20220111030000 +0000">
+    <title>Happy Half Hour</title>
+    <desc>Brett Erlich helps take the edge off by bringing the best news of the week every Friday.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5331d5fb753499095a00045a" start="20220111030000 +0000" stop="20220111033000 +0000">
+    <title>The Conversation</title>
+    <desc>In-depth conversations with celebrities, creators, political leaders, and more on the issues facing a constantly changing culture.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5331d5fb753499095a00045a" start="20220111033000 +0000" stop="20220111040000 +0000">
+    <title>Dr. Rashad Richey: Indisputable</title>
+    <desc>Dr. Richey talks about the top news stories of the day, reads viewer comments, and engages in debates and conversations with guests.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5331d5fb753499095a00045a" start="20220111040000 +0000" stop="20220111060000 +0000">
+    <title>The Young Turks</title>
+    <desc>A news and commentary program focusing on current events and topics.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5417a212ff9fba68282fbf5e" start="20220110224500 +0000" stop="20220111011500 +0000">
+    <title>Glory Kickboxing</title>
+    <desc>This event featured world title fight for the Glory Middleweight Championship between Simon Marcus and Dustin Jacoby as headliner, and 4-Man Welterweight Qualification Tournament with the winner being granted entry into Welterweight Contender Tournament.</desc>
+    <sub-title>Glory 30: Los Angeles Main Card</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5417a212ff9fba68282fbf5e" start="20220111011500 +0000" stop="20220111034500 +0000">
+    <title>GLORY 32 Virginia</title>
+    <desc>GLORY Kickboxing Presents GLORY 32 at the Ted Constant Convocation Center in Norfolk, VA. This event featured the GLORY Featherweight Championship matchup between Serhiy Adamchuk and Gabriel Varga as the Headline event.</desc>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="5417a212ff9fba68282fbf5e" start="20220111034500 +0000" stop="20220111063000 +0000">
+    <title>GLORY 33 New Jersey</title>
+    <desc>GLORY Kickboxing Presents GLORY 33 at the Sun National Bank Center in Trenton, New Jersey. This event featured the World Title fight between Rico Verhoeven and Anderson Silva.</desc>
+    <category>Action &amp; Adventure</category>
+  </programme>
+  <programme channel="545943f1c9f133a519bbac92" start="20220110230000 +0000" stop="20220111010000 +0000">
+    <title>MST3K: The Crawling Hand</title>
+    <desc>Joel and the Bots have a tough time agreeing on how to spend their free time between segments of the teen sci-fi thriller "The Crawling Hand".</desc>
+    <category>Comedy</category>
+  </programme>
+  <programme channel="545943f1c9f133a519bbac92" start="20220111010000 +0000" stop="20220111030000 +0000">
+    <title>Mystery Science Theater 3000: Rocket Attack U.S.A.</title>
+    <desc>The crew watches the second chapter of The Phantom Creeps and a film about an American spy sent to the Soviet Union to investigate a missile attack. Joel hosts a quiz show with the Bots.</desc>
+    <sub-title>Rocket Attack U.S.A.</sub-title>
+    <category>Comedy</category>
+  </programme>
+  <programme channel="545943f1c9f133a519bbac92" start="20220111030000 +0000" stop="20220111050000 +0000">
+    <title>Side Hackers</title>
+    <desc>A motorcycle racer and a violent stunt rider start a war of vengeance against each other. Joel and the Bots write a song inspired by the movie and chat with a few characters from the film on the Hexfield.</desc>
+    <category>Comedy</category>
+  </programme>
+  <programme channel="545943f1c9f133a519bbac92" start="20220111050000 +0000" stop="20220111070000 +0000">
+    <title>Mystery Science Theater 3000: Last Of The Wild Horses</title>
+    <desc>A cowboy winds up in the middle of a turf war between a rancher and his neighbors in Last of the Wild Horses.</desc>
+    <sub-title>Last Of The Wild Horses</sub-title>
+    <category>Comedy</category>
+  </programme>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220110230000 +0000" stop="20220111010000 +0000">
+    <title>Bloomberg Daybreak: Asia</title>
+    <desc>Essential stories from the close of the U.S. markets to the open of trading across Asia.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220111010000 +0000" stop="20220111020000 +0000">
+    <title>Bloomberg Markets: China Open</title>
+    <desc>The definitive guide to the markets in Hong Kong and on the mainland; Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring the latest news and analysis to start the trading day.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220111020000 +0000" stop="20220111040000 +0000">
+    <title>Bloomberg Markets: Asia</title>
+    <desc>From Hong Kong, business and markets news.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220111040000 +0000" stop="20220111050000 +0000">
+    <title>Bloomberg Technology</title>
+    <desc>Daily news on technology, innovation and the future of business.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="54ff7ba69222cb1c2624c584" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Bloomberg Daybreak: Middle East</title>
+    <desc>A focus on global macro issues with a Middle Eastern context.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220110230000 +0000" stop="20220110233000 +0000">
+    <title>LA Story</title>
+    <desc>It's VIP treatment at the Santa Anita horse races for these friends but the news of Bradley and Kate's photo shoot hookup leaves things uncomfortable between her and Evan. The end-of-summer getaway in Ojai has a few surprises in store for everyone.</desc>
+    <sub-title>Pack Your Bags!</sub-title>
+    <category>Reality</category>
+  </programme>
   <programme channel="5595e43c66ace1652e63c6a2" start="20220110233000 +0000" stop="20220111000000 +0000">
     <title>LA Story</title>
     <desc>Summer has come to an end but the drama within the friend group is just starting to heat up! Caitlyn confronts Kate and lays it all out on the table regarding their friendship.  Caitlyn organizes a spooky séance with a famous Hollywood Psychic.</desc>
@@ -590,16 +605,23 @@
     <sub-title>Alondra</sub-title>
     <category>Reality</category>
   </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110200000 +0000" stop="20220110210000 +0000">
-    <title>Space: 1999</title>
-    <desc>A vessel of alien pacifists, bound for Earth, lands on the moon. They are greeted as friends by all- except Commissioner Simmons who sees their vessel as way to return home.</desc>
-    <sub-title>Earthbound</sub-title>
-    <category>Action &amp; Adventure</category>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220111030000 +0000" stop="20220111041500 +0000">
+    <title>Life After Quince</title>
+    <desc>A Quinceanera celebrates a girl transforming into a young lady. After the glitz and glam of the party comes new life experiences and responsibilities. Find out what happens to our Quince girls after they turn 15.</desc>
+    <sub-title>Pilot</sub-title>
+    <category>Reality</category>
   </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220110210000 +0000" stop="20220110230000 +0000">
-    <title>Chicago Cab</title>
-    <desc>A nameless Chicago cab driver picks up more than 30 different passengers over the course of a typical December day. The driver tries to maintain his calm even as the passengers drive him crazy.</desc>
-    <category>Independent</category>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220111041500 +0000" stop="20220111050000 +0000">
+    <title>Life After Quince</title>
+    <desc>The girls are back, and ready to shake things up! Shany sets up a fashion collab with Eileen to give Airam a new saucy Selena look. Later, the girls meet up at Shany's place for John's graduation party.</desc>
+    <sub-title>Life After Quince Sharing Our Future</sub-title>
+    <category>Reality</category>
+  </programme>
+  <programme channel="5595e43c66ace1652e63c6a2" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Life After Quince</title>
+    <desc>It's been a while since we saw what our "Life After Quince" girls were up to. Let's catch back up as Shany and Airam spill all the tea on what's happened since San Diego!</desc>
+    <sub-title>Men Are Trash</sub-title>
+    <category>Reality</category>
   </programme>
   <programme channel="55a6a3275616b6240c26f393" start="20220110230000 +0000" stop="20220111010000 +0000">
     <title>Traveller</title>
@@ -611,20 +633,15 @@
     <desc>Los Angeles private eye Philip Marlowe is hired by paroled convict Moose Malloy to find his girlfriend Velma, former seedy nightclub dancer.</desc>
     <category>Thrillers</category>
   </programme>
-  <programme channel="55b179af994403942f3061d6" start="20220110190000 +0000" stop="20220110210000 +0000">
-    <title>American Agenda</title>
-    <desc>A live, fast-paced look at national news and international events; Bob Sellers brings the news from Washington with insightful analysis from lawmakers and experts, with media reports from New York and around the world.</desc>
-    <category>News and Information</category>
+  <programme channel="55a6a3275616b6240c26f393" start="20220111024500 +0000" stop="20220111043000 +0000">
+    <title>The Crush</title>
+    <desc>A journalist becomes the unwanted center of attention for a 14-year-old girl, who proceeds to sabotage his life after he refuses her sexual advances.</desc>
+    <category>Thrillers</category>
   </programme>
-  <programme channel="55b179af994403942f3061d6" start="20220110210000 +0000" stop="20220110220000 +0000">
-    <title>Eric Bolling The Balance</title>
-    <desc>Eric Bolling The Balance on Newsmax.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="55b179af994403942f3061d6" start="20220110220000 +0000" stop="20220110230000 +0000">
-    <title>The Chris Salcedo Show</title>
-    <desc>Conservative, liberty-loving host, hits press bias and both political parties every day.</desc>
-    <category>News and Information</category>
+  <programme channel="55a6a3275616b6240c26f393" start="20220111043000 +0000" stop="20220111061500 +0000">
+    <title>Goodbye Bruce Lee</title>
+    <desc>A kung fu expert is approached by the director of the late Bruce Lee's unfinished film and asked to help in bringing the film to the silver screen.</desc>
+    <category>Action &amp; Adventure</category>
   </programme>
   <programme channel="55b179af994403942f3061d6" start="20220110230000 +0000" stop="20220111000000 +0000">
     <title>Spicer &amp; Co</title>
@@ -646,23 +663,20 @@
     <desc>Steve Cortes and Jenn Pellegrino fight for America First in Washington, the big media, and big business!</desc>
     <category>News and Information</category>
   </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110200000 +0000" stop="20220110204500 +0000">
-    <title>CNET News</title>
-    <desc>CES 2022: Most impressive tech, the best TVs of CES 2022 get bigger, crazier and more expensive, 5 of our favorite smart home products from CES 2022 and more.</desc>
-    <sub-title>1/7 - 1/6/22</sub-title>
+  <programme channel="55b179af994403942f3061d6" start="20220111030000 +0000" stop="20220111040000 +0000">
+    <title>Rob Schmitt Tonight</title>
+    <desc>Gracenote metadata channel testing</desc>
     <category>News and Information</category>
   </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110204500 +0000" stop="20220110211500 +0000">
-    <title>CNET News</title>
-    <desc>Change your voice with the Razer Zephry Pro mask, Chevy Silverado EV vs. Ford F-150 Lightning: How they stack up, need an electric bike, but for snow? Check out Moonbikes and more.</desc>
-    <sub-title>1/6 - 1/5/22</sub-title>
+  <programme channel="55b179af994403942f3061d6" start="20220111040000 +0000" stop="20220111050000 +0000">
+    <title>Greg Kelly Reports</title>
+    <desc>The hardest-hitting stories from coast to coast; taking viewers from the Beltway to the Rust Belt and beyond to enlighten, expose, inform, and spotlight the stories that matter to them.</desc>
     <category>News and Information</category>
   </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220110211500 +0000" stop="20220110223000 +0000">
-    <title>CNET News</title>
-    <desc>PlayStation VR 2 details revealed: How amazing will it be? Watch the BMW iX M60 change colors on the fly, Cadillac InnerSpace: An autonomous luxury concept and more.</desc>
-    <sub-title>1/5/22</sub-title>
-    <category>News and Information</category>
+  <programme channel="55b179af994403942f3061d6" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Stinchfield</title>
+    <desc>Grant Stinchfield pushes for America First as he exposes the hypocrisy of big media, Washington politicos, and Hollywood celebs.</desc>
+    <category>Other</category>
   </programme>
   <programme channel="56283c8769ba54637dea0464" start="20220110223000 +0000" stop="20220110233000 +0000">
     <title>CNET News</title>
@@ -694,14 +708,22 @@
     <sub-title>1/7 - 1/6/22</sub-title>
     <category>News and Information</category>
   </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110190000 +0000" stop="20220110220000 +0000">
-    <title>Cheddar Closing Bell</title>
-    <desc>Closing stock market trends and after-hours earnings, along with the latest in tech and more.</desc>
+  <programme channel="56283c8769ba54637dea0464" start="20220111024500 +0000" stop="20220111031500 +0000">
+    <title>CNET News</title>
+    <desc>Change your voice with the Razer Zephry Pro mask, Chevy Silverado EV vs. Ford F-150 Lightning: How they stack up, need an electric bike, but for snow? Check out Moonbikes and more.</desc>
+    <sub-title>1/6 - 1/5/22</sub-title>
     <category>News and Information</category>
   </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110220000 +0000" stop="20220110230000 +0000">
-    <title>Cheddar's News Wrap</title>
-    <desc>The latest in news, business, politics, entertainment trends, and more all wrapped up and ready to go.</desc>
+  <programme channel="56283c8769ba54637dea0464" start="20220111031500 +0000" stop="20220111043000 +0000">
+    <title>CNET News</title>
+    <desc>PlayStation VR 2 details revealed: How amazing will it be? Watch the BMW iX M60 change colors on the fly, Cadillac InnerSpace: An autonomous luxury concept and more.</desc>
+    <sub-title>1/5/22</sub-title>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="56283c8769ba54637dea0464" start="20220111043000 +0000" stop="20220111053000 +0000">
+    <title>CNET News</title>
+    <desc>Asus Expertbook: A new line of business laptops, Garmin Venu 2 Plus is a solid fitness smartwatch, Lenovo adds a colorful second screen to the ThinkBook Plus Gen 3 and more.</desc>
+    <sub-title>1/5 - 1/4/22</sub-title>
     <category>News and Information</category>
   </programme>
   <programme channel="5812afe1d0f0b8d55dde67fa" start="20220110230000 +0000" stop="20220110233000 +0000">
@@ -729,20 +751,30 @@
     <desc>The best of Cheddar's YouTube channel, featuring a thematic series of stories from Cheddar's online Explains, Explores and Examines series.</desc>
     <category>News and Information</category>
   </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110200000 +0000" stop="20220110210000 +0000">
-    <title>Fly Over Earth</title>
-    <desc>Footage of some of the most scenic destinations the world.</desc>
-    <category>Faith and Spirituality</category>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220111023000 +0000" stop="20220111030000 +0000">
+    <title>Who Knew?</title>
+    <desc>The best of Cheddar's YouTube channel, featuring a thematic series of stories from Cheddar's online Explains, Explores and Examines series.</desc>
+    <category>News and Information</category>
   </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110210000 +0000" stop="20220110215900 +0000">
-    <title>Canoe on the Lake: Alaska</title>
-    <desc>Taking a breather on the shores of an Alaskan lake and imagining a peaceful ride on a blue canoe.</desc>
-    <category>Faith and Spirituality</category>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220111030000 +0000" stop="20220111040000 +0000">
+    <title>None of the Above With J.D. Durkin</title>
+    <desc>A fresh take on the news of the day with no agenda, covering the intersection of current events, politics, technology, business, science and more.</desc>
+    <category>News and Information</category>
   </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220110215900 +0000" stop="20220110225900 +0000">
-    <title>Cabin on the Sea: Newfoundland</title>
-    <desc>Calm waters surround a tiny, secluded, red cabin on the sea.</desc>
-    <category>Faith and Spirituality</category>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220111040000 +0000" stop="20220111043000 +0000">
+    <title>Fast Forward</title>
+    <desc>Fast Forward explores the potential permanent changes, across industries, that we adopt after the pandemic is over.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220111043000 +0000" stop="20220111050000 +0000">
+    <title>The Search for a Cure</title>
+    <desc>The latest developments in the coronavirus treatments, testing, vaccines, and immunity.</desc>
+    <category>News and Information</category>
+  </programme>
+  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220111050000 +0000" stop="20220111060000 +0000">
+    <title>Cheddar's News Wrap</title>
+    <desc>The latest in news, business, politics, entertainment trends, and more all wrapped up and ready to go.</desc>
+    <category>News and Information</category>
   </programme>
   <programme channel="5812bd9f249444e05d09cc4e" start="20220110225900 +0000" stop="20220111000000 +0000">
     <title>Pororari River Track: New Zealand</title>
@@ -765,64 +797,19 @@
     <sub-title>Rustic Fireplace: Laurentians</sub-title>
     <category>Faith and Spirituality</category>
   </programme>
-  <programme channel="5317bfebff98025b3200ff99" start="20220111011500 +0000" stop="20220111061500 +0000">
-    <title>All Aboard: Life on a Train: Euro Trip</title>
-    <desc>Take a train trip through the Norwegian countryside. Meet the passengers and conductors and enjoy the beautiful views.</desc>
-    <sub-title>Life on a Train: Euro Trip</sub-title>
-    <category>Other</category>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220111025900 +0000" stop="20220111040000 +0000">
+    <title>Fireplace: Banff</title>
+    <desc>A truer-than-life fireplace filmed in Banff, Canada.</desc>
+    <category>Faith and Spirituality</category>
   </programme>
-  <programme channel="5331d5fb753499095a00045a" start="20220111020000 +0000" stop="20220111030000 +0000">
-    <title>Happy Half Hour</title>
-    <desc>Brett Erlich helps take the edge off by bringing the best news of the week every Friday.</desc>
-    <category>News and Information</category>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220111040000 +0000" stop="20220111045900 +0000">
+    <title>Fireplace: Banff</title>
+    <desc>A truer-than-life fireplace filmed in Banff, Canada.</desc>
+    <category>Faith and Spirituality</category>
   </programme>
-  <programme channel="5417a212ff9fba68282fbf5e" start="20220111011500 +0000" stop="20220111034500 +0000">
-    <title>GLORY 32 Virginia</title>
-    <desc>GLORY Kickboxing Presents GLORY 32 at the Ted Constant Convocation Center in Norfolk, VA. This event featured the GLORY Featherweight Championship matchup between Serhiy Adamchuk and Gabriel Varga as the Headline event.</desc>
-    <category>Action &amp; Adventure</category>
-  </programme>
-  <programme channel="545943f1c9f133a519bbac92" start="20220111010000 +0000" stop="20220111030000 +0000">
-    <title>Mystery Science Theater 3000: Rocket Attack U.S.A.</title>
-    <desc>The crew watches the second chapter of The Phantom Creeps and a film about an American spy sent to the Soviet Union to investigate a missile attack. Joel hosts a quiz show with the Bots.</desc>
-    <sub-title>Rocket Attack U.S.A.</sub-title>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="54ff7ba69222cb1c2624c584" start="20220111020000 +0000" stop="20220111040000 +0000">
-    <title>Bloomberg Markets: Asia</title>
-    <desc>From Hong Kong, business and markets news.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5595e43c66ace1652e63c6a2" start="20220111020000 +0000" stop="20220111030000 +0000">
-    <title>My Dream Quinceanera</title>
-    <desc>Turning 15 is a rite of passage and becomes a major event when having a Quinceañera.  There's finding the dress, planning the fiesta, choosing your Court of Honor and the list goes on, especially when you are planning the Quince of your dreams!</desc>
-    <sub-title>Alondra</sub-title>
-    <category>Reality</category>
-  </programme>
-  <programme channel="55a6a3275616b6240c26f393" start="20220111010000 +0000" stop="20220111024500 +0000">
-    <title>Farewell, My Lovely</title>
-    <desc>Los Angeles private eye Philip Marlowe is hired by paroled convict Moose Malloy to find his girlfriend Velma, former seedy nightclub dancer.</desc>
-    <category>Thrillers</category>
-  </programme>
-  <programme channel="55b179af994403942f3061d6" start="20220111020000 +0000" stop="20220111030000 +0000">
-    <title>Cortes &amp; Pellegrino</title>
-    <desc>Steve Cortes and Jenn Pellegrino fight for America First in Washington, the big media, and big business!</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="56283c8769ba54637dea0464" start="20220111020000 +0000" stop="20220111024500 +0000">
-    <title>CNET News</title>
-    <desc>CES 2022: Most impressive tech, the best TVs of CES 2022 get bigger, crazier and more expensive, 5 of our favorite smart home products from CES 2022 and more.</desc>
-    <sub-title>1/7 - 1/6/22</sub-title>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812afe1d0f0b8d55dde67fa" start="20220111020000 +0000" stop="20220111023000 +0000">
-    <title>Who Knew?</title>
-    <desc>The best of Cheddar's YouTube channel, featuring a thematic series of stories from Cheddar's online Explains, Explores and Examines series.</desc>
-    <category>News and Information</category>
-  </programme>
-  <programme channel="5812bd9f249444e05d09cc4e" start="20220111015900 +0000" stop="20220111025900 +0000">
-    <title>Naturescape</title>
-    <desc>Naturescape offers you an escape to a world of stunning nature scenes, all set to peaceful soundtracks. Relax to a crackling fireplace, soar over a tropical paradise, or get inspired by a sparkling night sky, all from the comfort of home.</desc>
-    <sub-title>Rustic Fireplace: Laurentians</sub-title>
+  <programme channel="5812bd9f249444e05d09cc4e" start="20220111045900 +0000" stop="20220111055900 +0000">
+    <title>Fireplace: Banff</title>
+    <desc>A truer-than-life fireplace filmed in Banff, Canada.</desc>
     <category>Faith and Spirituality</category>
   </programme>
 </tv>

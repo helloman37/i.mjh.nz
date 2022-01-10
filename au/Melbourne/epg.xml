@@ -42936,16 +42936,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220110150205 +0000" stop="20220110154909 +0000">
-    <title>Reckless Isolation</title>
-    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
-    <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220110154909 +0000" stop="20220110155709 +0000">
-    <title>Reckless Isolation – extra</title>
-    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
-    <sub-title>Homegrown with Kolohe Andino</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220110155709 +0000" stop="20220110162135 +0000">
     <title>Moto Maverick</title>
     <desc>Ryan Sipes examines the current state of motocross racing through a stylised and cinematic lens.</desc>
@@ -43232,6 +43222,16 @@
     <title>From Dawn till Dust: Discover Dakar part 5</title>
     <desc>Endurance, commitment, resilience… a unique event like the Dakar Rally requires unique competitors.</desc>
     <sub-title>The right stuff</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111161256 +0000" stop="20220111162329 +0000">
+    <title>From Dawn till Dust: Discover Dakar part 6</title>
+    <desc>Drivers and crews prepare their minds, bodies and vehicles for the unrelenting toll of navigating the desert.</desc>
+    <sub-title>Ready to rumble</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111162329 +0000" stop="20220111171720 +0000">
+    <title>Toby Price: Ridin’ Shotgun</title>
+    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
+    <sub-title>Finke Desert Race 2021</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
