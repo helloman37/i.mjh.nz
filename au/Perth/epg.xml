@@ -16102,17 +16102,17 @@
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20220115020000 +0000" stop="20220115030000 +0000">
-    <title>The Morning Show Summer Series</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060560" start="20220115020000 +0000" stop="20220115030000 +0000">
     <title>Big Bash</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060560" start="20220115020000 +0000" stop="20220115030000 +0000">
+    <title>The Morning Show Summer Series</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20220115030000 +0000" stop="20220115040000 +0000">

@@ -18719,18 +18719,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20220116080000 +0000" stop="20220116083100 +0000">
-    <title>Pawn Stars</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020523" start="20220116080000 +0000" stop="20220116113000 +0000">
     <title>Big Bash</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20220116080000 +0000" stop="20220116083100 +0000">
+    <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20220116113000 +0000" stop="20220116120000 +0000">
@@ -18855,18 +18855,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20220117080000 +0000" stop="20220117083100 +0000">
-    <title>Pawn Stars</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020523" start="20220117080000 +0000" stop="20220117113000 +0000">
     <title>Big Bash</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20220117080000 +0000" stop="20220117083100 +0000">
+    <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20220117113000 +0000" stop="20220117120000 +0000">
