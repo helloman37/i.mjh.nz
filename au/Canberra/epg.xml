@@ -1967,35 +1967,98 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20220116220000 +0000" stop="20220117010000 +0000">
+  <programme channel="tv.101002210220" start="20220116220000 +0000" stop="20220116233000 +0000">
     <title>ABC News Mornings</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20220117010000 +0000" stop="20220117040000 +0000">
+  <programme channel="tv.101002210220" start="20220116233000 +0000" stop="20220117000000 +0000">
+    <title>Screen Time: Are Your Kids Addicted?</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117000000 +0000" stop="20220117003000 +0000">
+    <title>ABC News Summer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117003000 +0000" stop="20220117010000 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117010000 +0000" stop="20220117023000 +0000">
     <title>ABC News at Noon</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20220117040000 +0000" stop="20220117060000 +0000">
+  <programme channel="tv.101002210220" start="20220117023000 +0000" stop="20220117030000 +0000">
+    <title>Landline Summer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117030000 +0000" stop="20220117033000 +0000">
+    <title>ABC News Day</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117033000 +0000" stop="20220117040000 +0000">
+    <title>Back Roads</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117040000 +0000" stop="20220117053000 +0000">
     <title>ABC News Afternoons</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20220117060000 +0000" stop="20220117070000 +0000">
-    <title>ABC News Hour</title>
+  <programme channel="tv.101002210220" start="20220117053000 +0000" stop="20220117060000 +0000">
+    <title>The Business: Summer Series</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20220117070000 +0000" stop="20220117080000 +0000">
+  <programme channel="tv.101002210220" start="20220117060000 +0000" stop="20220117063000 +0000">
+    <title>ABC News Summer</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117063000 +0000" stop="20220117070000 +0000">
+    <title>The World in 2021</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117070000 +0000" stop="20220117073000 +0000">
     <title>ABC Evening News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220117073000 +0000" stop="20220117080000 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -18853,18 +18916,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20220117080000 +0000" stop="20220117083100 +0000">
-    <title>Pawn Stars</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020523" start="20220117080000 +0000" stop="20220117113000 +0000">
     <title>Big Bash</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20220117080000 +0000" stop="20220117083100 +0000">
+    <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20220117113000 +0000" stop="20220117120000 +0000">
@@ -20744,13 +20807,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20220113013000 +0000" stop="20220113063500 +0000">
+  <programme channel="tv.101305020528" start="20220113013000 +0000" stop="20220113063300 +0000">
     <title>Racing Live: Ararat/Penola</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20220113063500 +0000" stop="20220113103000 +0000">
+  <programme channel="tv.101305020528" start="20220113063300 +0000" stop="20220113103000 +0000">
     <title>Racenight Live: Pakenham</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -26276,66 +26339,73 @@
   </programme>
   <programme channel="tv.101406020626" start="20220111103000 +0000" stop="20220111113000 +0000">
     <title>Gallery of Gold</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20220111113000 +0000" stop="20220111123000 +0000">
     <title>Beekman 1802 Skincare</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20220111123000 +0000" stop="20220111133000 +0000">
-    <title>Carolyn Pollack Silver</title>
+    <title>Turmeric Active</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20220111133000 +0000" stop="20220111143000 +0000">
-    <title>Turmeric Active</title>
+    <title>Maestro Air Purifier</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20220111143000 +0000" stop="20220111153000 +0000">
-    <title>Pink Lily Smart Storage</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020626" start="20220111153000 +0000" stop="20220111163000 +0000">
     <title>Gallery of Gold</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020626" start="20220111153000 +0000" stop="20220111163000 +0000">
+    <title>Pink Lily Smart Storage</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020626" start="20220111163000 +0000" stop="20220111173000 +0000">
-    <title>Black Caviar Handbags</title>
+    <title>Nina Leonard Fashion</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20220111173000 +0000" stop="20220111183000 +0000">
-    <title>Maestro Air Purifier</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020626" start="20220111183000 +0000" stop="20220111193000 +0000">
-    <title>AeroPilates Shape &amp; Tone</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020626" start="20220111193000 +0000" stop="20220111203000 +0000">
     <title>Carolyn Pollack Silver</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020626" start="20220111183000 +0000" stop="20220111193000 +0000">
+    <title>Heroshi Japanese Kitchen</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020626" start="20220111193000 +0000" stop="20220111203000 +0000">
+    <title>Gallery of Gold</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020626" start="20220111203000 +0000" stop="20220111213000 +0000">
-    <title>Classic Quilts</title>
+    <title>L(A)B Beauty</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26381,7 +26451,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20220112033000 +0000" stop="20220112043000 +0000">
-    <title>Rose De France in Silver</title>
+    <title>Amethyst in Silver</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26420,7 +26490,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20220112093000 +0000" stop="20220112103000 +0000">
-    <title>Rose De France in Silver</title>
+    <title>Amethyst in Silver</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -40522,13 +40592,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112063000 +0000">
+  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112061500 +0000">
     <title>Our Stories</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112061500 +0000">
+  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112063000 +0000">
     <title>Our Stories</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -42412,6 +42482,128 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20220110125721 +0000" stop="20220110133421 +0000">
+    <title>From the Inside Out</title>
+    <desc>On a trip to British Columbia, freeriding friends, The Coastal Crew, document their joy of mountain biking.</desc>
+    <sub-title>This is freeride mountain biking</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110133421 +0000" stop="20220110150205 +0000">
+    <title>Blood Road</title>
+    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
+    <sub-title>Rebecca Rusch's search for connection</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110150205 +0000" stop="20220110154909 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110154909 +0000" stop="20220110155709 +0000">
+    <title>Reckless Isolation – extra</title>
+    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
+    <sub-title>Homegrown with Kolohe Andino</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110155709 +0000" stop="20220110162135 +0000">
+    <title>Moto Maverick</title>
+    <desc>Ryan Sipes examines the current state of motocross racing through a stylised and cinematic lens.</desc>
+    <sub-title>Experimental motocross film starring Ryan Sipes</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110162135 +0000" stop="20220110170857 +0000">
+    <title>La Liste</title>
+    <desc>Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the steepest peaks in the Alps.</desc>
+    <sub-title>Redefining steep skiing</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110170857 +0000" stop="20220110172055 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110172055 +0000" stop="20220110185929 +0000">
+    <title>Valley Uprising</title>
+    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <sub-title>Pushing the limits of climbing</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110185929 +0000" stop="20220110190924 +0000">
+    <title>Mundo Gustavo S1E5</title>
+    <desc>Gustavo and his brother shred LA with Madars Apse and meet up with Jamie Foy at Street League in Arizona.</desc>
+    <sub-title>Gustavo on tour around the USA</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110190924 +0000" stop="20220110192027 +0000">
+    <title>Mundo Gustavo S1E6</title>
+    <desc>Gustavo rehabilitates at the state-of-the-art-facilities at Red Bull’s Athlete Performance Centre in Salzburg.</desc>
+    <sub-title>The road to recovery</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110192027 +0000" stop="20220110200548 +0000">
+    <title>Back to Life</title>
+    <desc>Torin Yater-Wallace battles for his dream becoming the world’s greatest professional skier.</desc>
+    <sub-title>The Torin Yater-Wallace story</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110200548 +0000" stop="20220110202548 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110202548 +0000" stop="20220110212713 +0000">
+    <title>Anna Gasser – The Spark Within</title>
+    <desc>An intimate movie on Anna Gasser and how she changed snowboarding forever, by constantly pushing progression.</desc>
+    <sub-title>An intimate portrait of a snowboard superstar</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110212713 +0000" stop="20220110213723 +0000">
+    <title>From Dawn till Dust: Discover Dakar part 1</title>
+    <desc>Get to grips with the toughest test motorsport has to offer by understanding the basic principles of the race.</desc>
+    <sub-title>Jewel in the crown</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110213723 +0000" stop="20220110214912 +0000">
+    <title>From Dawn till Dust: Discover Dakar part 2</title>
+    <desc>The Dakar demands that each individual competitor, vehicle and mechanic must work together in complete unity.</desc>
+    <sub-title>Tools, tyres &amp; torture</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110214912 +0000" stop="20220110220021 +0000">
+    <title>From Dawn till Dust: Discover Dakar part 3</title>
+    <desc>We’ve read the Dakar regulations so you don’t have to – watch this to know your rulebook from your roadbook.</desc>
+    <sub-title>Rules of the road</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110220021 +0000" stop="20220110221021 +0000">
+    <title>From Dawn till Dust: Discover Dakar part 4</title>
+    <desc>The Dakar isn't won by sheer speed alone – just as important as pace is navigation on the 8,000km route.</desc>
+    <sub-title>Way to go</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110221021 +0000" stop="20220110222147 +0000">
+    <title>From Dawn till Dust: Discover Dakar part 5</title>
+    <desc>Endurance, commitment, resilience… a unique event like the Dakar Rally requires unique competitors.</desc>
+    <sub-title>The right stuff</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110222147 +0000" stop="20220110223220 +0000">
+    <title>From Dawn till Dust: Discover Dakar part 6</title>
+    <desc>Drivers and crews prepare their minds, bodies and vehicles for the unrelenting toll of navigating the desert.</desc>
+    <sub-title>Ready to rumble</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110223220 +0000" stop="20220110232651 +0000">
+    <title>Toby Price: Ridin’ Shotgun</title>
+    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
+    <sub-title>Finke Desert Race 2021</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110232651 +0000" stop="20220110235316 +0000">
+    <title>FIM Hard Enduro World Championship 2021</title>
+    <desc>Take a look back at all the highs and lows of the FIM Hard Enduro World Championship 2021.</desc>
+    <sub-title>Season review</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220110235316 +0000" stop="20220111001837 +0000">
+    <title>No Small Feat S2E1</title>
+    <desc>Meet Annie Reickert and Moana Jones as they carve out careers as professional surfers.</desc>
+    <sub-title>All in a day's work</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111001837 +0000" stop="20220111004727 +0000">
+    <title>No Small Feat S2E2</title>
+    <desc>Annie Reickert surfs at Jaws, while Moana Jones competes in the Vans Triple Crown of Surfing.</desc>
+    <sub-title>Chasing the crown</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111004727 +0000" stop="20220111010229 +0000">
+    <title>Behind the Bullet S1E12</title>
+    <desc>The World Championship goes down to the wire at the final stop of the season at the MXGP of Città di Mantova.</desc>
+    <sub-title>Winner takes all</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111010229 +0000" stop="20220111012229 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20220111012229 +0000" stop="20220111020554 +0000">
     <title>Red Bull Soapbox Race S6E3</title>
     <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
@@ -42566,153 +42758,6 @@
     <title>Moto Maverick</title>
     <desc>Ryan Sipes examines the current state of motocross racing through a stylised and cinematic lens.</desc>
     <sub-title>Experimental motocross film starring Ryan Sipes</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111141737 +0000" stop="20220111151903 +0000">
-    <title>Anna Gasser – The Spark Within</title>
-    <desc>An intimate movie on Anna Gasser and how she changed snowboarding forever, by constantly pushing progression.</desc>
-    <sub-title>An intimate portrait of a snowboard superstar</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111151903 +0000" stop="20220111152912 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 1</title>
-    <desc>Get to grips with the toughest test motorsport has to offer by understanding the basic principles of the race.</desc>
-    <sub-title>Jewel in the crown</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111152912 +0000" stop="20220111154021 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 2</title>
-    <desc>The Dakar demands that each individual competitor, vehicle and mechanic must work together in complete unity.</desc>
-    <sub-title>Tools, tyres &amp; torture</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111154021 +0000" stop="20220111155210 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 3</title>
-    <desc>We’ve read the Dakar regulations so you don’t have to – watch this to know your rulebook from your roadbook.</desc>
-    <sub-title>Rules of the road</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111155210 +0000" stop="20220111160210 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 4</title>
-    <desc>The Dakar isn't won by sheer speed alone – just as important as pace is navigation on the 8,000km route.</desc>
-    <sub-title>Way to go</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111160210 +0000" stop="20220111161256 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 5</title>
-    <desc>Endurance, commitment, resilience… a unique event like the Dakar Rally requires unique competitors.</desc>
-    <sub-title>The right stuff</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111161256 +0000" stop="20220111162329 +0000">
-    <title>From Dawn till Dust: Discover Dakar part 6</title>
-    <desc>Drivers and crews prepare their minds, bodies and vehicles for the unrelenting toll of navigating the desert.</desc>
-    <sub-title>Ready to rumble</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111162329 +0000" stop="20220111171720 +0000">
-    <title>Toby Price: Ridin’ Shotgun</title>
-    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
-    <sub-title>Finke Desert Race 2021</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111171720 +0000" stop="20220111175500 +0000">
-    <title>From the Inside Out</title>
-    <desc>On a trip to British Columbia, freeriding friends, The Coastal Crew, document their joy of mountain biking.</desc>
-    <sub-title>This is freeride mountain biking</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111175500 +0000" stop="20220111184253 +0000">
-    <title>Shaping Jordy</title>
-    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
-    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111184253 +0000" stop="20220111193055 +0000">
-    <title>Long Days</title>
-    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
-    <sub-title>There are no short film days when you're making a ski film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111193055 +0000" stop="20220111194517 +0000">
-    <title>Behind the Bullet S1E12</title>
-    <desc>The World Championship goes down to the wire at the final stop of the season at the MXGP of Città di Mantova.</desc>
-    <sub-title>Winner takes all</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111194517 +0000" stop="20220111195715 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111195715 +0000" stop="20220111200033 +0000">
-    <title>FIM Hard Enduro World Championship 2021</title>
-    <desc>Enjoy a montage of the best of Wade Young as he takes third place in the FIM Hard Enduro World Championship.</desc>
-    <sub-title>Wade Young's Hard Enduro season</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111200033 +0000" stop="20220111202033 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111202033 +0000" stop="20220111204555 +0000">
-    <title>No Small Feat S2E1</title>
-    <desc>Meet Annie Reickert and Moana Jones as they carve out careers as professional surfers.</desc>
-    <sub-title>All in a day's work</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111204555 +0000" stop="20220111211445 +0000">
-    <title>No Small Feat S2E2</title>
-    <desc>Annie Reickert surfs at Jaws, while Moana Jones competes in the Vans Triple Crown of Surfing.</desc>
-    <sub-title>Chasing the crown</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111211445 +0000" stop="20220111215850 +0000">
-    <title>Red Bull Soapbox Race S6E3</title>
-    <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
-    <sub-title>Lisbon, Portugal</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111215850 +0000" stop="20220111224612 +0000">
-    <title>La Liste</title>
-    <desc>Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the steepest peaks in the Alps.</desc>
-    <sub-title>Redefining steep skiing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220111224612 +0000" stop="20220112002445 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112002445 +0000" stop="20220112003521 +0000">
-    <title>Mundo Gustavo S1E5</title>
-    <desc>Gustavo and his brother shred LA with Madars Apse and meet up with Jamie Foy at Street League in Arizona.</desc>
-    <sub-title>Gustavo on tour around the USA</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112003521 +0000" stop="20220112004624 +0000">
-    <title>Mundo Gustavo S1E6</title>
-    <desc>Gustavo rehabilitates at the state-of-the-art-facilities at Red Bull’s Athlete Performance Centre in Salzburg.</desc>
-    <sub-title>The road to recovery</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112004624 +0000" stop="20220112010158 +0000">
-    <title>Behind the Bullet S1E10</title>
-    <desc>Follow Jeffrey Herlings as he looks to further cement his championship lead in Trentino and Pietramurata.</desc>
-    <sub-title>Highs and lows</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112010158 +0000" stop="20220112012158 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112012158 +0000" stop="20220112013306 +0000">
-    <title>Everyday Eileen S1E1</title>
-    <desc>Discover how freeskier Eileen Gu lives four different lives – but 'being a teenager' is always part of it.</desc>
-    <sub-title>Big lifts on take-off and Stanford accepted</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112013306 +0000" stop="20220112014005 +0000">
-    <title>Everyday Eileen S1E2</title>
-    <desc>Eileen Gu entered the 2021 Winter X Games as an Aspen rookie and won three medals to make competition history.</desc>
-    <sub-title>Making X Games history</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112014005 +0000" stop="20220112014937 +0000">
-    <title>Everyday Eileen S1E3</title>
-    <desc>From the mountains to the runway, Eileen Gu finds her feet in the two worlds of skiing and modelling.</desc>
-    <sub-title>New York cover shoot</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112014937 +0000" stop="20220112015921 +0000">
-    <title>Everyday Eileen S1E4</title>
-    <desc>Freeskier Eileen Gu wins two gold medals and a bronze at the FIS World Championships despite being injured.</desc>
-    <sub-title>World Championships glory</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112015921 +0000" stop="20220112024124 +0000">
-    <title>Chasing Winter</title>
-    <desc>Follow Mark McMorris and friends as they prepare for the high-stakes 2022 competition season.</desc>
-    <sub-title>Inside a world-class snowboard training camp</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112024124 +0000" stop="20220112030711 +0000">
-    <title>Behind the Visor</title>
-    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
-    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

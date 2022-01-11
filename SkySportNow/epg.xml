@@ -122,7 +122,7 @@
   </programme>
   <programme channel="61" start="20220110230000 +0000" stop="20220111070000 +0000">
     <title>LIVE: Tennis: AO Qualifying: Day 2 (G)</title>
-    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 2 from Melbourne Park in Melbourne, Victoria.</desc>
+    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 2 from Melbourne Park.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220111070000 +0000" stop="20220111073000 +0000">
@@ -286,17 +286,27 @@
     <desc>Join Sky Sport for highlight coverage of the Grand Final of the 2021 Women's Super League as St Helens take on the Leeds Rhinos from Emerald Headingley Stadium, Leeds.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20220111000000 +0000" stop="20220111040000 +0000">
+  <programme channel="63" start="20220111000000 +0000" stop="20220111022000 +0000">
     <title>Snooker: Masters: Day 2 (G)</title>
     <desc>World Snooker Tour: Masters 2022: Day 2 Afternoon Session: The second longest running tournament in Snooker continues as Snooker's best compete at Alexandra Palace, London, England.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20220111040000 +0000" stop="20220111070000 +0000">
+  <programme channel="63" start="20220111022000 +0000" stop="20220111045500 +0000">
     <title>Snooker: Masters: Day 2 (G)</title>
     <desc>World Snooker Tour: Masters 2022: Day 2 Evening Session: The second longest running tournament in Snooker continues as Snooker's best compete at Alexandra Palace, London, England.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20220111070000 +0000" stop="20220111071500 +0000">
+  <programme channel="63" start="20220111045500 +0000" stop="20220111055500 +0000">
+    <title>RSA v IND: 2nd Test Day 4 Hls (G)</title>
+    <desc>Highlights coverage from Day 4 of the second Test Match between South Africa and India at SuperSport Park, Centurion.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="63" start="20220111055500 +0000" stop="20220111065500 +0000">
+    <title>WI v IRE: 1st ODI Hls (G)</title>
+    <desc>Highlights of the first One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="63" start="20220111065500 +0000" stop="20220111071500 +0000">
     <title>BBL: MS v AS Mini (G)</title>
     <desc>Mini highlights of the 43rd match of the Big Bash League between the Melbourne Stars and Adelaide Strikers at the MCG, Melbourne.</desc>
     <category>Cricket</category>
@@ -807,24 +817,24 @@
     <category>Watersports</category>
   </programme>
   <programme channel="87" start="20220111013000 +0000" stop="20220111020000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 1st Test Hls (G)</title>
     <desc>The French are back on Australian soil for the first time since 2014 as the Wallabies take on France from Suncorp Stadium in Brisbane.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220111020000 +0000" stop="20220111023000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 2nd Test Hls (G)</title>
     <desc>The Trophée des Bicentenaires is back up for grabs as the Wallabies take on France in the second test from AAMI Park in Melbourne.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220111023000 +0000" stop="20220111030000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 3rd Test Hls (G)</title>
     <desc>The Wallabies take on France in the third and final test from Suncorp Stadium in Brisbane.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220111030000 +0000" stop="20220111050000 +0000">
     <title>A-League Women (G)</title>
-    <desc>A-League Women Replay: Melbourne City Fc V Wellington Phoenix</desc>
-    <category>Soccer</category>
+    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="87" start="20220111050000 +0000" stop="20220111070000 +0000">
     <title>Gallagher Premiership (G)</title>
@@ -837,12 +847,12 @@
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220111090000 +0000" stop="20220111093000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 2nd Test Hls (G)</title>
     <desc>The Trophée des Bicentenaires is back up for grabs as the Wallabies take on France in the second test from AAMI Park in Melbourne.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220111093000 +0000" stop="20220111100000 +0000">
-    <title>Australia v France Hls (G)</title>
+    <title>Australia v France 3rd Test Hls (G)</title>
     <desc>The Wallabies take on France in the third and final test from Suncorp Stadium in Brisbane.</desc>
     <category>Rugby</category>
   </programme>
@@ -1268,12 +1278,12 @@
     <desc>Tune in next for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20220110170000 +0000" stop="20220111013000 +0000">
+  <programme channel="93" start="20220110170000 +0000" stop="20220111020000 +0000">
     <title>Coming Up: Tennis (G)</title>
     <desc>Tune in next for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20220111013000 +0000" stop="20220111053000 +0000">
+  <programme channel="93" start="20220111020000 +0000" stop="20220111053000 +0000">
     <title>LIVE: Adelaide International 2: Day 2 (G)</title>
     <desc>LIVE - ATP 250: Adelaide International 2. Tune in for all the action from Day 2 of the tournament as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
     <category>Tennis</category>
@@ -1389,19 +1399,29 @@
     <desc>Catch all the highlights and analysis from the latest round of games with the NBL Overtime crew.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20220111141500 +0000" stop="20220111223000 +0000">
-    <title>LIVE: WI v IRE: 2nd ODI (G)</title>
-    <desc>LIVE coverage of the second One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+  <programme channel="61" start="20220111141500 +0000" stop="20220111221500 +0000">
+    <title>WI v IRE: 1st ODI (G)</title>
+    <desc>Replay coverage of the first One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="61" start="20220111223000 +0000" stop="20220111230000 +0000">
+  <programme channel="61" start="20220111221500 +0000" stop="20220111223000 +0000">
+    <title>RSA v IND: 3rd Test Day 1 Mini (G)</title>
+    <desc>Mini highlights from Day 1 of third Test Match between South Africa and India at the Wanderers, Johannesburg.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20220111223000 +0000" stop="20220111224500 +0000">
+    <title>Road To Beijing: Alice Robinson (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220111224500 +0000" stop="20220111230000 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="61" start="20220111230000 +0000" stop="20220112070000 +0000">
     <title>LIVE: Tennis: AO Qualifying: Day 3 (G)</title>
-    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 3 from Melbourne Park in Melbourne, Victoria.</desc>
+    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 3 from Melbourne Park.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220112070000 +0000" stop="20220112073000 +0000">
@@ -1410,8 +1430,8 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220112073000 +0000" stop="20220112083000 +0000">
-    <title>RSA v IND: 1st ODI Hls (G)</title>
-    <desc>Highlights of the first One Day International between South Africa and India at Boland Park, Paarl.</desc>
+    <title>WI v IRE: 1st ODI Hls (G)</title>
+    <desc>Highlights of the first One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="61" start="20220112083000 +0000" stop="20220112090500 +0000">
@@ -1796,12 +1816,12 @@
     <desc>Replay PGA Tour. Sentry Tournament of Champions Round 3 played at Plantation Course at Kapalua, Maui, Hawaii.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20220111223000 +0000" stop="20220112023000 +0000">
+  <programme channel="84" start="20220111223000 +0000" stop="20220112023500 +0000">
     <title>PGA Tour: Round 4 (G)</title>
     <desc>Replay PGA Tour. Sentry Tournament of Champions Round 4 played at Plantation Course at Kapalua, Maui, Hawaii.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20220112023000 +0000" stop="20220112033000 +0000">
+  <programme channel="84" start="20220112023500 +0000" stop="20220112033000 +0000">
     <title>PGA European Sunshine Tour Hls (G)</title>
     <desc>Dimension Data Pro-Am is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Fancourt, George, South Africa.</desc>
     <category>Golf</category>
@@ -1861,17 +1881,17 @@
   </programme>
   <programme channel="85" start="20220111113000 +0000" stop="20220111120000 +0000">
     <title>FA Cup Mini (G)</title>
-    <desc>Swindon v Man City. The FA Cup is an annual knockout football competition in mens domestic English football.</desc>
+    <desc>Swindon v Manchester City</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20220111120000 +0000" stop="20220111123000 +0000">
     <title>FA Cup Mini (G)</title>
-    <desc>Chelsea v Chesterfield. The FA Cup is an annual knockout football competition in mens domestic English football.</desc>
+    <desc>Chelsea v Chesterfield</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20220111123000 +0000" stop="20220111130000 +0000">
     <title>A-League Women Mini (G)</title>
-    <desc>Melbourne City v Wellington Phoenix. The 14th season of the Australian national womens association football competition.</desc>
+    <desc>Melbourne City v Wellington Phoenix. The 14th season of the Australian national women's football competition.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20220111130000 +0000" stop="20220111144500 +0000">
@@ -2012,93 +2032,78 @@
     <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220111170000 +0000" stop="20220111174500 +0000">
+  <programme channel="86" start="20220111170000 +0000" stop="20220111184500 +0000">
     <title>LIVE: FIS Skiing Austria: W SL Run 1 (G)</title>
     <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom first run.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220111174500 +0000" stop="20220111190000 +0000">
-    <title>LIVE: FIS Skiing Austria: M &amp; W PSL (G)</title>
-    <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220111190000 +0000" stop="20220111194500 +0000">
-    <title>FIS Skiing - Austria: M SJ HS98 (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Ramsau, Austria with the Nordic Combined Men's SJ HS98 second run. English Commentary unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220111194500 +0000" stop="20220111204500 +0000">
-    <title>LIVE: FIS Skiing Austria: W SL Run 2 (G)</title>
-    <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom second run.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220111204500 +0000" stop="20220111213000 +0000">
-    <title>FIS Skiing Austria: W SL Run 1 Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom first run.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220111213000 +0000" stop="20220111224500 +0000">
-    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220111224500 +0000" stop="20220111233000 +0000">
-    <title>FIS Skiing Austria: W SL Run 2 Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom second run.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220111233000 +0000" stop="20220112010000 +0000">
-    <title>Adelaide International 2: Day 2 MOTD (G)</title>
-    <desc>Match of the day from Day 2 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="86" start="20220112010000 +0000" stop="20220112030000 +0000">
-    <title>Gallagher Premiership (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20220112030000 +0000" stop="20220112050000 +0000">
-    <title>Gallagher Premiership (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Harlequins host Exeter Chiefs at Twickenham Stoop.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20220112050000 +0000" stop="20220112070000 +0000">
-    <title>Japan Rugby League One (G)</title>
-    <desc>Replay coverage of Japan Rugby League One, as Kobelco Kobe Steelers host Shining Arcs Tokyo-Bay Urayasu at Noevir Stadium, Hyogo.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20220112070000 +0000" stop="20220112084500 +0000">
-    <title>Japan Rugby League One (G)</title>
-    <desc>Replay coverage of Japan Rugby League One, as Tokyo Sungoliath host Toshiba Brave Lupus Tokyo at Azinomoto Stadium, Tokyo.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20220112084500 +0000" stop="20220112091500 +0000">
+  <programme channel="86" start="20220111184500 +0000" stop="20220111191500 +0000">
     <title>French Top 14 Highlights Show (G)</title>
     <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="86" start="20220112091500 +0000" stop="20220112100000 +0000">
+  <programme channel="86" start="20220111191500 +0000" stop="20220111211500 +0000">
+    <title>LIVE: FIS Skiing Austria: W SL Run 2 (G)</title>
+    <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom second run.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220111211500 +0000" stop="20220111221500 +0000">
+    <title>ATP Cup: Review Show (G)</title>
+    <desc>Tune in for the review of the 2022 ATP Cup, the premier international team event in men’s tennis.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20220111221500 +0000" stop="20220111234500 +0000">
+    <title>Adelaide International 2: Day 2 MOTD (G)</title>
+    <desc>Match of the day from Day 2 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20220111234500 +0000" stop="20220112000500 +0000">
+    <title>A-League Men Mini Hls (G)</title>
+    <desc>A-League Mini Hls: Melbourne Victory v Western United</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112000500 +0000" stop="20220112020500 +0000">
+    <title>Gallagher Premiership (G)</title>
+    <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20220112020500 +0000" stop="20220112040500 +0000">
+    <title>Gallagher Premiership (G)</title>
+    <desc>Replay coverage of the Gallagher Premiership season as Harlequins host Exeter Chiefs at Twickenham Stoop.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20220112040500 +0000" stop="20220112055000 +0000">
     <title>FIS Skiing Austria: W SL Run 1 Replay (G)</title>
     <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom first run.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112100000 +0000" stop="20220112104500 +0000">
+  <programme channel="86" start="20220112055000 +0000" stop="20220112075000 +0000">
+    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112075000 +0000" stop="20220112095000 +0000">
     <title>FIS Skiing Austria: W SL Run 2 Replay (G)</title>
     <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom second run.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112104500 +0000" stop="20220112110000 +0000">
-    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
+  <programme channel="86" start="20220112095000 +0000" stop="20220112110000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Short Program takes place.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
     <display-name>sky-sport-9</display-name>
   </channel>
-  <programme channel="87" start="20220111110000 +0000" stop="20220111130000 +0000">
+  <programme channel="87" start="20220111110000 +0000" stop="20220111123000 +0000">
     <title>Snooker: Masters: Day 2 (G)</title>
     <desc>World Snooker Tour: Masters 2022: Day 2 Evening Session: The second longest running tournament in Snooker continues as Snooker's best compete at Alexandra Palace, London, England.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220111123000 +0000" stop="20220111130000 +0000">
+    <title>French Top 14 Highlights Show (G)</title>
+    <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="87" start="20220111130000 +0000" stop="20220111150000 +0000">
     <title>French Top 14 (G)</title>
@@ -2107,8 +2112,8 @@
   </programme>
   <programme channel="87" start="20220111150000 +0000" stop="20220111170000 +0000">
     <title>A-League Women (G)</title>
-    <desc>A-League Women Replay: Melbourne City Fc V Wellington Phoenix</desc>
-    <category>Soccer</category>
+    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="87" start="20220111170000 +0000" stop="20220111173000 +0000">
     <title>Australia v France Hls (G)</title>
@@ -2363,7 +2368,7 @@
   </programme>
   <programme channel="81" start="20220112000000 +0000" stop="20220112020000 +0000">
     <title>Live: College Basketball (G)</title>
-    <desc>Vanderbilt v Kentucky.</desc>
+    <desc>Vanderbilt v Kentucky: #16 Kentucky head into their match up against Vanderbilt as the heavy favourite as they have only lost 3 games so far this season.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220112020000 +0000" stop="20220112023000 +0000">
@@ -2378,7 +2383,7 @@
   </programme>
   <programme channel="81" start="20220112033000 +0000" stop="20220112060000 +0000">
     <title>Live: NBA (G)</title>
-    <desc>Clippers v Nuggets.</desc>
+    <desc>Clippers v Nuggets: Both the Nuggets and the Clippers are sitting within the Play-In contention and are looking to bust their way into solid playoff position.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220112060000 +0000" stop="20220112070000 +0000">
@@ -2398,12 +2403,12 @@
   </programme>
   <programme channel="81" start="20220112083000 +0000" stop="20220112090000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Los Angeles Lakers v Minnesota Timberwolves: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Clippers v Nuggets: Both the Nuggets and the Clippers are sitting within the Play-In contention and are looking to bust their way into solid playoff position.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220112090000 +0000" stop="20220112110000 +0000">
     <title>NBA (G)</title>
-    <desc>Clippers v Nuggets.</desc>
+    <desc>Clippers v Nuggets: Both the Nuggets and the Clippers are sitting within the Play-In contention and are looking to bust their way into solid playoff position.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="82">
@@ -2436,7 +2441,7 @@
   </programme>
   <programme channel="82" start="20220111170000 +0000" stop="20220111190000 +0000">
     <title>College Football (G)</title>
-    <desc>Alabama v Georgia Championship.</desc>
+    <desc>Alabama v Georgia Championship: It's the National Championship time. #1 powerhouse Alabama takes on #3 Georgia. The last time they met, Alabama won by 17 points in the final game of the season.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220111190000 +0000" stop="20220111200000 +0000">
@@ -2466,17 +2471,17 @@
   </programme>
   <programme channel="82" start="20220112010000 +0000" stop="20220112033000 +0000">
     <title>Live: NHL (G)</title>
-    <desc>Predators v Avalanche.</desc>
+    <desc>Predators v Avalanche: In a Central division showdown, the division leading Predators take on the Avalanche who sit only 4 points behind them for the division title.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220112033000 +0000" stop="20220112060000 +0000">
     <title>Live: NHL (G)</title>
-    <desc>Sharks v Red Wings.</desc>
+    <desc>Sharks v Red Wings: The Red Wings easily took care of the Sharks by 4 goals the last time they met in Detroit, will home advantage favour the Sharks this time around?</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220112060000 +0000" stop="20220112063000 +0000">
     <title>In Depth With (G)</title>
-    <desc>In Depth with Graham Bensinger: Tony Romo (2021).</desc>
+    <desc>Tony Romo: Former Dallas quarterback-turned-broadcaster Tony Romo gives his first interview since signing the contract that made him the highest-paid TV analyst ever.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220112063000 +0000" stop="20220112070000 +0000">
@@ -2491,7 +2496,7 @@
   </programme>
   <programme channel="82" start="20220112073000 +0000" stop="20220112093000 +0000">
     <title>NHL (G)</title>
-    <desc>Predators v Avalanche.</desc>
+    <desc>Predators v Avalanche: In a Central division showdown, the division leading Predators take on the Avalanche who sit only 4 points behind them for the division title.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220112093000 +0000" stop="20220112100000 +0000">
@@ -2501,7 +2506,7 @@
   </programme>
   <programme channel="82" start="20220112100000 +0000" stop="20220112110000 +0000">
     <title>NHL (G)</title>
-    <desc>Sharks v Red Wings.</desc>
+    <desc>Sharks v Red Wings: The Red Wings easily took care of the Sharks by 4 goals the last time they met in Detroit, will home advantage favour the Sharks this time around?</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -2512,7 +2517,17 @@
     <desc>Tune in next for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20220111170000 +0000" stop="20220112030000 +0000">
+  <programme channel="93" start="20220111170000 +0000" stop="20220111173000 +0000">
+    <title>Coming Up: Snowboarding (G)</title>
+    <desc>Tune in next for LIVE coverage of the FIS Austria Snowboard Men's and Women's Parallel Slalom.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220111173000 +0000" stop="20220111193000 +0000">
+    <title>LIVE: FIS Skiing Austria: M &amp; W PSL (G)</title>
+    <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220111193000 +0000" stop="20220112030000 +0000">
     <title>Coming Up: Tennis (G)</title>
     <desc>Tune in next for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
     <category>Sports</category>
@@ -2533,8 +2548,8 @@
     <category>Tennis</category>
   </programme>
   <programme channel="93" start="20220112103000 +0000" stop="20220112110000 +0000">
-    <title>Coming Up: Tennis (G)</title>
-    <desc>Tune in next for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
+    <title>Coming Up: Snowboarding (G)</title>
+    <desc>Tune in next for LIVE coverage of the FIS Austria Snowboard Team Parallel Slalom.</desc>
     <category>Sports</category>
   </programme>
   <channel id="60">
@@ -2598,22 +2613,27 @@
   <channel id="61">
     <display-name>sky-sport-2</display-name>
   </channel>
-  <programme channel="61" start="20220112110000 +0000" stop="20220112113000 +0000">
+  <programme channel="61" start="20220112110000 +0000" stop="20220112110500 +0000">
+    <title>A-League Men Highlights: Round 9 (G)</title>
+    <desc>A-League Men Highlights: Round 9</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20220112110500 +0000" stop="20220112113500 +0000">
     <title>BBL: MR v SS Hls (G)</title>
     <desc>Highlights of the 45th match of the Big Bash League between the Melbourne Renegades and Sydney Sixers at GMHBA Stadium, Geelong.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="61" start="20220112113000 +0000" stop="20220112120000 +0000">
+  <programme channel="61" start="20220112113500 +0000" stop="20220112120500 +0000">
     <title>All Blacks v Wallabies Hls (G)</title>
     <desc>Bledisloe Cup Game 1 Highlights: All Blacks v Wallabies from Eden Park. The home side will be looking to protect a 27 year unbeaten record at the fortress, in what will be a special night for Aaron Smith as he clocks up his 100th test cap.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="61" start="20220112120000 +0000" stop="20220112123000 +0000">
+  <programme channel="61" start="20220112120500 +0000" stop="20220112123500 +0000">
     <title>All Blacks v Wallabies Hls (G)</title>
     <desc>Highlights: 2021 Bledisloe Cup Game 2: All Blacks v Wallabies from Eden Park.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="61" start="20220112123000 +0000" stop="20220112143000 +0000">
+  <programme channel="61" start="20220112123500 +0000" stop="20220112143000 +0000">
     <title>Gallagher Premiership (G)</title>
     <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
     <category>Rugby</category>
@@ -2655,7 +2675,7 @@
   </programme>
   <programme channel="61" start="20220112230000 +0000" stop="20220113070000 +0000">
     <title>LIVE: Tennis: AO Qualifying: Day 4 (G)</title>
-    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 4 from Melbourne Park in Melbourne, Victoria.</desc>
+    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 4 from Melbourne Park.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220113070000 +0000" stop="20220113080000 +0000">
@@ -3196,69 +3216,74 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20220112110000 +0000" stop="20220112120000 +0000">
-    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220112120000 +0000" stop="20220112130000 +0000">
-    <title>LIVE: FIS Skiing Austria: PSL Team (G)</title>
-    <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Snowboard Team PSL.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220112130000 +0000" stop="20220112143000 +0000">
-    <title>Adelaide International 2: Day 2 MOTD (G)</title>
-    <desc>Match of the day from Day 2 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="86" start="20220112143000 +0000" stop="20220112163000 +0000">
-    <title>A-League Women (G)</title>
-    <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220112163000 +0000" stop="20220112165000 +0000">
-    <title>A-League Mini Hls: ADL v WEL (G)</title>
-    <desc>A-League Mini Hls: Adelaide United V Wellington Phoenix</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220112165000 +0000" stop="20220112220000 +0000">
+  <programme channel="86" start="20220112110000 +0000" stop="20220112150500 +0000">
     <title>LIVE: ISU European Championships (G)</title>
     <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Short Program takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112220000 +0000" stop="20220112230000 +0000">
-    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
+  <programme channel="86" start="20220112150500 +0000" stop="20220112151500 +0000">
+    <title>A-League Men Mini Hls (G)</title>
+    <desc>A-League Mini Hls: Melbourne Victory v Western United</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112230000 +0000" stop="20220112233000 +0000">
-    <title>LIVE: ISU European Championships (G)</title>
-    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
+  <programme channel="86" start="20220112151500 +0000" stop="20220112153000 +0000">
+    <title>Road To Beijing: Nico Porteous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112233000 +0000" stop="20220112234500 +0000">
+  <programme channel="86" start="20220112153000 +0000" stop="20220112154500 +0000">
+    <title>Road To Beijing: Alice Robinson (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112154500 +0000" stop="20220112160000 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220112234500 +0000" stop="20220113040000 +0000">
+  <programme channel="86" start="20220112160000 +0000" stop="20220112163000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112163000 +0000" stop="20220112202500 +0000">
     <title>LIVE: ISU European Championships (G)</title>
     <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Short Program takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220113040000 +0000" stop="20220113091000 +0000">
-    <title>ISU European Championships Replay (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Short Program takes place.</desc>
-    <category>Sports</category>
+  <programme channel="86" start="20220112202500 +0000" stop="20220112212500 +0000">
+    <title>ATP Cup: Review Show (G)</title>
+    <desc>Tune in for the review of the 2022 ATP Cup, the premier international team event in men’s tennis.</desc>
+    <category>Tennis</category>
   </programme>
-  <programme channel="86" start="20220113091000 +0000" stop="20220113094000 +0000">
+  <programme channel="86" start="20220112212500 +0000" stop="20220112215000 +0000">
     <title>ISU European Championships Replay (G)</title>
     <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20220113094000 +0000" stop="20220113110000 +0000">
+  <programme channel="86" start="20220112215000 +0000" stop="20220112233000 +0000">
+    <title>FIS Skiing Austria: PSL Team Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Snowboard Team PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220112233000 +0000" stop="20220113044500 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Men's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113044500 +0000" stop="20220113051000 +0000">
+    <title>ISU European Championships Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113051000 +0000" stop="20220113090500 +0000">
     <title>ISU European Championships Replay (G)</title>
     <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Short Program takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113090500 +0000" stop="20220113110000 +0000">
+    <title>LIVE: ISU European Championships (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Women's Short Program takes place.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -3485,24 +3510,29 @@
   <channel id="81">
     <display-name>espn</display-name>
   </channel>
-  <programme channel="81" start="20220112110000 +0000" stop="20220112140000 +0000">
+  <programme channel="81" start="20220112110000 +0000" stop="20220112123000 +0000">
     <title>College Basketball (G)</title>
-    <desc>College Basketball</desc>
+    <desc>Michigan v Purdue.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20220112123000 +0000" stop="20220112140000 +0000">
+    <title>College Basketball (G)</title>
+    <desc>Baylor v Texas Tech: Reigning champion, undefeated and #1 ranked Baylor host #25 Texas Tech. They will have their work cut out for them in this match up.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220112140000 +0000" stop="20220112143000 +0000">
-    <title>College Basketball (G)</title>
-    <desc>Baylor v Texas Tech.</desc>
+    <title>NBA Mini (G)</title>
+    <desc>Clippers v Nuggets: Both the Nuggets and the Clippers are sitting within the Play-In contention and are looking to bust their way into solid playoff position.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220112143000 +0000" stop="20220112153000 +0000">
     <title>UFC Unleashed (G)</title>
-    <desc>UFC Unleashed: Fights of the Night Winners. UFC Unleashed features the best fights from the UFC archives, all in one show.</desc>
+    <desc>Fights of the Night Winners: UFC Unleashed features the best fights from the UFC archives, all in one show.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20220112153000 +0000" stop="20220112160000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Lakers v Timberwolves: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Clippers v Nuggets: Both the Nuggets and the Clippers are sitting within the Play-In contention and are looking to bust their way into solid playoff position.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220112160000 +0000" stop="20220112170000 +0000">
@@ -3562,12 +3592,12 @@
   </programme>
   <programme channel="81" start="20220113004500 +0000" stop="20220113030500 +0000">
     <title>Live: NBA (G)</title>
-    <desc>Knicks v Mavericks.</desc>
+    <desc>Knicks v Mavericks: The Mavericks have appeared to turn around a slow start and now face the Knicks who have struggled to turn around their own slow start.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113030500 +0000" stop="20220113053500 +0000">
     <title>Live: NBA (G)</title>
-    <desc>Bulls v Nets.</desc>
+    <desc>Bulls v Nets: Two of the top Eastern contenders clash as the red hot Bulls face the star studded Nets. The Bulls have won the previous 2 games this season.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113053500 +0000" stop="20220113063500 +0000">
@@ -3575,29 +3605,34 @@
     <desc>with Scott Van Pelt: Scott Van Pelt hosts ESPN's signature news and highlights show, with interviews and unique segments including bad beats of the week.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="81" start="20220113063500 +0000" stop="20220113073000 +0000">
+  <programme channel="81" start="20220113063500 +0000" stop="20220113070000 +0000">
     <title>World of X: Red Bull Super Skicross 2021 (G)</title>
     <desc>World of X: Red Bull Super Skicross 2021</desc>
     <category>Sports</category>
   </programme>
+  <programme channel="81" start="20220113070000 +0000" stop="20220113073000 +0000">
+    <title>SC: UFC Fight Camp (M)</title>
+    <desc>Includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits from the world of UFC.</desc>
+    <category>Fight Sport</category>
+  </programme>
   <programme channel="81" start="20220113073000 +0000" stop="20220113080000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Knicks v Mavericks: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Knicks v Mavericks: The Mavericks have appeared to turn around a slow start and now face the Knicks who have struggled to turn around their own slow start.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113080000 +0000" stop="20220113083000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Bulls v Nets: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Bulls v Nets: Two of the top Eastern contenders clash as the red hot Bulls face the star studded Nets. NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113083000 +0000" stop="20220113103000 +0000">
     <title>Live: NBL (G)</title>
-    <desc>Illawarra Hawks v Sydney Kings: One of the leagues roughest rivalries writes another chapter as the Kings leave Sydney to face the Hawks in Wollongong.</desc>
+    <desc>Hawks v Kings: One of the leagues roughest rivalries writes another chapter as the Kings leave Sydney to face the Hawks in Wollongong.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113103000 +0000" stop="20220113110000 +0000">
     <title>NBA (G)</title>
-    <desc>Knicks v Mavericks.</desc>
+    <desc>Knicks v Mavericks: The Mavericks have appeared to turn around a slow start and now face the Knicks who have struggled to turn around their own slow start.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="82">
@@ -3605,7 +3640,7 @@
   </channel>
   <programme channel="82" start="20220112110000 +0000" stop="20220112120000 +0000">
     <title>NHL (G)</title>
-    <desc>Sharks v Red Wings.</desc>
+    <desc>Sharks v Red Wings: The Red Wings easily took care of the Sharks by 4 goals the last time they met in Detroit, will home advantage favour the Sharks this time around?</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220112120000 +0000" stop="20220112123000 +0000">
@@ -3615,7 +3650,7 @@
   </programme>
   <programme channel="82" start="20220112123000 +0000" stop="20220112130000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Lakers v Timberwolves: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Clippers v Nuggets: Both the Nuggets and the Clippers are sitting within the Play-In contention and are looking to bust their way into solid playoff position.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220112130000 +0000" stop="20220112150000 +0000">
@@ -3630,7 +3665,7 @@
   </programme>
   <programme channel="82" start="20220112170000 +0000" stop="20220112173000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Lakers v Timberwolves: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Clippers v Nuggets: Both the Nuggets and the Clippers are sitting within the Play-In contention and are looking to bust their way into solid playoff position.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220112173000 +0000" stop="20220112183000 +0000">
@@ -3650,7 +3685,7 @@
   </programme>
   <programme channel="82" start="20220112213000 +0000" stop="20220112233000 +0000">
     <title>First Take (G)</title>
-    <desc>Stephen A . Smith and host Molly Qerim Rose are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
+    <desc>Stephen A . Smith and host Molly Qerim are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220112233000 +0000" stop="20220113000000 +0000">
@@ -3660,7 +3695,7 @@
   </programme>
   <programme channel="82" start="20220113000000 +0000" stop="20220113023000 +0000">
     <title>Live: NHL (G)</title>
-    <desc>Canadiens v Bruins.</desc>
+    <desc>Bruins v Canadiens: The Bruins have been one of the hottest teams in the league and have risen up the leaderboards as they face the Canadiens who are having a sluggish season.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220113023000 +0000" stop="20220113030000 +0000">
@@ -3670,32 +3705,32 @@
   </programme>
   <programme channel="82" start="20220113030000 +0000" stop="20220113053000 +0000">
     <title>Live: NHL (G)</title>
-    <desc>Coyotes v Maple Leafs.</desc>
+    <desc>Coyotes v Maple Leafs: A cross continental clash as the Maple leafs, who are vying for the top spot of their division face the Coyotes who are hoping to turn around a disastrous season thus far.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220113053000 +0000" stop="20220113060000 +0000">
-    <title>SC: UFC Fight Camp (M)</title>
-    <desc>This is Australia and New Zealand's weekly UFC Show.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="82" start="20220113060000 +0000" stop="20220113063000 +0000">
-    <title>Around the Horn (G)</title>
-    <desc>Host Tony Reali and a rotating panel of four journalists from across the country banter about sports stories of the day in a competitive game format.</desc>
+    <title>In Depth With (G)</title>
+    <desc>Living on the Edge: Featuring some of the world's thrill-seekers from free solo climber Alex Honnold to big wave surfer Laird Hamilton as they recall their most extreme stunts.</desc>
     <category>Sports</category>
   </programme>
+  <programme channel="82" start="20220113060000 +0000" stop="20220113063000 +0000">
+    <title>SC: UFC Fight Camp (M)</title>
+    <desc>Australia and New Zealand's weekly UFC Show includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits fro...</desc>
+    <category>Fight Sport</category>
+  </programme>
   <programme channel="82" start="20220113063000 +0000" stop="20220113070000 +0000">
-    <title>Pardon the Interruption (G)</title>
-    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a provocative and fast-paced format that combines candid opinion...</desc>
+    <title>Around the Horn (G)</title>
+    <desc>Tony Reali and a rotating panel of journalists from across the country banter about sports stories of the day in a competitive game format.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220113070000 +0000" stop="20220113073000 +0000">
-    <title>SC: UFC Fight Camp (M)</title>
-    <desc>This is Australia and New Zealand's weekly UFC Show.</desc>
-    <category>Fight Sport</category>
+    <title>Pardon the Interruption (G)</title>
+    <desc>Sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a format that combines candid opinions, insights and humour.</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="82" start="20220113073000 +0000" stop="20220113093000 +0000">
     <title>NHL (G)</title>
-    <desc>Canadiens v Bruins.</desc>
+    <desc>Bruins v Canadiens: The Bruins have been one of the hottest teams in the league and have risen up the leaderboards as they face the Canadiens who are having a sluggish season.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220113093000 +0000" stop="20220113100000 +0000">
@@ -3705,13 +3740,23 @@
   </programme>
   <programme channel="82" start="20220113100000 +0000" stop="20220113110000 +0000">
     <title>NHL (G)</title>
-    <desc>Coyotes v Maple Leafs.</desc>
+    <desc>Coyotes v Maple Leafs: A cross continental clash as the Maple leafs, who are vying for the top spot of their division face the Coyotes who are hoping to turn around a disastrous season thus far.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
     <display-name>sky-sport-popup-1</display-name>
   </channel>
-  <programme channel="93" start="20220112110000 +0000" stop="20220112170000 +0000">
+  <programme channel="93" start="20220112110000 +0000" stop="20220112114500 +0000">
+    <title>Coming Up: Snowboarding (G)</title>
+    <desc>Tune in next for LIVE coverage of the FIS Austria Snowboard Team Parallel Slalom.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220112114500 +0000" stop="20220112132500 +0000">
+    <title>LIVE: FIS Skiing Austria: PSL Team (G)</title>
+    <desc>LIVE: Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Snowboard Team PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20220112132500 +0000" stop="20220112170000 +0000">
     <title>Coming Up: Tennis (G)</title>
     <desc>Tune in next for LIVE coverage of the ATP 250: Adelaide International 2 from Adelaide, South Australia.</desc>
     <category>Sports</category>
@@ -4010,7 +4055,7 @@
   </programme>
   <programme channel="63" start="20220113230000 +0000" stop="20220114070000 +0000">
     <title>LIVE: Tennis: AO Qualifying: Day 5 (G)</title>
-    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park in Melbourne, Victoria.</desc>
+    <desc>LIVE coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="63" start="20220114070000 +0000" stop="20220114073000 +0000">
@@ -4395,30 +4440,25 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20220113110000 +0000" stop="20220113140000 +0000">
-    <title>ISU European Championships Replay (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Pair's Short Program takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220113140000 +0000" stop="20220113145000 +0000">
-    <title>FIS Skiing Austria: W SL Run 1 Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom first run.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220113145000 +0000" stop="20220113154000 +0000">
-    <title>FIS Skiing Austria: W SL Run 2 Replay (G)</title>
-    <desc>Join us as we continue the Alpine Ski World Cup season in Flachau with the Women's Alpine Slalom second run.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220113154000 +0000" stop="20220113161500 +0000">
-    <title>ISU European Championships Replay (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Opening Ceremony takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20220113161500 +0000" stop="20220113220000 +0000">
+  <programme channel="86" start="20220113110000 +0000" stop="20220113130500 +0000">
     <title>LIVE: ISU European Championships (G)</title>
     <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating European Championships from Tallinn, Estonia as the Women's Short Program takes place.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113130500 +0000" stop="20220113150500 +0000">
+    <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Men's &amp; Women's Snowboard PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113150500 +0000" stop="20220113164500 +0000">
+    <title>FIS Skiing Austria: PSL Team Replay (G)</title>
+    <desc>Join us as we continue the Alpine Ski World Cup season in Bad Gastein with the Snowboard Team PSL.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20220113164500 +0000" stop="20220113220000 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
   </programme>
   <programme channel="86" start="20220113220000 +0000" stop="20220113230000 +0000">
     <title>FIS Skiing Austria: M &amp; W PSL Replay (G)</title>
@@ -4483,17 +4523,22 @@
     <desc>A-League Women Replay: Melbourne City V Wellington Phoenix</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220113170000 +0000" stop="20220114010000 +0000">
+  <programme channel="87" start="20220113170000 +0000" stop="20220114004500 +0000">
     <title>WSL Tweed Coast Pro: Day 2 Replay (G)</title>
     <desc>Best of 2020: Replay coverage of WSL Tweed Coast Pro 2020 for all the action of Day 2, straight out of Tweed Heads, NSW, Australia.</desc>
     <category>Watersports</category>
   </programme>
-  <programme channel="87" start="20220114010000 +0000" stop="20220114020000 +0000">
-    <title>A-League Women Highlights: Round 6 (G)</title>
-    <desc>A-League Women Highlights: Round 6</desc>
-    <category>Soccer</category>
+  <programme channel="87" start="20220114004500 +0000" stop="20220114010000 +0000">
+    <title>Road To Beijing: Zoi Sadowski -Synnott (G)</title>
+    <desc>Road To Beijing: Zoi Sadowski -Synnott</desc>
+    <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220114020000 +0000" stop="20220114050000 +0000">
+  <programme channel="87" start="20220114010000 +0000" stop="20220114030000 +0000">
+    <title>LIVE: IronMan and IronWoman: Round 1 (G)</title>
+    <desc>Nutri-Grain Series Round 1: The opening rounds of the 20/21 Nutri-Grain IronMan and IronWoman Series, held at North Bondi Beach, NSW</desc>
+    <category>Athletics</category>
+  </programme>
+  <programme channel="87" start="20220114030000 +0000" stop="20220114050000 +0000">
     <title>Snooker: Masters: Day 5 (G)</title>
     <desc>World Snooker Tour: Masters 2022: Day 5 Afternoon Session: One of the Triple Crown events and the second longest running tournament in Snooker returns as Snooker's best compete at Alexandra Palace, London, England.</desc>
     <category>Sports</category>
@@ -4503,15 +4548,20 @@
     <desc>World Snooker Tour: Masters 2022: Day 4 Evening Session: The second longest running tournament in Snooker history continues as Snooker's best compete at Alexandra Palace, London, England.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220114080000 +0000" stop="20220114093000 +0000">
-    <title>Adelaide International 2: SF1 (G)</title>
-    <desc>Semi-Final 1 from Day 6 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+  <programme channel="87" start="20220114080000 +0000" stop="20220114083000 +0000">
+    <title>AO Classics: Williams v Wang 2020 (G)</title>
+    <desc>Tune in for the match highlights from Serena Williams vs Qiang Wang in the third round of the 2020 Australian Open.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="87" start="20220114093000 +0000" stop="20220114110000 +0000">
-    <title>Adelaide International 2: SF2 (G)</title>
-    <desc>Semi-Final 2 from Day 6 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+  <programme channel="87" start="20220114083000 +0000" stop="20220114090000 +0000">
+    <title>Australian Open Flashbacks (G)</title>
+    <desc>Former champions and finalists reflect on their biggest matches and moments at the Australian Open, providing an insight to the culture of tennis both on and off the court the past 40 years.</desc>
     <category>Tennis</category>
+  </programme>
+  <programme channel="87" start="20220114090000 +0000" stop="20220114110000 +0000">
+    <title>Ironman And Ironwoman: Round 1 (G)</title>
+    <desc>Nutri-Grain Ironman And Ironwoman Round 1 Replay</desc>
+    <category>Athletics</category>
   </programme>
   <channel id="88">
     <display-name>sky-sport-news</display-name>
@@ -4646,22 +4696,22 @@
   </channel>
   <programme channel="81" start="20220113110000 +0000" stop="20220113123000 +0000">
     <title>NBA (G)</title>
-    <desc>Knicks v Mavericks.</desc>
+    <desc>Knicks v Mavericks: The Mavericks have appeared to turn around a slow start and now face the Knicks who have struggled to turn around their own slow start.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113123000 +0000" stop="20220113143000 +0000">
     <title>NBA (G)</title>
-    <desc>Bulls v Nets.</desc>
+    <desc>Bulls v Nets: Two of the top Eastern contenders clash as the red hot Bulls face the star studded Nets. The Bulls have won the previous 2 games this season.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113143000 +0000" stop="20220113150000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Knicks v Mavericks: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Knicks v Mavericks: The Mavericks have appeared to turn around a slow start and now face the Knicks who have struggled to turn around their own slow start.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113150000 +0000" stop="20220113153000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Bulls v Nets: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Bulls v Nets: Two of the top Eastern contenders clash as the red hot Bulls face the star studded Nets. NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113153000 +0000" stop="20220113170000 +0000">
@@ -4686,7 +4736,7 @@
   </programme>
   <programme channel="81" start="20220113200000 +0000" stop="20220113210000 +0000">
     <title>Live: NBA Today (G)</title>
-    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide in-depth dail...</desc>
+    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide daily coverag...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220113210000 +0000" stop="20220113220000 +0000">
@@ -4696,12 +4746,12 @@
   </programme>
   <programme channel="81" start="20220113220000 +0000" stop="20220113223000 +0000">
     <title>Around the Horn (G)</title>
-    <desc>Host Tony Reali and a rotating panel of four journalists from across the country banter about sports stories of the day in a competitive game format.</desc>
+    <desc>Host Tony Reali and journalists banter about sports stories of the day in a competitive game format.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20220113223000 +0000" stop="20220113230000 +0000">
     <title>Pardon the Interruption (G)</title>
-    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a provocative and fast-paced format that combines candid opinion...</desc>
+    <desc>Sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a format that combines candid opinions, insights and humour.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20220113230000 +0000" stop="20220114000000 +0000">
@@ -4716,7 +4766,7 @@
   </programme>
   <programme channel="81" start="20220114003000 +0000" stop="20220114030000 +0000">
     <title>Live: NBA (G)</title>
-    <desc>Bucks v Warriors.</desc>
+    <desc>Bucks v Warriors: The Warriors finally have Klay Thompson back on their strong roster and now face the reigning champions in the Bucks.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220114030000 +0000" stop="20220114053000 +0000">
@@ -4726,12 +4776,12 @@
   </programme>
   <programme channel="81" start="20220114053000 +0000" stop="20220114060000 +0000">
     <title>SC: UFC Fight Camp (M)</title>
-    <desc>This is Australia and New Zealand's weekly UFC Show.</desc>
+    <desc>Australia and New Zealand's weekly UFC Show includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits fro...</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20220114060000 +0000" stop="20220114080000 +0000">
     <title>NBA (G)</title>
-    <desc>Bucks v Warriors.</desc>
+    <desc>Bucks v Warriors: The Warriors finally have Klay Thompson back on their strong roster and now face the reigning champions in the Bucks.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220114080000 +0000" stop="20220114083000 +0000">
@@ -4739,38 +4789,43 @@
     <desc>The Jump brings you the most thoughtful basketball opinions on the players, games and stories that matter - a basketball show for Aussie and Kiwi hoops fans with big names and big energy.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20220114083000 +0000" stop="20220114110000 +0000">
+  <programme channel="81" start="20220114083000 +0000" stop="20220114103000 +0000">
     <title>30 For 30 (G)</title>
     <desc>Four Falls of Buffalo: The Buffalo Bills went to four straight Super Bowls from 1990-1993, but they aren't remembered for that feat, they're remembered for losing each one of them.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="81" start="20220114103000 +0000" stop="20220114110000 +0000">
+    <title>NBA (G)</title>
+    <desc>Nuggets v Trail Blazers.</desc>
+    <category>US Sports</category>
   </programme>
   <channel id="82">
     <display-name>espn2</display-name>
   </channel>
   <programme channel="82" start="20220113110000 +0000" stop="20220113120000 +0000">
     <title>NHL (G)</title>
-    <desc>Coyotes v Maple Leafs.</desc>
+    <desc>Coyotes v Maple Leafs: A cross continental clash as the Maple leafs, who are vying for the top spot of their division face the Coyotes who are hoping to turn around a disastrous season thus far.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20220113120000 +0000" stop="20220113130000 +0000">
-    <title>World of X (G)</title>
-    <desc>SLS Super Crown World Championship Jacksonsville.</desc>
-    <category>Sports</category>
+  <programme channel="82" start="20220113120000 +0000" stop="20220113133000 +0000">
+    <title>College Basketball (G)</title>
+    <desc>Virginia v Virginia Tech.</desc>
+    <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20220113130000 +0000" stop="20220113150000 +0000">
+  <programme channel="82" start="20220113133000 +0000" stop="20220113150000 +0000">
     <title>Live: Get Up (G)</title>
     <desc>Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220113150000 +0000" stop="20220113170000 +0000">
     <title>Live: First Take (G)</title>
-    <desc>Stephen A . Smith and host Molly Qerim Rose are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
+    <desc>Stephen A . Smith and host Molly Qerim are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220113170000 +0000" stop="20220113180000 +0000">
-    <title>Salomon Golden Trail Series (G)</title>
-    <desc>L'olla de Nuria.</desc>
-    <category>Athletics</category>
+    <title>Cape to Cape Australia 2021 (G)</title>
+    <desc>Cape to Cape Australia 2021</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="82" start="20220113180000 +0000" stop="20220113200000 +0000">
     <title>Get Up (G)</title>
@@ -4784,7 +4839,7 @@
   </programme>
   <programme channel="82" start="20220113210000 +0000" stop="20220113230000 +0000">
     <title>First Take (G)</title>
-    <desc>Stephen A . Smith and host Molly Qerim Rose are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
+    <desc>Stephen A . Smith and host Molly Qerim are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220113230000 +0000" stop="20220114000000 +0000">
@@ -4794,7 +4849,7 @@
   </programme>
   <programme channel="82" start="20220114000000 +0000" stop="20220114023000 +0000">
     <title>Live: NHL (G)</title>
-    <desc>Bruins v Flyers.</desc>
+    <desc>Bruins v Flyers: With a game a piece in the season series, the 3rd and final game between the Flyers and Bruins will decide who wins the season series.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220114023000 +0000" stop="20220114043000 +0000">
@@ -4808,23 +4863,18 @@
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220114060000 +0000" stop="20220114063000 +0000">
-    <title>Around the Horn (G)</title>
-    <desc>Host Tony Reali and a rotating panel of four journalists from across the country banter about sports stories of the day in a competitive game format.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20220114063000 +0000" stop="20220114070000 +0000">
     <title>Pardon the Interruption (G)</title>
-    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a provocative and fast-paced format that combines candid opinion...</desc>
+    <desc>Sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a format that combines candid opinions, insights and humour.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="82" start="20220114070000 +0000" stop="20220114083000 +0000">
-    <title>College Basketball (G)</title>
-    <desc>Wisconsin v Ohio State.</desc>
-    <category>US Sports</category>
+  <programme channel="82" start="20220114063000 +0000" stop="20220114083000 +0000">
+    <title>AMA Supercross Highlights (G)</title>
+    <desc>Stadium motorcycle racing on dirt tracks featuring the best known names in motorcycles.</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="82" start="20220114083000 +0000" stop="20220114090000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Bucks v Warriors: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Bucks v Warriors: The Warriors finally have Klay Thompson back on their strong roster and now face the reigning champions in the Bucks. NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220114090000 +0000" stop="20220114093000 +0000">
@@ -4844,7 +4894,7 @@
   </programme>
   <programme channel="82" start="20220114103000 +0000" stop="20220114110000 +0000">
     <title>NHL (G)</title>
-    <desc>Bruins v Flyers.</desc>
+    <desc>Bruins v Flyers: With a game a piece in the season series, the 3rd and final game between the Flyers and Bruins will decide who wins the season series.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -5164,7 +5214,7 @@
   </programme>
   <programme channel="63" start="20220115043000 +0000" stop="20220115053000 +0000">
     <title>Tennis: AO Qualifying: Day 5 Hls (G)</title>
-    <desc>Highlights coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park in Melbourne, Victoria.</desc>
+    <desc>Highlights coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="63" start="20220115053000 +0000" stop="20220115060000 +0000">
@@ -5522,30 +5572,45 @@
   <channel id="87">
     <display-name>sky-sport-9</display-name>
   </channel>
-  <programme channel="87" start="20220114110000 +0000" stop="20220114113000 +0000">
+  <programme channel="87" start="20220114110000 +0000" stop="20220114111500 +0000">
+    <title>Road To Beijing: Nico Porteous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220114111500 +0000" stop="20220114113000 +0000">
     <title>Road To Beijing: Alice Robinson (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220114113000 +0000" stop="20220114120000 +0000">
+  <programme channel="87" start="20220114113000 +0000" stop="20220114114500 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Finn Bilous.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220114120000 +0000" stop="20220114123000 +0000">
-    <title>Road To Beijing: Margaux Hackett</title>
-    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Margaux Hackett.</desc>
+  <programme channel="87" start="20220114114500 +0000" stop="20220114120000 +0000">
+    <title>Road To Beijing: Nico Porteous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220114123000 +0000" stop="20220114143000 +0000">
+  <programme channel="87" start="20220114120000 +0000" stop="20220114123000 +0000">
+    <title>French Top 14 Highlights Show (G)</title>
+    <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="87" start="20220114123000 +0000" stop="20220114142000 +0000">
     <title>French Top 14 (G)</title>
     <desc>Replay coverage from Round 15 of the French Top 14 season as Brive host Bordeaux Begles at Stade Amédée-Domenech.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="87" start="20220114143000 +0000" stop="20220114163000 +0000">
+  <programme channel="87" start="20220114142000 +0000" stop="20220114161500 +0000">
     <title>Gallagher Premiership (G)</title>
     <desc>Replay coverage of the Gallagher Premiership season as Wasps host Leicester Tigers at Coventry Building Society Arena.</desc>
     <category>Rugby</category>
+  </programme>
+  <programme channel="87" start="20220114161500 +0000" stop="20220114163000 +0000">
+    <title>Road To Beijing: Nico Porteous (G)</title>
+    <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Nico Porteous.</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="87" start="20220114163000 +0000" stop="20220114170000 +0000">
     <title>La Vuelta Stage 1 Hls (G)</title>
@@ -5622,15 +5687,10 @@
     <desc>Highlights - La Vuelta 2021. Stage 15 travels in 193.4 kilometres from Navalmoral de La Mata to El Barraco. Four climbs spice up the last 100 kilometres before the finale is a 5.4 kilometres descent into the valley of the Alberche river.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20220115000000 +0000" stop="20220115003000 +0000">
-    <title>La Vuelta Stage 16 Hls (G)</title>
-    <desc>Highlights - La Vuelta 2021. Tune in for Stage 16, this goes from Laredo to Santa Cruz de Bezana. The race along the Cantabrian coast is 170.8 kilometres long. Fairly sprinter-friendly course.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20220115003000 +0000" stop="20220115010000 +0000">
-    <title>La Vuelta Stage 17 Hls (G)</title>
-    <desc>Highlights - La Vuelta 2021. Tune in for Stage 17,  is a mountainous test of 181.6 kilometres long. The infamous climb to the Lagos de Covadonga serves as the finale of a race with three intermediate ascents. Unquera &gt; Lagos De Covadonga.</desc>
-    <category>Cycling</category>
+  <programme channel="87" start="20220115000000 +0000" stop="20220115010000 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
   </programme>
   <programme channel="87" start="20220115010000 +0000" stop="20220115013000 +0000">
     <title>La Vuelta Stage 18 Hls (G)</title>
@@ -5839,23 +5899,23 @@
     <display-name>espn</display-name>
   </channel>
   <programme channel="81" start="20220114110000 +0000" stop="20220114123000 +0000">
-    <title>30 For 30 (G)</title>
-    <desc>Four Falls of Buffalo: The Buffalo Bills went to four straight Super Bowls from 1990-1993, but they aren't remembered for that feat, they're remembered for losing each one of them.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="81" start="20220114123000 +0000" stop="20220114143000 +0000">
     <title>NBA (G)</title>
     <desc>Nuggets v Trail Blazers.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20220114143000 +0000" stop="20220114150000 +0000">
+  <programme channel="81" start="20220114123000 +0000" stop="20220114130000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Bucks v Warriors: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <desc>Bucks v Warriors: The Warriors finally have Klay Thompson back on their strong roster and now face the reigning champions in the Bucks. NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20220114150000 +0000" stop="20220114153000 +0000">
+  <programme channel="81" start="20220114130000 +0000" stop="20220114133000 +0000">
     <title>NBA Mini (G)</title>
     <desc>Nuggets v Trail Blazers: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20220114133000 +0000" stop="20220114153000 +0000">
+    <title>NBA (G)</title>
+    <desc>Bucks v Warriors: The Warriors finally have Klay Thompson back on their strong roster and now face the reigning champions in the Bucks.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220114153000 +0000" stop="20220114170000 +0000">
@@ -5880,7 +5940,7 @@
   </programme>
   <programme channel="81" start="20220114200000 +0000" stop="20220114210000 +0000">
     <title>Live: NBA Today (G)</title>
-    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide in-depth dail...</desc>
+    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide daily coverag...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220114210000 +0000" stop="20220114220000 +0000">
@@ -5890,12 +5950,12 @@
   </programme>
   <programme channel="81" start="20220114220000 +0000" stop="20220114223000 +0000">
     <title>Around the Horn (G)</title>
-    <desc>Host Tony Reali and a rotating panel of four journalists from across the country banter about sports stories of the day in a competitive game format.</desc>
+    <desc>Host Tony Reali and journalists banter about sports stories of the day in a competitive game format.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20220114223000 +0000" stop="20220114230000 +0000">
     <title>Pardon the Interruption (G)</title>
-    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a provocative and fast-paced format that combines candid opinion...</desc>
+    <desc>Sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a format that combines candid opinions, insights and humour.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20220114230000 +0000" stop="20220115000000 +0000">
@@ -5915,7 +5975,7 @@
   </programme>
   <programme channel="81" start="20220115004500 +0000" stop="20220115030500 +0000">
     <title>Live: NBA (G)</title>
-    <desc>76ers v Celtics.</desc>
+    <desc>Bulls v Warriors.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220115030500 +0000" stop="20220115053500 +0000">
@@ -5935,7 +5995,7 @@
   </programme>
   <programme channel="81" start="20220115083000 +0000" stop="20220115090000 +0000">
     <title>Live: The Crossover (G)</title>
-    <desc>A laid-back, light-hearted yet punchy show, the Crossover dishes up a little bit of everything for every basketball fan; the latest hoops news from around the world, key storylines, features, inter...</desc>
+    <desc>The latest hoops news from around the world, key storylines, features, interviews and plenty of discussion and debate around issues, highlights and performances.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20220115090000 +0000" stop="20220115110000 +0000">
@@ -5948,12 +6008,12 @@
   </channel>
   <programme channel="82" start="20220114110000 +0000" stop="20220114123000 +0000">
     <title>NHL (G)</title>
-    <desc>Bruins v Flyers.</desc>
+    <desc>Bruins v Flyers: With a game a piece in the season series, the 3rd and final game between the Flyers and Bruins will decide who wins the season series.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220114123000 +0000" stop="20220114130000 +0000">
     <title>SC: UFC Fight Camp (M)</title>
-    <desc>This is Australia and New Zealand's weekly UFC Show.</desc>
+    <desc>Australia and New Zealand's weekly UFC Show includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits fro...</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="82" start="20220114130000 +0000" stop="20220114150000 +0000">
@@ -5963,7 +6023,7 @@
   </programme>
   <programme channel="82" start="20220114150000 +0000" stop="20220114170000 +0000">
     <title>Live: First Take (G)</title>
-    <desc>Stephen A . Smith and host Molly Qerim Rose are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
+    <desc>Stephen A . Smith and host Molly Qerim are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220114170000 +0000" stop="20220114200000 +0000">
@@ -5973,22 +6033,22 @@
   </programme>
   <programme channel="82" start="20220114200000 +0000" stop="20220114220000 +0000">
     <title>First Take (G)</title>
-    <desc>Stephen A . Smith and host Molly Qerim Rose are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
+    <desc>Stephen A . Smith and host Molly Qerim are joined by analysts, insiders and celebrity guests to debate the hottest stories in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220114220000 +0000" stop="20220114223000 +0000">
     <title>SC: UFC Fight Camp (M)</title>
-    <desc>This is Australia and New Zealand's weekly UFC Show.</desc>
+    <desc>Australia and New Zealand's weekly UFC Show includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits fro...</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="82" start="20220114223000 +0000" stop="20220114230000 +0000">
     <title>Live: UFC Live (M)</title>
-    <desc>Produced live on location of each UFC event, UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout t...</desc>
+    <desc>Kattar vs. Chikadze: UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout the UFC season.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="82" start="20220114230000 +0000" stop="20220114233000 +0000">
     <title>30 for 30 Shorts (G)</title>
-    <desc>Wilt Chamberlain: Borscht Belt Bellhop / Britney Griner: Lifesize. Wilt Chamberlain: Archival footage and interviews with people who lived and worked with Wilt Chamberlain.</desc>
+    <desc>Wilt Chamberlain: Borscht Belt Bellhop / Britney Griner: Lifesize. Wilt Chamberlain: Footage and interviews with people who lived and worked with Wilt Chamberlain.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220114233000 +0000" stop="20220115000000 +0000">
@@ -6003,12 +6063,12 @@
   </programme>
   <programme channel="82" start="20220115020000 +0000" stop="20220115043000 +0000">
     <title>Live: NHL (G)</title>
-    <desc>Oilers v Golden Knights.</desc>
+    <desc>Avalanche v Coyotes.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220115043000 +0000" stop="20220115050000 +0000">
     <title>UFC Live (M)</title>
-    <desc>Produced live on location of each UFC event, UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout t...</desc>
+    <desc>Kattar vs. Chikadze: UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout the UFC season.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="82" start="20220115050000 +0000" stop="20220115060000 +0000">
@@ -6018,12 +6078,12 @@
   </programme>
   <programme channel="82" start="20220115060000 +0000" stop="20220115063000 +0000">
     <title>NFL Films (G)</title>
-    <desc>NFL Films showcases behind the scenes access to NFL players and coaches of the current season. Each program follows a different theme taking the fan deeper into the NFL realm.</desc>
+    <desc>Remembering Fallen Heroes: Ep 16: VOICES OF THE GAME:Talking football runs in Kevin Harlan's family?Jason Wright's voice is being heard in Washington?</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220115063000 +0000" stop="20220115083000 +0000">
     <title>NBA (G)</title>
-    <desc>76ers v Celtics.</desc>
+    <desc>Bulls v Warriors.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220115083000 +0000" stop="20220115090000 +0000">
@@ -6043,7 +6103,7 @@
   </programme>
   <programme channel="82" start="20220115100000 +0000" stop="20220115110000 +0000">
     <title>NHL (G)</title>
-    <desc>Oilers v Golden Knights.</desc>
+    <desc>Avalanche v Coyotes.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -6196,9 +6256,9 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220116040000 +0000" stop="20220116060000 +0000">
-    <title>LIVE NBL R7: SYD v NZ Breakers (G)</title>
-    <desc>LIVE NBL R7: SYD v NZ Breakers</desc>
-    <category>Sports</category>
+    <title>LIVE: NBL R7: SYD V NZ Breakers (G)</title>
+    <desc>Join us for LIVE coverage from Round 7 of the 2021/22 NBL Season as the Sydney Kings take on the NZ Breakers at the Qudos Bank Arena in Sydney.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220116060000 +0000" stop="20220116063000 +0000">
     <title>Quad Netball Hls TBC (G)</title>
@@ -6212,8 +6272,8 @@
   </programme>
   <programme channel="61" start="20220116070000 +0000" stop="20220116091000 +0000">
     <title>LIVE: A-League Women: WEL v BRI (G)</title>
-    <desc>A-League Women Live: Wellington Phoenix V Brisbane Roar Fc</desc>
-    <category>Soccer</category>
+    <desc>A-League Women Live: Wellington Phoenix V Brisbane Roar</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="61" start="20220116091000 +0000" stop="20220116110000 +0000">
     <title>A-League Men (G)</title>
@@ -6243,24 +6303,24 @@
     <desc>LIVE Champions Cup: Wasps v Toulouse.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="62" start="20220115193000 +0000" stop="20220115204500 +0000">
+  <programme channel="62" start="20220115193000 +0000" stop="20220115203000 +0000">
     <title>The Ashes: 5th Test Day 2 Hls (G)</title>
     <desc>Highlights from Day 2 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220115204500 +0000" stop="20220116010000 +0000">
-    <title>LIVE: WI v IRE: 1st T20 (G)</title>
-    <desc>LIVE coverage of the first T20 International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+  <programme channel="62" start="20220115203000 +0000" stop="20220116040000 +0000">
+    <title>WI v IRE: 3rd ODI (G)</title>
+    <desc>Replay coverage of the third One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220116010000 +0000" stop="20220116013000 +0000">
-    <title>BBL: MR v MS Hls (G)</title>
-    <desc>Highlights of the 48th Big Bash League match between the Melbourne Renegades and Melbourne Stars at Marvel Stadium, Melbourne.</desc>
+  <programme channel="62" start="20220116040000 +0000" stop="20220116043000 +0000">
+    <title>BBL: AS v PS Hls (G)</title>
+    <desc>Highlights of the 49th Big Bash League match between the Adelaide Strikers and Perth Scorchers at the Adelaide Oval, Adelaide.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220116013000 +0000" stop="20220116050000 +0000">
-    <title>BBL: SS v ST (G)</title>
-    <desc>Replay coverage of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
+  <programme channel="62" start="20220116043000 +0000" stop="20220116050000 +0000">
+    <title>BBL: SS v ST Hls (G)</title>
+    <desc>Highlights of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20220116050000 +0000" stop="20220116071000 +0000">
@@ -6843,27 +6903,27 @@
   </programme>
   <programme channel="87" start="20220115173000 +0000" stop="20220115183000 +0000">
     <title>Tennis: AO Qualifying: Day 5 Hls (G)</title>
-    <desc>Highlights coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park in Melbourne, Victoria.</desc>
+    <desc>Highlights coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="87" start="20220115183000 +0000" stop="20220115190000 +0000">
-    <title>Rugby: WAL v FIJ Hls (G)</title>
-    <desc>Highlights of Wales hosting Fiji from Cardiff.</desc>
-    <category>Rugby</category>
+    <title>La Vuelta Stage 16 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for Stage 16, this goes from Laredo to Santa Cruz de Bezana. The race along the Cantabrian coast is 170.8 kilometres long. Fairly sprinter-friendly course.</desc>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20220115190000 +0000" stop="20220115193000 +0000">
-    <title>Rugby: WAL v AUS Hls (G)</title>
-    <desc>Highlights of the Welsh hosting the Wallabies from Cardiff.</desc>
-    <category>Rugby</category>
+    <title>La Vuelta Stage 17 Hls (G)</title>
+    <desc>Highlights - La Vuelta 2021. Tune in for Stage 17,  is a mountainous test of 181.6 kilometres long. The infamous climb to the Lagos de Covadonga serves as the finale of a race with three intermediate ascents. Unquera &gt; Lagos De Covadonga.</desc>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20220115193000 +0000" stop="20220115203000 +0000">
     <title>Tennis: AO Qualifying: Day 5 Hls (G)</title>
-    <desc>Highlights coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park in Melbourne, Victoria.</desc>
+    <desc>Highlights coverage of the 2022 Australian Open Qualifying Tournament. Tune in for Day 5, the final day, from Melbourne Park.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="87" start="20220115203000 +0000" stop="20220115223000 +0000">
     <title>Adelaide International 2: Final (G)</title>
-    <desc>Replay coverage of the Final from Day 7 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <desc>Replay coverage of the Final from Day 6 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="87" start="20220115223000 +0000" stop="20220116003000 +0000">
@@ -6871,15 +6931,15 @@
     <desc>Champions Cup: Wasps v Toulouse Replay</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20220116003000 +0000" stop="20220116023000 +0000">
-    <title>Champions Cup: EXE v GLA Replay (G)</title>
-    <desc>Champions Cup: Exeter Chiefs v Glasgow Warriors Replay</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20220116023000 +0000" stop="20220116030000 +0000">
+  <programme channel="87" start="20220116003000 +0000" stop="20220116010000 +0000">
     <title>Road To Beijing: Alice Robinson (G)</title>
     <desc>Tune in each week as count down to the Beijing Winter Olympics. This week we are joined by Alice Robinson.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20220116010000 +0000" stop="20220116030000 +0000">
+    <title>LIVE: Ironman And Ironwoman Round 3 (G)</title>
+    <desc>Nutri-Grain Ironman And Ironwoman Round 3: The opening rounds of the 20/21 Nutri-Grain IronMan and IronWoman Series, held at North Bondi Beach, NSW.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="87" start="20220116030000 +0000" stop="20220116033000 +0000">
     <title>Road To Beijing: Finn Bilous (G)</title>
@@ -6995,9 +7055,9 @@
     <category>Cricket</category>
   </programme>
   <programme channel="88" start="20220115203000 +0000" stop="20220115210000 +0000">
-    <title>NBL R7: PER v NZ Breakers Hls (G)</title>
-    <desc>NBL R7: PER v NZ Breakers Hls</desc>
-    <category>Sports</category>
+    <title>NBL R7: TAS V NZ Breakers Hls (G)</title>
+    <desc>Join us for highlights from Round 7 of the 2021/22 NBL Season as the Tasmanian Jackjumpers take on the NZ Breakers at the Mystate Arena in Tasmania.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="88" start="20220115210000 +0000" stop="20220115213000 +0000">
     <title>ATP Uncovered (G)</title>
@@ -7122,17 +7182,17 @@
   </channel>
   <programme channel="82" start="20220115110000 +0000" stop="20220115120000 +0000">
     <title>NHL (G)</title>
-    <desc>Oilers v Golden Knights.</desc>
+    <desc>Avalanche v Coyotes.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20220115120000 +0000" stop="20220115130000 +0000">
-    <title>E:60 (G)</title>
-    <desc>A Love Story: An all new E60: The daughter of an NHL superstar, a working class wrestling coach, a devastating diagnosis - and a story of unwavering love.</desc>
+    <title>Cape to Cape Australia 2021 (G)</title>
+    <desc>Cape to Cape Australia 2021</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220115130000 +0000" stop="20220115140000 +0000">
     <title>E:60 (G)</title>
-    <desc>BONDS: In this E60 special, Jeremy Schaap hosts a look back at Barry Bonds' career in the context of his Hall of candidacy. The numbers are staggering.</desc>
+    <desc>BONDS: In this E60 special, Jeremy Schaap hosts a look back at Barry Bonds' career in the context of his Hall of candidacy.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20220115140000 +0000" stop="20220115150000 +0000">
@@ -7147,7 +7207,7 @@
   </programme>
   <programme channel="82" start="20220115160000 +0000" stop="20220115170000 +0000">
     <title>Live: College GameDay (G)</title>
-    <desc>Host Rece Davis and analysts Jay Bilas, Seth Greenberg and LaPhonso Ellis cover all the angles in college basketball with game previews, exclusive interviews, analysis, behind-the-scenes features a...</desc>
+    <desc>Host Rece Davis and analysts Jay Bilas, Seth Greenberg and LaPhonso Ellis cover all the angles in college basketball with previews, exclusive interviews, analysis, BTS features and daring predictions.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -7261,7 +7321,7 @@
   </programme>
   <programme channel="61" start="20220116111000 +0000" stop="20220116131000 +0000">
     <title>Adelaide International 2: Final (G)</title>
-    <desc>Replay coverage of the Final from Day 7 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
+    <desc>Replay coverage of the Final from Day 6 of the ATP 250: Adelaide International 2. Tune in as the world's top tennis players go head-to-head in Adelaide, South Australia.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220116131000 +0000" stop="20220116134000 +0000">
@@ -7280,9 +7340,9 @@
     <category>Sports</category>
   </programme>
   <programme channel="61" start="20220116144000 +0000" stop="20220116151000 +0000">
-    <title>NBL R7: SYD v Breakers hls (G)</title>
-    <desc>NBL R7: SYD v Breakers hls</desc>
-    <category>Sports</category>
+    <title>NBL R7: SYD V NZ Breakers Hls (G)</title>
+    <desc>Join us for highlights from Round 7 of the 2021/22 NBL Season as the Sydney Kings take on the NZ Breakers at the Qudos Bank Arena in Sydney.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="61" start="20220116151000 +0000" stop="20220116172500 +0000">
     <title>LIVE Champions Cup: WSP v TLS (G)</title>
@@ -7357,24 +7417,24 @@
     <desc>Replay coverage from Day 3 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220116192000 +0000" stop="20220116194000 +0000">
-    <title>BBL: SS v ST Mini (G)</title>
-    <desc>Mini highlights of the 50th match of the Big Bash League between the Sydney Sixers and Sydney Thunder at the SCG, Sydney.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20220116194000 +0000" stop="20220116200000 +0000">
+  <programme channel="62" start="20220116192000 +0000" stop="20220116194500 +0000">
     <title>BBL: MS v BH Mini (G)</title>
     <desc>Mini highlights of the 51st match of the Big Bash League match between the Melbourne Stars and Brisbane Heat at the MCG, Melbourne.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220116200000 +0000" stop="20220116210000 +0000">
+  <programme channel="62" start="20220116194500 +0000" stop="20220116204500 +0000">
     <title>The Ashes: 5th Test Day 3 Hls (G)</title>
     <desc>Highlights from Day 3 of the fifth Ashes Test between Australia and England at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20220116210000 +0000" stop="20220117043000 +0000">
-    <title>WI v IRE: 3rd ODI (G)</title>
-    <desc>Replay coverage of the third One Day International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+  <programme channel="62" start="20220116204500 +0000" stop="20220117010000 +0000">
+    <title>LIVE: WI v IRE: 1st T20 (G)</title>
+    <desc>LIVE coverage of the first T20 International between the West Indies and Ireland at Sabina Park, Jamaica.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20220117010000 +0000" stop="20220117043000 +0000">
+    <title>BBL: MS v BH (G)</title>
+    <desc>Replay coverage of the 51st match of the Big Bash League match between the Melbourne Stars and Brisbane Heat at the MCG, Melbourne.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20220117043000 +0000" stop="20220117080000 +0000">
@@ -7895,8 +7955,8 @@
   </programme>
   <programme channel="88" start="20220116150000 +0000" stop="20220116170000 +0000">
     <title>A-League Women: WEL v BRI (G)</title>
-    <desc>A-League Women Replay: Wellington Phoenix V Brisbane Roar Fc</desc>
-    <category>Soccer</category>
+    <desc>A-League Women Replay: Wellington Phoenix V Brisbane Roar</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="88" start="20220116170000 +0000" stop="20220116173000 +0000">
     <title>PGA Round 3 Hls (G)</title>
