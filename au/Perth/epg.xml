@@ -1062,14 +1062,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220113233000 +0000" stop="20220114000000 +0000">
-    <title>ABC News Video Lab</title>
+    <title>The World in 2021</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220113233000 +0000" stop="20220114000000 +0000">
-    <title>The World in 2021</title>
-    <subtitles type="teletext"/>
+    <title>ABC News Video Lab</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -40108,13 +40108,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112063000 +0000">
+  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112061500 +0000">
     <title>Our Stories</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112061500 +0000">
+  <programme channel="tv.320203000305" start="20220112060000 +0000" stop="20220112063000 +0000">
     <title>Our Stories</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -42550,6 +42550,41 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20220111012229 +0000" stop="20220111020554 +0000">
+    <title>Red Bull Soapbox Race S6E3</title>
+    <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
+    <sub-title>Lisbon, Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111020554 +0000" stop="20220111021742 +0000">
+    <title>Everyday Eileen S1E1</title>
+    <desc>Discover how freeskier Eileen Gu lives four different lives – but 'being a teenager' is always part of it.</desc>
+    <sub-title>Big lifts on take-off and Stanford accepted</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111021742 +0000" stop="20220111022441 +0000">
+    <title>Everyday Eileen S1E2</title>
+    <desc>Eileen Gu entered the 2021 Winter X Games as an Aspen rookie and won three medals to make competition history.</desc>
+    <sub-title>Making X Games history</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111022441 +0000" stop="20220111023453 +0000">
+    <title>Everyday Eileen S1E3</title>
+    <desc>From the mountains to the runway, Eileen Gu finds her feet in the two worlds of skiing and modelling.</desc>
+    <sub-title>New York cover shoot</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111023453 +0000" stop="20220111024357 +0000">
+    <title>Everyday Eileen S1E4</title>
+    <desc>Freeskier Eileen Gu wins two gold medals and a bronze at the FIS World Championships despite being injured.</desc>
+    <sub-title>World Championships glory</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111024357 +0000" stop="20220111030919 +0000">
+    <title>No Small Feat S2E1</title>
+    <desc>Meet Annie Reickert and Moana Jones as they carve out careers as professional surfers.</desc>
+    <sub-title>All in a day's work</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220111030919 +0000" stop="20220111033849 +0000">
+    <title>No Small Feat S2E2</title>
+    <desc>Annie Reickert surfs at Jaws, while Moana Jones competes in the Vans Triple Crown of Surfing.</desc>
+    <sub-title>Chasing the crown</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20220111033849 +0000" stop="20220111042052 +0000">
     <title>Chasing Winter</title>
     <desc>Follow Mark McMorris and friends as they prepare for the high-stakes 2022 competition season.</desc>
@@ -42816,51 +42851,6 @@
     <title>Behind the Visor</title>
     <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
     <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112030711 +0000" stop="20220112031730 +0000">
-    <title>The Ultimate Run S1E1</title>
-    <desc>One of the most versatile skiers on the planet fuses all of his abilities to create the ultimate dream run.</desc>
-    <sub-title>The Ultimate Run</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112031730 +0000" stop="20220112033511 +0000">
-    <title>The Ultimate Run S1E2</title>
-    <desc>Markus Eder and film director Christoph Thoresen reflect on two special years of creating their masterpiece.</desc>
-    <sub-title>Behind the scenes</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112033511 +0000" stop="20220112034315 +0000">
-    <title>The Ultimate Run S1E3</title>
-    <desc>With Markus's skiing career at a crossroads, watch how a childhood dream opens a thrilling new door.</desc>
-    <sub-title>Markus Eder: Reinvention</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112034315 +0000" stop="20220112035200 +0000">
-    <title>The Ultimate Run S1E4</title>
-    <desc>The Ultimate Run would not be possible without a close circle of friends that Markus still looks up to.</desc>
-    <sub-title>Markus Eder: Roots</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112035200 +0000" stop="20220112041319 +0000">
-    <title>Bas Keep: More Walls</title>
-    <desc>BMX star Sebastian Keep rides makeshift ramps and obstacles in the urban landscape of city centres in the UK.</desc>
-    <sub-title>Sebastian Keep makes the city his BMX playground</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112041319 +0000" stop="20220112042831 +0000">
-    <title>Raising the Bar S1E1</title>
-    <desc>After success in New Zealand, Erik Fedko heads to Sweden to check out Emil Johansson’s favourite home spots.</desc>
-    <sub-title>Erik Fedko checks out Emil Johansson's home spots</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112042831 +0000" stop="20220112044342 +0000">
-    <title>Raising the Bar S1E2</title>
-    <desc>As Crankworx Innsbruck returns for 2021, Erik Fedko and Emil Johansson prepare to put on a show.</desc>
-    <sub-title>Big hits at Crankworx Innsbruck</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112044342 +0000" stop="20220112050010 +0000">
-    <title>Raising the Bar S1E3</title>
-    <desc>Summer's arrived, which means it’s time for Emil and Erik to send it at the progressive Audi Nines MTB event.</desc>
-    <sub-title>Competing at Audi Nines</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220112050010 +0000" stop="20220112052209 +0000">
-    <title>Raising the Bar S1E4</title>
-    <desc>After sending it at Crankworx SilverStar in Canada, Erik explores BC, while Emil heads to Vancouver Island.</desc>
-    <sub-title>Exploring British Columbia</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
